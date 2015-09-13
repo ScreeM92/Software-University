@@ -1,0 +1,23 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+/* header */
+#header{
+	background-color: #234465;
+	height: 100px;
+}
+#header ul ,li {
+	display: inline-block;
+}
+/* login */
+.login {
+	margin-top: 30px;
+}
+/* Singin */
+.singin {
+	margin-top: 30px;
+}
+#fName , #lName, #city, #age , #inputPassword3 {
+	margin-bottom: 15px;
+}

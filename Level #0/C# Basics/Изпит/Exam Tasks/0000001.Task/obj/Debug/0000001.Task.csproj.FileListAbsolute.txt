@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\0000001.Task\bin\Debug\0000001.Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпитни задачи\0000001.Task\bin\Debug\0000001.Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\0000001.Task\bin\Debug\0000001.Task.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\0000001.Task\obj\Debug\0000001.Task.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Изпитни задачи\0000001.Task\obj\Debug\0000001.Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\0000001.Task\obj\Debug\0000001.Task.pdb
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\0000001.Task\bin\Debug\0000001.Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\0000001.Task\obj\Debug\0000001.Task.exe
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\0000001.Task\obj\Debug\0000001.Task.pdb

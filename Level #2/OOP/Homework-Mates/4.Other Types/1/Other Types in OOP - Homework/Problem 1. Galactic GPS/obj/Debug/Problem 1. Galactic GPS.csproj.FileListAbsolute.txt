@@ -1,0 +1,15 @@
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.exe.config
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.exe
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.pdb
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem 1. Galactic GPS.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.exe
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.pdb
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.exe.config
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.exe
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.pdb
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.exe.config
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.exe
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\4.Other Types\1\Other Types in OOP - Homework\Problem 1. Galactic GPS\bin\Debug\Problem_1.Galactic_GPS.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\4.Other Types\1\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\4.Other Types\1\Other Types in OOP - Homework\Problem 1. Galactic GPS\obj\Debug\Problem_1.Galactic_GPS.pdb

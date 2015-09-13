@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\9.Common Type System\1\02.StringDisperser\bin\Debug\02.StringDisperser.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\9.Common Type System\1\02.StringDisperser\bin\Debug\02.StringDisperser.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\9.Common Type System\1\02.StringDisperser\bin\Debug\02.StringDisperser.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\9.Common Type System\1\02.StringDisperser\obj\Debug\02.StringDisperser.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\9.Common Type System\1\02.StringDisperser\obj\Debug\02.StringDisperser.pdb

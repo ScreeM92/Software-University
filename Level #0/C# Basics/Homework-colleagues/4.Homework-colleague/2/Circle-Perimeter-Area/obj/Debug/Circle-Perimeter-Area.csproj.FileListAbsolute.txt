@@ -1,0 +1,4 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Circle-Perimeter-Area\bin\Debug\Circle-Perimeter-Area.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Circle-Perimeter-Area\bin\Debug\Circle-Perimeter-Area.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Circle-Perimeter-Area\obj\Debug\Circle-Perimeter-Area.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Circle-Perimeter-Area\obj\Debug\Circle-Perimeter-Area.pdb

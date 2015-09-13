@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Books</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script src="libs/jquery.noty.packaged.min.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <section id="books-wrapper">
+            <div id="add-section">
+                <button id="add-book-toggle">Add book</button>
+                <div id="add-details">
+                    <input type="text" id="book-title" placeholder="Title..." />
+                    <input type="text" id="book-author" placeholder="Author..." />
+                    <input type="text" id="book-isbn" placeholder="Isbn..."/>
+                    <button id="add-book">Add</button>
+                </div>
+            </div>
+            <ul id="books">
+            </ul>
+        </section>
+    </div>
+    <script src="scripts/requester.js"></script>
+    <script src="scripts/model.js"></script>
+    <script src="scripts/viewModel.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+</html>

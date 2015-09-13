@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateN!K!\bin\Debug\CalculateN!K!.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateN!K!\bin\Debug\CalculateN!K!.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateN!K!\bin\Debug\CalculateN!K!.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateN!K!\obj\Debug\CalculateNK.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateN!K!\obj\Debug\CalculateN!K!.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateN!K!\obj\Debug\CalculateN!K!.pdb

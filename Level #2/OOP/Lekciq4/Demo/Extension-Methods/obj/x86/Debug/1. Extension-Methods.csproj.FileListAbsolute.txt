@@ -1,0 +1,4 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Extension-Methods\bin\Debug\Extension-Methods.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Extension-Methods\bin\Debug\Extension-Methods.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Extension-Methods\obj\x86\Debug\Extension-Methods.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Extension-Methods\obj\x86\Debug\Extension-Methods.pdb

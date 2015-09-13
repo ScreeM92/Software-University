@@ -1,0 +1,35 @@
+*N: change project name to Battlefields
+*F: moved using statements inside namespaces; made classes public; 
+*F: fixed indentation (removed unnecessary blank lines, added new lines between methods); 
+*F: surrounded if and loop statements in curly brackets
+*F: initial renaming of variables/methods => pozicii -> positions, PrebroiOstavashtiteMinichki -> GetRemainingMinesCount
+*F: made positions field private, turned it into char[,]; cosmetic changes in DisplayField method; 
+*F: replaced Int32 with built-in alias int; removed useless comments; replaced substring extraction of coordinates with Split() and Parse();
+*F: renamed local variables to start with lower-case letters; added a struct cell; added method to detonate a cell which checks if its coordinates are valid
+*F: detonation methods changed to return an array of cells to detonate, then iterate them and detonate all cells in range
+*F: Separated logic in several files - BattlefieldApp (main class), Battlefield (containing core logic), Cell struct and PatternFactory(generating arrays of cells to be detonated)
+*F: implemented singleton pattern - made constructor private; exposed getter that returns an instance; made field size a property with private setter
+*F: created boolean method to check if a given cell is a mine; made increment of detonated mines private (happens automatically on cell detonation)
+*F: made several methods private, exposed only needed functionality; removed unused variables; changed nested loops with foreach in GetRemainingMIesCountMethod
+*F: moved variables to inner scope; renamed flag to isMinePlaced; fixed numerous StyleCop warnings; TODO: documentation
+*S: change Pattern Factory class's methods to return Lists in order to make methods shorter
+*N: change Pattern Factory class's methods to receive as argument Cell instance instead of xCoordinate and yCoordinate; did the same for methods DetonateMine and IsCellMine in Battlefield class;
+*N: create method GetCellToExplode in BattlefieldApp that returns cellToExplode
+*N: made Battlefield class sealed
+*N: changed method Create in Battlefield to user ?? operator instead of if statement
+*N: moved this.DetonatedMines++ from method GetRemainingMinesCount to DetonateMine
+*N: create method GetBattleFieldSize in BattlefieldApp that returns the size of the board
+*N: made const variables for MinBombsPercentage and MaxBombsPercentage
+*S: XML Documentation to Pattern Factory
+*S: XML Documentation to Battlefield and split DetonateMine-> Detonate Mine, CellsToExplode
+*F: Renamed method, minor formatting fixes
+*F: Separated files in folders; added more documentation; attempting to mock
+*S: Added Test project, and started testing Pattern Factory
+*F: Added additional documentation; replaced do-while loops with while loops
+*S: Finished testing Pattern Factory
+*N: Fix Pattern Factory GenerateFifthDetonationPattern Test; add Battlefield tests;
+*F: Extracted an interface for the battlefield
+*F: Decoupled app from console by extracting two interfaces for input/output, along with two implementations - console renderer and console input handler
+*F: Created game engine to hold game logic
+*F: Separated messages into a static class with constants
+*F: Decoupled battlefield class from console by injecting a renderer; completed code documentation

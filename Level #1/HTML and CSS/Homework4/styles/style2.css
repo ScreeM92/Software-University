@@ -1,0 +1,40 @@
+h1, p, div, embed, audio, video {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#main{
+    background-color: #ffc0cb;
+    width: 1000px;
+    height: 610px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 5px;
+    margin-bottom:0;
+}
+/*#firstDiv{*/
+    /*margin: 5px;*/
+/*}*/
+#meterOne{
+    width: 140px;
+}
+div{
+    float:left;
+    vertical-align: top;
+    margin: 0 0 0 10px;
+}
+figure{
+    margin: 0px;
+    height: 150px;
+    width: 170px;
+    margin-bottom: 5px;
+ }
+/*#secondDiv{*/
+    /*margin-left: 5px;*/
+    /*margin-top: -10px;*/
+/*}*/

@@ -1,0 +1,8 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

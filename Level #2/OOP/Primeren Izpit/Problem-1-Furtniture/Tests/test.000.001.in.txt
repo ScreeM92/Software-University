@@ -1,0 +1,44 @@
+CreateCompany DivaniUniversity 1234567890
+CreateCompany HladilniciPlus 0987654321
+ShowCompanyCatalog DivaniUniversity
+CreateTable MyMasa wooden 123.4 0.50 0.45 0.65
+CreateChair MyStol leather 99.99 1.20 5 Normal
+CreateChair SitefinityDivan leather 111.56 0.80 4 Adjustable
+CreateChair AJAXControlsTaburetka plastic 80.00 1.00 3 Convertible
+CreateChair SitefinityShtyrkel leather 111.56 0.80 4 Normal
+ShowCompanyCatalog HladilniciPlus
+AddFurnitureToCompany HladilniciPlus MyMasa
+AddFurnitureToCompany HladilniciPlus SitefinityShtyrkel
+AddFurnitureToCompany HladilniciPlus MyMasa
+AddFurnitureToCompany HladilniciPlus SitefinityDivan
+ShowCompanyCatalog HladilniciPlus
+ShowCompanyCatalog DivaniUniversity
+AddFurnitureToCompany DivaniUniversity MyMasa
+AddFurnitureToCompany DivaniUniversity MyStol
+AddFurnitureToCompany DivaniUniversity AJAXControlsTaburetka
+AddFurnitureToCompany DivaniUniversity SitefinityDivan
+ShowCompanyCatalog DivaniUniversity
+ShowCompanyCatalog HladilniciPlus
+RemoveFurnitureFromCompany HladilniciPlus MyMasa
+ShowCompanyCatalog HladilniciPlus
+FindFurnitureFromCompany HladilniciPlus MyMasa
+FindFurnitureFromCompany HladilniciPlus SitefinityDivan
+RemoveFurnitureFromCompany DivaniUniversity SitefinityDivan
+RemoveFurnitureFromCompany DivaniUniversity SitefinityDivan
+ShowCompanyCatalog DivaniUniversity
+FindFurnitureFromCompany DivaniUniversity SitefinityDivan
+FindFurnitureFromCompany DivaniUniversity AJAXControlsTaburetka
+FindFurnitureFromCompany DivaniUniversity MyStol
+CreateCompany KenovAndSonBiura 6666666666
+CreateChair PeshoBiuro plastic 0.99 0.67 4 Adjustable
+AddFurnitureToCompany KenovAndSonBiura PeshoBiuro
+SetChairHeight PeshoBiuro 1.11
+FindFurnitureFromCompany KenovAndSonBiura PeshoBiuro
+CreateChair GoshoFotiol wooden 1.99 0.95 1 Convertible
+AddFurnitureToCompany KenovAndSonBiura GoshoFotiol
+ConvertChair GoshoFotiol
+FindFurnitureFromCompany KenovAndSonBiura GoshoFotiol
+ConvertChair GoshoFotiol
+FindFurnitureFromCompany KenovAndSonBiura GoshoFotiol
+ConvertChair GoshoFotiol
+ShowCompanyCatalog KenovAndSonBiura

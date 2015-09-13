@@ -1,0 +1,9 @@
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.csprojResolveAssemblyReference.cache
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.pdb
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\03.CheckForPlayCard\bin\Debug\03.CheckForPlayCard.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\03.CheckForPlayCard\obj\Debug\03.CheckForPlayCard.pdb

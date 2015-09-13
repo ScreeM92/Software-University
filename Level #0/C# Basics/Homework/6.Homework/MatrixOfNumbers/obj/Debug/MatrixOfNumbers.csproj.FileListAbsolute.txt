@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

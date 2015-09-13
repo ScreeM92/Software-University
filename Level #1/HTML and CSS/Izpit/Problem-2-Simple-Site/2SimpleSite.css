@@ -1,0 +1,176 @@
+@import url('http://fonts.googleapis.com/css?family=Patua+One');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Georgia;
+}
+#wrapper header #header1{
+    text-align: center;
+    display: block;
+}
+#wrapper header #header1 h1{
+    font-size: 45px;
+    display: inline-block;
+    font-family: Patua One;
+}
+#wrapper header #header1 h6{
+    font-size: 12px;
+    font-family: Georgia;
+    color: #a7afb2;
+    font-style: italic;
+}
+#wrapper header #header1 h1 a{
+    text-decoration: none;
+    color: black;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #a7afb2;
+    padding: 4px;
+}
+#logo{
+    position: relative;
+    top: 7px;
+    height: 45px;
+}
+#wrapper > header{
+    width: 564px;
+    margin: 0 auto;
+}
+#wrapper nav ul{
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-top: 1px dashed lightgray;
+    border-bottom: 1px dashed lightgray;
+    text-align: center;
+}
+#wrapper nav ul li{
+    display: inline-block;
+    margin: 5px;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+    color: lightgray;
+}
+#pic{
+    text-align: center;
+}
+main{
+    width: 960px;
+    margin: 0 auto;
+}
+#important{
+    text-align: center;
+    padding: 20px;
+    border-top: 1px dashed lightgray;
+    border-bottom: 1px dashed lightgray;
+    margin-left: 50px;
+    width: 600px;
+    color: #a7afb2;
+    margin-top: 30px;
+}
+#important p{
+    font-size: 12px;
+}
+#important h2{
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+#not-important{
+    color: #a7afb2;
+    width: 690px;
+}
+#not-important header h2{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 30px;
+}
+#not-important p{
+    font-size: 15.4px;
+}
+aside ul{
+    list-style-type: none;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+aside div{
+     font-size: 13px;
+ }
+aside ul li a{
+    text-decoration: none;
+    font-size: 12px;
+}
+form{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+form input[type="text"]{
+    height: 20px;
+    width: 100px;
+    background-color: #f9f9f9;
+}
+button{
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 20px;
+    font-family: Arial;
+
+}
+aside{
+    float: right;
+    position: relative;
+    bottom: 300px;
+    right: 10px;
+}
+#aside1{
+    border: 1px dashed #a7afb2;
+    width: 200px;
+    padding: 10px;
+    padding-left: 15px;
+    background-color: #f9f9f9;
+
+}
+#aside2{
+    border: 1px dashed #a7afb2;
+    width: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 15px;
+    background-color: #f9f9f9;
+}
+footer{
+    clear: both;
+    width: 100%;
+    background-color: #eeeeee;
+    padding: 15px;
+    position: relative;
+    bottom: 250px;
+    font-size: 15px;
+    color: #a7afb2;
+}
+footer p{
+    text-align: center;
+}
+
+#wrapper #header1 h1 a:hover{
+    color: #a7afb2;
+}
+nav ul #firstchild a:hover{
+    background-color: #eeeeee;
+    border-radius: 5px;
+    color: black;
+}
+#serv a:hover{
+    color: black;
+}
+aside ul li a:hover{
+    color: red;
+    text-decoration: underline;
+}
+

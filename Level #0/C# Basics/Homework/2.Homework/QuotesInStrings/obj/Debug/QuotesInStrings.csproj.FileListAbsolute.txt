@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\8.Homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\8.Homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\8.Homework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\8.Homework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\8.Homework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

@@ -1,0 +1,6 @@
+D:\c#\Operators Expressions and Statements\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe.config
+D:\c#\Operators Expressions and Statements\08. Prime Number Check\obj\Debug\08. Prime Number Check.csprojResolveAssemblyReference.cache
+D:\c#\Operators Expressions and Statements\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe
+D:\c#\Operators Expressions and Statements\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.pdb
+D:\c#\Operators Expressions and Statements\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.exe
+D:\c#\Operators Expressions and Statements\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.pdb

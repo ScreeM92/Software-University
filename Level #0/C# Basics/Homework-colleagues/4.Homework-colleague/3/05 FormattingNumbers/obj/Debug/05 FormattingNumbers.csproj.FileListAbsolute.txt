@@ -1,0 +1,9 @@
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\05 FormattingNumbers\bin\Debug\05 FormattingNumbers.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\05 FormattingNumbers\bin\Debug\05 FormattingNumbers.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\05 FormattingNumbers\bin\Debug\05 FormattingNumbers.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\05 FormattingNumbers\obj\Debug\05 FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\05 FormattingNumbers\obj\Debug\05 FormattingNumbers.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\05 FormattingNumbers\obj\Debug\05 FormattingNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\05 FormattingNumbers\bin\Debug\05 FormattingNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\05 FormattingNumbers\obj\Debug\05 FormattingNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\05 FormattingNumbers\obj\Debug\05 FormattingNumbers.pdb

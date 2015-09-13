@@ -1,0 +1,31 @@
+﻿@using GoblinFreelancer.ViewModels;
+@{
+    ViewBag.Title = "You Projects";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@(Html.Kendo()
+    .Grid<ProjectViewModelFull>()
+    .Name("Projects")
+    .Columns(columns =>
+        {
+            columns.Bound(m => m.Name).ClientTemplate("<a href=\"/Projects/ViewProject/#:Id#\">#:Name#</a>");
+            columns.Bound(m => m.Summary);
+            columns.Bound(m => m.CategoryName).ClientTemplate(
+                @"<a href=""\/Categories/Projects?category=#:CategoryName#"">#:CategoryName#<p>"
+                );
+            columns.Bound(m => m.CreatedOn);
+            columns.Bound(m => m.Deadline);
+            columns.Bound(m => m.Skills);
+        })
+        .Pageable()
+        .Sortable()
+        .DataSource(dataSource => dataSource
+            .Ajax()
+            .Model(model => model.Id(b => b.Id))
+            .PageSize(5)
+            .ServerOperation(true)
+            .Read("GetUserProjects", "Users")
+            )
+)

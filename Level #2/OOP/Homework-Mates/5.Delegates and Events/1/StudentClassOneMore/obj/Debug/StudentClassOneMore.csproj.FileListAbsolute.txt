@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\StudentClassOneMore\bin\Debug\StudentClassOneMore.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\StudentClassOneMore\obj\Debug\StudentClassOneMore.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\StudentClassOneMore\bin\Debug\StudentClassOneMore.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\StudentClassOneMore\bin\Debug\StudentClassOneMore.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\StudentClassOneMore\obj\Debug\StudentClassOneMore.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\StudentClassOneMore\obj\Debug\StudentClassOneMore.pdb

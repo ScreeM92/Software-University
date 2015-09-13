@@ -1,0 +1,13 @@
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\Messages.Data.dll
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\Messages.Data.pdb
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\EntityFramework.dll
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\EntityFramework.xml
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\obj\Debug\Messages.Data.csprojResolveAssemblyReference.cache
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\obj\Debug\Messages.Data.dll
+D:\Desktop\SoftUni\WebServicesAndCloud\Exam Preparation\Messages\Messages.Data\obj\Debug\Messages.Data.pdb

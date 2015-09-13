@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link type="text/css" rel="stylesheet" href="styles/style4.css"/>
+    <title>Fakebook Register Form</title>
+</head>
+<body>
+    <img src="pictures/fakebook.jpg">
+<h1><strong>Registration</strong></h1>
+<p><strong>It is safe and it will always be!</strong></p>
+
+        <div class="first">
+<form method="post" action="form.php">
+    <fieldset id="firstF">
+        <legend align="center"><strong>None-Important Information</strong></legend>
+        <input class="text" tabindex="1" type="text" placeholder="First name" autofocus="autofocus">
+        <input class="text" tabindex="2" type="text" placeholder="Last name">
+        <input class="text" tabindex="3" type="text" pattern="/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" placeholder="Your Email"/>
+        <input class="text" type='text' pattern="[0-9]{10,10}" name="number" placeholder="Phone Number" autocomplete="off"  maxlength="10">
+        <input class="text" tabindex="4" type="password" placeholder="Your Password">
+        <input class="text" type="url" placeholder="Website">
+        <span>Birthday</span></br>
+        <input class="text" class="datetime" type="datetime-local" value="today"></br>
+        <input type="radio" value="1" class="gender" name="gender" id="ge1">
+        <label for="ge1" class="pol">Female</label>
+        <input class="gender" value="2" type="radio" class="gender" name="gender" id="ge2">
+        <label for="ge2" class="pol">Male</label>
+        <input class="gender" value="3" type="radio" class="gender" name="gender" id="ge3">
+        <label for="ge3" class="pol">Other</label>
+    </fieldset>
+        <input type="reset" class="reset" value="Clear Form">
+</form>
+        </div>
+        <div class="second">
+<form method="post" action="form.php">
+        <fieldset>
+            <legend align="center"><strong>Important Information *required</strong></legend>
+            <select required="required" name="country" class="add">
+                <option value="">Country</option>
+                <option value="BG">Bulgaria</option>
+                <option value="US">USA</option>
+                <option value="DE">Germany</option>
+            </select>
+            <input required="required" type="text" placeholder="Village" class="add">
+            <input required="required" type="text" placeholder="District" class="add">
+            <input required="required" type="text" placeholder="Street" class="add">
+            <input required="required" type="text" placeholder="Nr" class="odd">
+            <input required="required" type="text" placeholder="Floor" class="odd">
+            <input required="required" type="text" placeholder="Ap Nr" class="odd">
+            </br><span>Door Color</span></br>
+            <input required="required" type="color" class="add" value="#ff80c0">
+            <input required="required" type="text" placeholder="Water Meter Nr" class="add">
+            <select required="required" name="country" class="add">
+                <option value="">Aunt Panties' Size</option>
+                <option value="mini">120</option>
+                <option value="normal">220</option>
+                <option value="big">420</option>
+            </select>
+            <span>More Personal Information</span></br>
+            <textarea required="required" name="information" placeholder="Give Us More Information!!!"></textarea>
+        </fieldset>
+    <input type="button" class="register" value="Register">
+</form>
+        </div>
+
+
+</body>
+</html>

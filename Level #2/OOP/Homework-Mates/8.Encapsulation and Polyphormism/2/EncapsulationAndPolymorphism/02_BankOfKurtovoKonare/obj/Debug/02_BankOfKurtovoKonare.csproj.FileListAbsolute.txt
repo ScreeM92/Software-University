@@ -1,0 +1,8 @@
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe.config
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.pdb
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.exe
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\2\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\bin\Debug\02_BankOfKurtovoKonare.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\2\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\2\EncapsulationAndPolymorphism\02_BankOfKurtovoKonare\obj\Debug\02_BankOfKurtovoKonare.pdb

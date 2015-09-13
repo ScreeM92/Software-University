@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache

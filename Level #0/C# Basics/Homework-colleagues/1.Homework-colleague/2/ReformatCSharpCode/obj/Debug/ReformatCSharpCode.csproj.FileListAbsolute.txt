@@ -1,0 +1,8 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

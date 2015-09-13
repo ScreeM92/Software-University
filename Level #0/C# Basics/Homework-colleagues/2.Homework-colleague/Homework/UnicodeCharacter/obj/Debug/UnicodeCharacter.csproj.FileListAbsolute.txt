@@ -1,0 +1,8 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

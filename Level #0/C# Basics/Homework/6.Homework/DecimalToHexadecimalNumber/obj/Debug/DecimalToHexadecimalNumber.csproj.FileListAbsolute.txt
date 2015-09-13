@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\DecimalToHexadecimalNumber\obj\Debug\DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\DecimalToHexadecimalNumber\obj\Debug\DecimalToHexadecimalNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\DecimalToHexadecimalNumber\obj\Debug\DecimalToHexadecimalNumber.pdb

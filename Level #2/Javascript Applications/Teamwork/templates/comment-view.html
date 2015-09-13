@@ -1,0 +1,7 @@
+{{#each comments}}
+    <hr />
+    <li>
+        <p><span class="glyphicon glyphicon-user"></span><span class="author"><a href="#/user/{{this.author.objectId}}"> {{this.author.username}} </a> </span> at <span class="glyphicon glyphicon-calendar"></span> <time>{{this.createdAt}}</time></p>
+        <p>{{this.content}}</p>
+    </li>
+{{/each}}

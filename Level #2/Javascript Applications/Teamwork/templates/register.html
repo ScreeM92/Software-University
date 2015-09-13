@@ -1,0 +1,38 @@
+<div class="row">
+    <form class="register form-horizontal col-lg-12">
+        <fieldset>
+            <legend><h2>Create a new account</h2></legend>
+            <div class="col-lg-9 form-info">
+                <div class="form-group">
+                    <label for="reg-username" class="col-lg-3 control-label"><span class="glyphicon glyphicon-user"></span>  Username:</label>
+                    <div class="col-lg-9">
+                        <input type="text" class="form-control" id="reg-username" placeholder="Username">
+                        <span id="usernameCheck"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="reg-password" class="col-lg-3 control-label"><span class="glyphicon glyphicon-lock"></span>  Password:</label>
+                    <div class="col-lg-9">
+                        <input type="password" class="form-control" id="reg-password" placeholder="Password">  <label id="resultLabel" for="result" hidden>Password Strength</label><span id="result"></span>
+                    </div>
+                    <label for="repeat-password" class="col-lg-3 control-label">Repeat password:</label>
+                    <div class="col-lg-9">
+                        <input type="password" class="form-control" id="repeat-password" placeholder="Repeat password"> <span id="passwordMatch"></span>
+                    </div>
+                    <label for="reg-email" class="col-lg-3 control-label"><span class="glyphicon glyphicon-envelope"></span>  Email:</label>
+                    <div class="col-lg-9">
+                        <input type="email" class="form-control" id="reg-email" placeholder="example@yahoo.com"> <span id="checkEmail"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group col-lg-12" id="reg-buttons">
+                <div class="col-lg-10 col-lg-offset-2">
+                    <button id="reg-btn" type="button" class="btn btn-lg btn-primary" disabled>Register</button>
+                    <span>or</span>
+                    <button id="login-btn" type="button" class="btn btn-lg btn-primary">Login</button>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>

@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\TriangleRE\bin\Debug\TriangleRE.exe.config
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\TriangleRE\bin\Debug\TriangleRE.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\TriangleRE\bin\Debug\TriangleRE.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\TriangleRE\obj\Debug\TriangleRE.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\TriangleRE\obj\Debug\TriangleRE.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\TriangleRE\obj\Debug\TriangleRE.pdb

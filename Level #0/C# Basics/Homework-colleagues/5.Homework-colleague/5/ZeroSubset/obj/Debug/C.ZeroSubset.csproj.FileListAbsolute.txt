@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\ZeroSubset\bin\Debug\ZeroSubset.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\ZeroSubset\obj\Debug\ZeroSubset.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\ZeroSubset\obj\Debug\ZeroSubset.pdb

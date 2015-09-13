@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\Customer\bin\Debug\Customer.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\Customer\bin\Debug\Customer.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\Customer\bin\Debug\Customer.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\Customer\obj\Debug\Customer.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\Customer\obj\Debug\Customer.pdb

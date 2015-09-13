@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

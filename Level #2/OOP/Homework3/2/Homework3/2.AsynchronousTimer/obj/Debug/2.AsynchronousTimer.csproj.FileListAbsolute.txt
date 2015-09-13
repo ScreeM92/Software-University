@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\2.AsynchronousTimer\bin\Debug\2.AsynchronousTimer.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\2.AsynchronousTimer\bin\Debug\2.AsynchronousTimer.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\2.AsynchronousTimer\bin\Debug\2.AsynchronousTimer.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\2.AsynchronousTimer\obj\Debug\2.AsynchronousTimer.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\2.AsynchronousTimer\obj\Debug\2.AsynchronousTimer.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\2.AsynchronousTimer\bin\Debug\2.AsynchronousTimer.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\2.AsynchronousTimer\obj\Debug\2.AsynchronousTimer.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\2.AsynchronousTimer\obj\Debug\2.AsynchronousTimer.pdb

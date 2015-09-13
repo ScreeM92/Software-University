@@ -1,0 +1,4 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\PointInCircle\bin\Debug\PointInCircle.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\PointInCircle\bin\Debug\PointInCircle.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\PointInCircle\obj\Debug\PointInCircle.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\PointInCircle\obj\Debug\PointInCircle.pdb

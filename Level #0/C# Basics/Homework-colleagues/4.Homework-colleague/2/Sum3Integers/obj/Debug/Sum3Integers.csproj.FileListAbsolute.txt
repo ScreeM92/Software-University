@@ -1,0 +1,5 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum3Integers\bin\Debug\Sum3Integers.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum3Integers\bin\Debug\Sum3Integers.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum3Integers\obj\Debug\Sum3Integers.csprojResolveAssemblyReference.cache
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum3Integers\obj\Debug\Sum3Integers.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum3Integers\obj\Debug\Sum3Integers.pdb

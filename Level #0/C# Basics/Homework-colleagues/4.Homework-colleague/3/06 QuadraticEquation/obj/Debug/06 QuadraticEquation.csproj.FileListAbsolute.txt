@@ -1,0 +1,9 @@
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe.config
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.pdb
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.exe
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\06 QuadraticEquation\bin\Debug\06 QuadraticEquation.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\06 QuadraticEquation\obj\Debug\06 QuadraticEquation.pdb

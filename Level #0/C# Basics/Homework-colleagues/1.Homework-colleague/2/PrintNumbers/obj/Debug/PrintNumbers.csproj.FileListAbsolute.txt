@@ -1,0 +1,10 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintNumbers\bin\Debug\PrintNumbers.pdb

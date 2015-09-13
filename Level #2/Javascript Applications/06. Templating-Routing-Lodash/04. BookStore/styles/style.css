@@ -1,0 +1,67 @@
+﻿* {
+    box-sizing: border-box;
+    outline: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1070px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+textarea {
+    width: 1070px;
+    height: 400px;
+    font-size: .8em;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background: #d3d3d3;
+}
+
+tbody tr:nth-child(odd) {
+    background: #f9b8b8;
+}
+
+button {
+    display: inline-block;
+    background: #3C3C3C;
+    color: #fff;
+    font-size: .7em;
+    border: none;
+    width: 9em;
+    height: 2em;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    top: -1px;
+}
+
+button:hover {
+    background: #E90606;
+}
+
+input {
+    font-size: 1em;
+}
+
+select {
+    font-size: .9em;
+}
+
+div {
+    margin: 5px 0;
+}

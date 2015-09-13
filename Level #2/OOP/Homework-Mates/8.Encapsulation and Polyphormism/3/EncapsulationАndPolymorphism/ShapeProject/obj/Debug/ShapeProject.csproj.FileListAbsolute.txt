@@ -1,0 +1,12 @@
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\ShapeProject\bin\Debug\ShapeProject.exe.config
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\ShapeProject\bin\Debug\ShapeProject.exe
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\ShapeProject\bin\Debug\ShapeProject.pdb
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\ShapeProject\obj\Debug\ShapeProject.exe
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\ShapeProject\obj\Debug\ShapeProject.pdb
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\ShapeProject\obj\Debug\ShapeProject.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\ShapeProject\bin\Debug\ShapeProject.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\ShapeProject\obj\Debug\ShapeProject.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\ShapeProject\obj\Debug\ShapeProject.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\ShapeProject\bin\Debug\ShapeProject.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\ShapeProject\bin\Debug\ShapeProject.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\ShapeProject\obj\Debug\ShapeProject.csprojResolveAssemblyReference.cache

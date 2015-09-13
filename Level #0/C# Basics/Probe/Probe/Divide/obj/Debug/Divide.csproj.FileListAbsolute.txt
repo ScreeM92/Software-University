@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\Divide\bin\Debug\Divide.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\Divide\bin\Debug\Divide.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Divide\bin\Debug\Divide.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\Divide\obj\Debug\Divide.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Divide\obj\Debug\Divide.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\Divide\obj\Debug\Divide.csprojResolveAssemblyReference.cache

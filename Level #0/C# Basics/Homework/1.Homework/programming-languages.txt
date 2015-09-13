@@ -1,0 +1,14 @@
+1. C++
+    C++ has influenced many other programming languages, for example, C# and Java. C# takes the basic operators and style of C++ but forces programs to be type safe, in that it executes the code in a controlled sandbox called the virtual machine.
+ 
+2. Java
+    Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both are class-based object-oriented and both use garbage-collection. Java is "platform independent", while C# run on .NET platform.
+ 
+3. JavaScript
+    JavaScript is a dynamic computer programming language.JavaScript is a prototype-based scripting language with dynamic typing. It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.
+ 
+4. PHP
+    PHP is a server-side scripting language with dynamic typing designed for web development but also used as a general-purpose programming language.PHP can be deployed on most web servers and also as a standalone shell on almost every operating system and platform, free of charge.
+ 
+5. Ruby
+    Ruby is a dynamic, reflective, object-oriented, general-purpose programming language.C# has always been a static, strongly typed language, and eventually got a couple of dynamic features, Ruby is a fully dynamic language.

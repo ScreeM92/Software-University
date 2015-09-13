@@ -1,0 +1,9 @@
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\bin\Debug\07.Sort_3_NumbersWithNestedIfs.exe.config
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\bin\Debug\07.Sort_3_NumbersWithNestedIfs.exe
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\bin\Debug\07.Sort_3_NumbersWithNestedIfs.pdb
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\obj\Debug\07.Sort_3_NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\obj\Debug\07.Sort_3_NumbersWithNestedIfs.exe
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\obj\Debug\07.Sort_3_NumbersWithNestedIfs.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\bin\Debug\07.Sort_3_NumbersWithNestedIfs.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\obj\Debug\07.Sort_3_NumbersWithNestedIfs.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\07.Sort_3_NumbersWithNestedIfs\obj\Debug\07.Sort_3_NumbersWithNestedIfs.pdb

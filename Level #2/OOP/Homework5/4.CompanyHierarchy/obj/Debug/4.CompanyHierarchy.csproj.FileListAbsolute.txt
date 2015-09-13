@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\4.CompanyHierarchy\bin\Debug\4.CompanyHierarchy.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\4.CompanyHierarchy\bin\Debug\4.CompanyHierarchy.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\4.CompanyHierarchy\bin\Debug\4.CompanyHierarchy.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\4.CompanyHierarchy\obj\Debug\4.CompanyHierarchy.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\4.CompanyHierarchy\obj\Debug\4.CompanyHierarchy.pdb

@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitsExchange\bin\Debug\BitsExchange.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitsExchange\bin\Debug\BitsExchange.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitsExchange\obj\Debug\BitsExchange.pdb

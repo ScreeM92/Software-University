@@ -1,0 +1,5 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum-of-n-Numbers\bin\Debug\Sum-of-n-Numbers.exe.config
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum-of-n-Numbers\bin\Debug\Sum-of-n-Numbers.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum-of-n-Numbers\bin\Debug\Sum-of-n-Numbers.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum-of-n-Numbers\obj\Debug\Sum-of-n-Numbers.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Sum-of-n-Numbers\obj\Debug\Sum-of-n-Numbers.pdb

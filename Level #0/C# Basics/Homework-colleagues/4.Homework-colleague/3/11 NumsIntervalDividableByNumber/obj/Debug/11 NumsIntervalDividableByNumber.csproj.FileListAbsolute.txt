@@ -1,0 +1,9 @@
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11 NumsIntervalDividableByNumber\bin\Debug\11 NumsIntervalDividableByNumber.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11 NumsIntervalDividableByNumber\bin\Debug\11 NumsIntervalDividableByNumber.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11 NumsIntervalDividableByNumber\bin\Debug\11 NumsIntervalDividableByNumber.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11 NumsIntervalDividableByNumber\obj\Debug\11 NumsIntervalDividableByNumber.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11 NumsIntervalDividableByNumber\obj\Debug\11 NumsIntervalDividableByNumber.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\11 NumsIntervalDividableByNumber\obj\Debug\11 NumsIntervalDividableByNumber.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\11 NumsIntervalDividableByNumber\bin\Debug\11 NumsIntervalDividableByNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\11 NumsIntervalDividableByNumber\obj\Debug\11 NumsIntervalDividableByNumber.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\11 NumsIntervalDividableByNumber\obj\Debug\11 NumsIntervalDividableByNumber.pdb

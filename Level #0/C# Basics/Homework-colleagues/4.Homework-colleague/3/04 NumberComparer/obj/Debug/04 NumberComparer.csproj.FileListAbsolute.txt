@@ -1,0 +1,8 @@
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\04 NumberComparer\bin\Debug\04 NumberComparer.exe.config
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\04 NumberComparer\bin\Debug\04 NumberComparer.exe
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\04 NumberComparer\bin\Debug\04 NumberComparer.pdb
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\04 NumberComparer\obj\Debug\04 NumberComparer.exe
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\04 NumberComparer\obj\Debug\04 NumberComparer.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\04 NumberComparer\bin\Debug\04 NumberComparer.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\04 NumberComparer\obj\Debug\04 NumberComparer.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\04 NumberComparer\obj\Debug\04 NumberComparer.pdb

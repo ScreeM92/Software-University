@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOf5NumbersRE\bin\Debug\SumOf5NumbersRE.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOf5NumbersRE\bin\Debug\SumOf5NumbersRE.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOf5NumbersRE\bin\Debug\SumOf5NumbersRE.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOf5NumbersRE\obj\Debug\SumOf5NumbersRE.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOf5NumbersRE\obj\Debug\SumOf5NumbersRE.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOf5NumbersRE\obj\Debug\SumOf5NumbersRE.pdb

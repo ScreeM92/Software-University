@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students culture="en-US" 
+          xmlns:student="urn:students"
+          xmlns:exam="urn:exams"
+          xmlns:endorsement="urn:endorsements">
+  <student:student>
+    <student:name>Penka Ivanov</student:name>
+    <student:gender>Female</student:gender>
+    <student:birth-date>1990-01-07</student:birth-date>
+    <student:phone-number>0888777999555</student:phone-number>
+    <student:email>penka@gmail.com</student:email>
+    <student:university>SoftUni</student:university>
+    <student:specialty>Front-End Developer</student:specialty>
+    <student:faculty-number>123456</student:faculty-number>
+    <exams>
+      <exam:exam>
+        <exam:name>C# basics</exam:name>
+        <exam:date-taken>2014-12-18</exam:date-taken>
+        <exam:grade>4.25</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:name>Java basics</exam:name>
+        <exam:date-taken>2014-10-12</exam:date-taken>
+        <exam:grade>5.46</exam:grade>
+      </exam:exam>
+    </exams>
+  </student:student>
+<student:student>
+    <student:name>Gosho Tarabata</student:name>
+    <student:gender>Other</student:gender>
+    <student:birth-date>1981-11-81</student:birth-date>
+    <student:phone-number>0888777123456</student:phone-number>
+    <student:email>tarabuko@gmail.com</student:email>
+    <student:university>Pernishki universitet</student:university>
+    <student:specialty>Ueb dizainer</student:specialty>
+    <student:faculty-number>666999</student:faculty-number>
+    <exams>
+      <exam:exam>
+        <exam:name>Vinkel master</exam:name>
+        <exam:date-taken>2015-07-10</exam:date-taken>
+        <exam:grade>6.00</exam:grade>
+      </exam:exam>
+      <exam:exam>
+        <exam:name>Java basics</exam:name>
+        <exam:date-taken>2014-10-12</exam:date-taken>
+        <exam:grade>5.46</exam:grade>
+      </exam:exam>
+    </exams>
+  </student:student>
+</students>

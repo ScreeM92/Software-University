@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Loops - Do-While Loops</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+
+<body>
+<section>
+	<span>
+		<label for="tb-number">Factorial: </label>
+		<input type="text" id="tb-number" />
+	</span>
+	<span class="a">
+		<a href="#" id="btn-check-prime" onclick="onCalcFactBtnClick()">[Calc Factorial]</a>
+	</span>
+		<div id="js-console">
+		</div>
+</section>
+	<script src="scripts/js-console.js">	  
+	</script>
+	<script>
+		function onCalcFactBtnClick() {
+			var number = jsConsole.readInteger('#tb-number');
+			var fact = 1;
+			var factStr = 'n! = ';
+			do {
+				fact *= number;
+				factStr += number + '*'
+				number--;
+			} while (number);
+
+			factStr += ' = ' + fact;
+			jsConsole.writeLine(factStr);
+		}
+
+	</script>
+</body>
+</html>

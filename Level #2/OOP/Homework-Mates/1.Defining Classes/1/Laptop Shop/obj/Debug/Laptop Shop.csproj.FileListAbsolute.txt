@@ -1,0 +1,9 @@
+C:\Users\n.velchev\Documents\OOP\Solution1\Laptop Shop\bin\Debug\Laptop Shop.exe.config
+C:\Users\n.velchev\Documents\OOP\Solution1\Laptop Shop\bin\Debug\Laptop Shop.exe
+C:\Users\n.velchev\Documents\OOP\Solution1\Laptop Shop\bin\Debug\Laptop Shop.pdb
+C:\Users\n.velchev\Documents\OOP\Solution1\Laptop Shop\obj\Debug\Laptop Shop.csprojResolveAssemblyReference.cache
+C:\Users\n.velchev\Documents\OOP\Solution1\Laptop Shop\obj\Debug\Laptop Shop.exe
+C:\Users\n.velchev\Documents\OOP\Solution1\Laptop Shop\obj\Debug\Laptop Shop.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\Laptop Shop\bin\Debug\Laptop Shop.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\Laptop Shop\obj\Debug\Laptop Shop.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\Laptop Shop\obj\Debug\Laptop Shop.pdb

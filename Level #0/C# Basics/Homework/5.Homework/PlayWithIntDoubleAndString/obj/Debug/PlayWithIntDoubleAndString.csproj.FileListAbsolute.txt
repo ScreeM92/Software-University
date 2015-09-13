@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb

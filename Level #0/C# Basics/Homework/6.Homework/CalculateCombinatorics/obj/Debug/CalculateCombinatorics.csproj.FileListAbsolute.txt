@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateCombinatorics\bin\Debug\CalculateCombinatorics.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateCombinatorics\bin\Debug\CalculateCombinatorics.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateCombinatorics\bin\Debug\CalculateCombinatorics.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateCombinatorics\obj\Debug\CalculateCombinatorics.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateCombinatorics\obj\Debug\CalculateCombinatorics.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\CalculateCombinatorics\obj\Debug\CalculateCombinatorics.pdb

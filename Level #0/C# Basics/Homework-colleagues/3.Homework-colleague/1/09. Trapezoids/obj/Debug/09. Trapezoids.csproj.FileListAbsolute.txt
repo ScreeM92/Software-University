@@ -1,0 +1,6 @@
+D:\c#\Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+D:\c#\Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+D:\c#\Operators Expressions and Statements\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+D:\c#\Operators Expressions and Statements\09. Trapezoids\obj\Debug\09. Trapezoids.csprojResolveAssemblyReference.cache
+D:\c#\Operators Expressions and Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+D:\c#\Operators Expressions and Statements\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

@@ -1,0 +1,1 @@
+c:\users\georgi.angelov\documents\visual studio 2012\Projects\inherithanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config

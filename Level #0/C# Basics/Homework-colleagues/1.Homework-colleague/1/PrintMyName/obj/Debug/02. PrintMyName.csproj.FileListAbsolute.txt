@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\01. Intro\Intro\PrintMyName\bin\Debug\PrintMyName.exe.config
+E:\Programming\SoftUni\01. Intro\Intro\PrintMyName\bin\Debug\PrintMyName.exe
+E:\Programming\SoftUni\01. Intro\Intro\PrintMyName\bin\Debug\PrintMyName.pdb
+E:\Programming\SoftUni\01. Intro\Intro\PrintMyName\obj\Debug\PrintMyName.exe
+E:\Programming\SoftUni\01. Intro\Intro\PrintMyName\obj\Debug\PrintMyName.pdb

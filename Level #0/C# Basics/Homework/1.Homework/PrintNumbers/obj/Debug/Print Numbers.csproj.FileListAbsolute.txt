@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Print Numbers\bin\Debug\Print Numbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Print Numbers\bin\Debug\Print Numbers.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Print Numbers\bin\Debug\Print Numbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Print Numbers\obj\Debug\Print Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Print Numbers\obj\Debug\Print Numbers.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Print Numbers\obj\Debug\Print Numbers.pdb

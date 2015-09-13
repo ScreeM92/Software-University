@@ -1,0 +1,3 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\NumbersAsWords\obj\Debug\NumbersAsWords.exe
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\NumbersAsWords\obj\Debug\NumbersAsWords.pdb

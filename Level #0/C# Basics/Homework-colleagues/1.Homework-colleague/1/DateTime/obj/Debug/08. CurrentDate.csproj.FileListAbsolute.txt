@@ -1,0 +1,8 @@
+E:\Programming\SoftUni\01. Intro\Intro\DateTime\bin\Debug\DateTime.exe.config
+E:\Programming\SoftUni\01. Intro\Intro\DateTime\bin\Debug\DateTime.exe
+E:\Programming\SoftUni\01. Intro\Intro\DateTime\bin\Debug\DateTime.pdb
+E:\Programming\SoftUni\01. Intro\Intro\DateTime\obj\Debug\DateTime.exe
+E:\Programming\SoftUni\01. Intro\Intro\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\DateTime\obj\Debug\DateTime.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\DateTime\obj\Debug\DateTime.pdb

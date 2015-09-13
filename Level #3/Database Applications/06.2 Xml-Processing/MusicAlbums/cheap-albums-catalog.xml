@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Dummy</name>
+    <artist>Portishead</artist>
+    <year>1994</year>
+    <producer>Portishead</producer>
+    <price>18.25</price>
+    <songs>
+      <song title="Mysterons" length="5:02" />
+      <song title="Sour Times" length="4:11" />
+      <song title="Strangers" length="3:55" />
+      <song title="It Could Be Sweet" length="4:16" />
+      <song title="Wandering Star" length="4:51" />
+      <song title="It's a Fire" length="3:49" />
+      <song title="Numb" length="3:54" />
+      <song title="Roads" length="5:02" />
+      <song title="Pedestal" length="3:39" />
+      <song title="Biscuit" length="5:01" />
+      <song title="Glory Box" length="5:06" />
+    </songs>
+    <description link="http://en.wikipedia.org/wiki/Dummy_%28album%29">
+      Dummy is the debut album of the Bristol-based group Portishead. Released in August 22, 1994 on Go! Discs, the album earned critical acclaim, winning the 1995 Mercury Music Prize. It is often credited with popularizing the trip-hop genre and is frequently cited in lists of the best albums of the 1990s. Although it achieved modest chart success overseas, it peaked at #2 on the UK Album Chart and saw two of its three singles reach #13. The album was certified gold in 1997 and has sold two million copies in Europe. As of September 2011, the album was certified double-platinum in the United Kingdom and has sold as of September 2011 825,000 copies.
+    </description>
+  </album>
+</albums>

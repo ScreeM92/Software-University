@@ -1,0 +1,6 @@
+namespace BookShopSystem.WebApi.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

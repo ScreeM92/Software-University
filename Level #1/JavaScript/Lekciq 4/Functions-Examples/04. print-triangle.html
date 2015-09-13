@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Functions - Triangle</title>
+</head>
+<body>
+	<script>
+		function printLine(start, end) {
+			var row = '';
+			for (var i = start; i <= end; i++) {
+				row += i + ' ';
+			}
+			console.log(row);
+		}
+		
+		(function onPrintTriangleBtnClick() {
+			var n = 5;			
+			var line;
+			for (line = 1; line <= n; line++)
+				printLine(1, line);
+			for (line = n - 1; line >= 1; line--)
+				printLine(1, line);
+		}());
+	</script>
+</body>
+</html>

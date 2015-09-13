@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache

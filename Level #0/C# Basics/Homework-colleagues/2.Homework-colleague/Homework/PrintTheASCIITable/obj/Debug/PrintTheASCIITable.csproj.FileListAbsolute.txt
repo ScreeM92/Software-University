@@ -1,0 +1,5 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

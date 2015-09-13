@@ -1,0 +1,331 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+    margin: 0;
+    font-size: 18px;
+}
+
+#main-wrapper {
+    max-width: 1070px;
+    margin: 10px auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.post .comments {
+    padding: 0 40px;
+}
+
+#wrapper {
+    width: 80%;
+    display: inline-block;
+}
+
+#sidebar {
+    width: 19%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#post-section #content {
+    width: 100%;
+    height: 200px;
+    font-size: 1em;
+}
+#post-section input[type=text] {
+    font-size: 1em;
+}
+
+.author a {
+    color: #038cff;
+    text-decoration: none;
+}
+
+.user-info {
+    font-size: 1em;
+}
+
+footer {
+    height: 100px;
+}
+
+/* Aside */
+
+#sidebar .panel {
+    padding: 0;
+}
+
+#sidebar .panel-body {
+    padding: 10px;
+}
+
+.popular-tag {
+    font-size: 1.2em;
+}
+
+#sidebar .nav-pills li {
+    width: 100%;
+}
+
+#sidebar #mostPopularTags li {
+    border: none;
+}
+
+#latestPosts .panel-body {
+    font-size: 1.1em;
+}
+
+#latestPosts .date {
+    color: #808080;
+}
+
+/* Header */
+header {
+    background: #222222;
+    height: 60px;
+}
+
+header .navbar {
+    z-index: 1001;
+    border: none;
+    margin-bottom: 0;
+    font-size: 1em;
+}
+
+nav, #wrapper {
+    max-width: 1070px;
+    margin: 0 auto;
+}
+
+nav li:hover > a{
+    color: #ff8100 !important;
+    transition: color .2s ease-in-out;
+}
+
+header .navbar a {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: #ffffff !important;
+    cursor: pointer;
+}
+
+header .navbar a:hover {
+    color: #ff8100 !important;
+    transition: color .2s ease-in-out;
+    text-decoration: none;
+}
+
+.navbar-nav li {
+    margin: 0 5px;
+}
+.header-logo>#header-logo-img {
+    background: url('../resources/logoLytton-white.png');
+    background-size: 70px 30px;
+    width: 70px;
+    height: 30px;
+}
+.header-logo:hover  #header-logo-img{
+    background: url('../resources/logoLytton-grey.png');
+    background-size: 70px 30px;
+    transition: background .3s ease-in-out;
+}
+
+header .navbar-inverse .navbar-nav>.active>a {
+    background: #E90606;
+}
+
+#post-section div{
+    margin: 5px 0;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    background: #ff0000;
+    cursor: inherit;
+    display: block;
+}
+input[readonly] {
+    background-color: white !important;
+    cursor: text !important;
+}
+
+#posts .jumbotron, .post .jumbotron {
+    padding: 5px 20px;
+}
+
+#posts .jumbotron p, .post .jumbotron p{
+    font-size: 1.1em;
+}
+
+#posts .jumbotron .post-content, .post .jumbotron .post-content {
+    line-height: 1.5em;
+    font-size: 1.1em;
+    background: #f6f6f6;
+}
+
+#search-form {
+    margin-top: 13px;
+    color: green;
+}
+
+.post-details {
+    margin-right: 15px;
+    color: #038cff;
+}
+
+.post-details-container .glyphicon {
+    font-size: 1.1em;
+    padding-right: 3px;
+}
+#about-section>h2{
+    text-align: center;
+}
+#about-section>h5{
+    line-height: 2em;
+}
+#about-logo{
+    margin: 0 auto;
+    max-width: 99%;
+    width: 250px ;
+    height: 125px;
+    background: url("../resources/logoLytton-blue.png");
+    background-size: 250px 125px;
+}
+#about-logo:hover{
+    background: url("../resources/logoLytton-grey.png");
+    background-size: 250px 125px;
+    transition: background .3s ease-in-out;
+}
+/* validation css */
+#result{
+    margin-left:5px;
+}
+
+#passwordMatch {
+    margin-left:5px;
+}
+/* end of validation css */
+
+#gender {
+    width: 25%;
+}
+
+.picture-preview {
+    max-width: 214px;
+    /*max-height: 270px;*/
+}
+.thumbnail {
+    width: 170px;
+}
+
+#profileButtons {
+    text-align: right;
+}
+
+.comments hr{
+    border-color: #C0B6B6;
+}
+
+.user-info{
+    background-color: #e6e6e6;
+    padding: 3%;
+    margin: 2%;
+}
+
+.user-info > h2{
+    margin-top: 0;
+    margin-left: 60%;
+}
+
+.user-info > div{
+    vertical-align: top;
+    padding: 5%;
+    display: inline-block;
+}
+.user-info .profile-pic{
+    padding: 0;
+    margin: 0;
+    width: 350px;
+    height: 250px;
+}​
+
+ .noty_type_error{
+     background: #ff574f;
+     color: white;
+ }
+
+.noty_type_success {
+    /*#dff0d8*/
+    background: rgba(121, 216, 121, 0.50);
+    /*#3C763C*/
+    color: #3C763C;
+}
+
+.header-image {
+    max-width: 100%;
+    max-height: 300px;
+}
+
+.login-field {
+    margin-bottom: 10px;
+}
+
+.login {
+    margin-left: 20%;
+}
+
+@media screen and (max-width: 768px) {
+    #wrapper, #sidebar {
+        width: 100%;
+        padding: 1%;
+    }
+
+    .login {
+        margin-left: 0;
+    }
+
+    #up-to-top {
+        transform: scale(.7);
+        right: .2%;
+        bottom: .2%;
+    }
+
+    .post .comments {
+        padding: 0 1%;
+    }
+}
+
+#up-to-top {
+    display: none;
+    background: transparent;
+    position: fixed;
+    right: .5%;
+    bottom: .5%;
+    box-sizing: border-box;
+    opacity: 0.6;
+}
+
+#up-to-top:hover {
+    opacity: 1;
+    transition: opacity .2s ease-in-out;
+}

@@ -1,0 +1,5 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleBoolExpression-DevideBy7And5\bin\Debug\SimpleBoolExpression-DevideBy7And5.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleBoolExpression-DevideBy7And5\bin\Debug\SimpleBoolExpression-DevideBy7And5.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleBoolExpression-DevideBy7And5\obj\Debug\SimpleBoolExpression-DevideBy7And5.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleBoolExpression-DevideBy7And5\obj\Debug\SimpleBoolExpression-DevideBy7And5.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleBoolExpression-DevideBy7And5\obj\Debug\03. SimpleBoolExpression-DevideBy7And5.csprojResolveAssemblyReference.cache

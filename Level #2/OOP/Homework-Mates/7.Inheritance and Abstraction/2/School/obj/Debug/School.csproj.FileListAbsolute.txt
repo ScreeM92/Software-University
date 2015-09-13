@@ -1,0 +1,7 @@
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\School\bin\Debug\School.exe
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\School\bin\Debug\School.pdb
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\School\obj\Debug\School.exe
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\School\obj\Debug\School.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\2\School\obj\Debug\School.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\2\School\obj\Debug\School.pdb

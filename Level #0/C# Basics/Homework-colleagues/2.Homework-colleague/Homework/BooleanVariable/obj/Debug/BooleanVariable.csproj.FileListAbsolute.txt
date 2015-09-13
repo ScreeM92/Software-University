@@ -1,0 +1,8 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\BooleanVariable\obj\Debug\BooleanVariable.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\BooleanVariable\obj\Debug\BooleanVariable.pdb

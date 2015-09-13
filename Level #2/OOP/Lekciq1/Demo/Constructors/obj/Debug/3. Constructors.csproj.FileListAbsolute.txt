@@ -1,0 +1,4 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constructors\bin\Debug\Constructors.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constructors\obj\Debug\Constructors.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constructors\obj\Debug\Constructors.pdb

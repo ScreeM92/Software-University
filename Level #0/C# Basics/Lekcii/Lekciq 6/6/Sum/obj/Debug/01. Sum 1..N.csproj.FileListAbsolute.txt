@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Sum\bin\Debug\Sum.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Sum\bin\Debug\Sum.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Sum\obj\Debug\01. Sum 1..N.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Sum\obj\Debug\Sum.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Sum\obj\Debug\Sum.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Sum\bin\Debug\Sum.exe.config

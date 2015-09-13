@@ -1,0 +1,222 @@
+﻿@using GoblinFreelancer.Models;
+@model GoblinFreelancer.Models.ApplicationUser
+
+<h2>You are logged as @Model.UserName</h2>
+
+<div class="row-fluid">
+    @Html.ValidationSummary(true)
+    <div class="span5" style="height:250px;">
+        @if (Model.ProfilePicture != null)
+        {
+            <img src="data:image/jpeg;base64,@(Convert.ToBase64String(Model.ProfilePicture))" />
+        }
+        else
+        {   
+            <img width="200" height="200" src="@("/img/profile-icon-default.png")" />
+        }
+    </div>
+    <div class="span5" style="height:250px;">
+        <h4>Manage Password</h4>
+        @Html.Partial("_ChangePasswordPartialModified", new ManageUserViewModel());
+    </div>
+    <div class="span5" style="height:250px;">
+        <h4>Manage Profile </h4>
+        @using (Html.BeginForm("ByUser", "Users", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+            <table id="user-edit-table">
+                <tfoot>
+                    <tr>
+                        <td colspan="2">
+                            <input type="submit" value="Submit" />
+                        </td>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    <tr>
+                        <td>@Html.LabelFor(x => x.Email)</td>
+                        <td>
+                            @Html.EditorFor(x => x.Email)
+                            <br />
+                            @Html.ValidationMessageFor(x => x.Email)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Profile Picture</td>
+                        <td><input id="picture" type="file" name="picture" /></td>
+                    </tr>
+                </tbody>
+            </table>
+        }
+    </div>
+    @if(ViewBag.isWork)
+    {
+    <div class="span5" style="height:250px;">
+        <h4>Mange Skills</h4>
+        @(Html.Kendo()
+                        .AutoComplete()
+                        .Name("user-skill-input")
+                        .DataTextField("Name")
+                        .MinLength(1)
+                        .Placeholder("Select Skill")
+                        .DataSource(data =>
+                        {
+                            data.Read(read =>
+                            {
+                                read.Action("AvailableSkills", "Users")
+                                .Data("onAdditionalData");
+                            }).ServerFiltering(true);
+                        }))
+            <button id="add-skill-btn">Add Skill</button>
+            <span id="skill-panel" style="height:25px;"></span>
+        <hr />
+        <div id="skill-list">
+            @Html.Action("GetSkillList")
+        </div>
+      </div>
+    }
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+<script>
+    function onAdditionalData() {
+        return {
+            text: $('#user-skill-input').val(),
+        }
+    }
+
+    $('#add-skill-btn').on('click', function (evt) {
+        evt.preventDefault();
+        $.post('/users/addskill', 'name=' + $('#user-skill-input').val())
+            .then(function (s) {
+                $('#skill-panel').empty()
+                var el = $('<span></span>');
+                el.text(s).appendTo($('#skill-panel'));
+                el.fadeOut(2000, function () {
+                    $('#skill-panel').empty();
+                });
+                
+                updateElementAsync(document.getElementById('skill-list'), '/users/GetSkillList');
+
+            }, function (e) {
+                $('#skill-panel').empty()
+                var el = $('<span></span>');
+                el.text(e).appendTo($('#skill-panel'));
+                el.fadeOut(2000, function () {
+                    $('#skill-panel').empty();
+                });
+            });
+    });
+
+    document.getElementById('skill-list')
+        .addEventListener('mouseover', function (evt) {
+            if (evt.target instanceof HTMLSpanElement) {
+                var prevSelected = document.getElementById('selected-skill');
+                if (prevSelected) {
+                    prevSelected.id = '';
+                }
+                
+                evt.target.id = 'selected-skill';
+            }
+            else if (!(evt.target instanceof HTMLAnchorElement) ) {
+                var prevSelected = document.getElementById('selected-skill');
+                if (prevSelected) {
+                    prevSelected.id = '';
+                }
+            }
+
+            evt.stopPropagation();
+        }, false);
+
+    //document.getElementById('skill-list')
+    //   .addEventListener('mouseout', function (evt) {
+    //       if (evt.target == this || evt.target == this.parentElement) {
+    //           var prevSelected = document.getElementById('selected-skill');
+    //           if (prevSelected) {
+    //               prevSelected.id = '';
+    //           }
+    //       }
+    //   }, true);
+
+    document.getElementById('skill-list')
+        .addEventListener('click', function (evt) {
+            if (evt.target instanceof HTMLAnchorElement) {
+                evt.preventDefault();
+                var firstElement = this.firstChild;
+
+                while (firstElement && firstElement.nodeType != 1) {
+                    firstElement = firstElement.nextSibling;
+                }
+
+                firstElement.style.display = 'none';
+
+                var that = this;
+
+                var confirmWindow = getConfirmationWindow(
+                    function () {
+                        var parsedData = evt.target.getAttribute('href').split('?');
+                        var img = document.createElement('img');
+                        img.src = "/img/loading.gif";
+                        that.appendChild(img);
+                        $.ajax({
+                            url: parsedData[0],
+                            data: parsedData[1],
+                            type: 'post',
+                            success: function (s) {
+                                that.innerHTML = s;
+                            },
+                        });
+                    },
+                    function () {
+                        firstElement.style.display = 'block';
+                    },
+                    'Are You Sure You Want To Remove Skill ' + evt.target.parentElement.firstChild.nodeValue + ' ?');
+
+                this.appendChild(confirmWindow);
+            }
+    });
+
+    function getConfirmationWindow(confirmAction, cancelAction, message) {
+        var container = document.createElement('div');
+        container.innerHTML = message + '<br/>';
+
+        var btnConfirm = document.createElement('button');
+        btnConfirm.innerText = 'Yes';
+
+        var btnCancel = document.createElement('button');
+        btnCancel.innerText = 'No';
+
+        btnConfirm.addEventListener('click', function () {
+            confirmAction();
+            container.parentElement.removeChild(container);
+        });
+
+        btnCancel.addEventListener('click', function () {
+            cancelAction();
+            container.parentElement.removeChild(container);
+        });
+
+        container.appendChild(btnConfirm);
+        container.appendChild(btnCancel);
+
+        return container;
+    }
+
+    function updateElementAsync(el, action) {
+        el.innerHTML = '';
+        var img = document.createElement('img');
+        img.src = "/img/loading.gif";
+        el.appendChild(img);
+
+        $.ajax({
+            url: action,
+            type: 'get',
+            success: function (s) {
+                el.innerHTML = s;
+            },
+        });
+    }
+</script>

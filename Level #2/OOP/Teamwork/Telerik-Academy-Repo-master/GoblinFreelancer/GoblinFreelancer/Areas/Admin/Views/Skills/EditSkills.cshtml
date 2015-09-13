@@ -1,0 +1,25 @@
+﻿<h2>Edit categories</h2>
+
+@(Html.Kendo().Grid<GoblinFreelancer.Areas.Admin.Models.CategoryAdministrationModel>()
+              .Name("Skills")
+              .Columns(column =>
+              {
+                  column.AutoGenerate(true);
+                  column.Command(command =>
+                  {
+                      command.Edit();
+                      command.Destroy();
+                  }).Width(200);
+              })
+              .Pageable()
+              .Sortable()
+              .Editable(edit => edit.Mode(GridEditMode.PopUp))
+              .ToolBar(tools => tools.Create().Text("Add new skill"))
+              .DataSource(dataSource => dataSource.Ajax()
+                                                  .Model(model => model.Id(item => item.Id))
+                                                      .Read("Get", "Skills")
+                                                      .Destroy("Delete", "Skills")
+                                                      .Update("Edit", "Skills")
+                                                      .Create("Create", "Skills")
+                                                      .ServerOperation(true))
+)

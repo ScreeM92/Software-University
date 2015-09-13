@@ -1,0 +1,8 @@
+E:\Programming\SoftUni\01. Intro\Intro\SquareRoot\bin\Debug\SquareRoot.exe.config
+E:\Programming\SoftUni\01. Intro\Intro\SquareRoot\bin\Debug\SquareRoot.exe
+E:\Programming\SoftUni\01. Intro\Intro\SquareRoot\bin\Debug\SquareRoot.pdb
+E:\Programming\SoftUni\01. Intro\Intro\SquareRoot\obj\Debug\SquareRoot.exe
+E:\Programming\SoftUni\01. Intro\Intro\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\SquareRoot\obj\Debug\SquareRoot.pdb

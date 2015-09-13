@@ -1,0 +1,9 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\VariableInHex\bin\Debug\VariableInHex.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\VariableInHex\bin\Debug\VariableInHex.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\VariableInHex\bin\Debug\VariableInHex.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\VariableInHex\obj\Debug\VariableInHex.csprojResolveAssemblyReference.cache
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\VariableInHex\obj\Debug\VariableInHex.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\VariableInHex\obj\Debug\VariableInHex.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\VariableInHex\bin\Debug\VariableInHex.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\VariableInHex\obj\Debug\VariableInHex.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\VariableInHex\obj\Debug\VariableInHex.pdb

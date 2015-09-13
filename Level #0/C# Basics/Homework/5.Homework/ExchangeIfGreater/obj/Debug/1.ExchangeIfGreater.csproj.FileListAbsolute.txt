@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb

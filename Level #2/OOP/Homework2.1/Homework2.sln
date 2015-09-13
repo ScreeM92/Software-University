@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.1,2,3", "Homework2\Ex.1,2,3.csproj", "{1C29B0FB-1E76-4D9C-B86A-ECFA54AA0FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Namespaces", "6.Namespaces\6.Namespaces.csproj", "{E6ECFCA7-34BC-4555-9446-D6F1494BAA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ElementBuilder", "4.ElementBuilder\4.ElementBuilder.csproj", "{6709208E-164E-4214-B76F-5C81247226DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C29B0FB-1E76-4D9C-B86A-ECFA54AA0FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C29B0FB-1E76-4D9C-B86A-ECFA54AA0FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C29B0FB-1E76-4D9C-B86A-ECFA54AA0FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C29B0FB-1E76-4D9C-B86A-ECFA54AA0FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6ECFCA7-34BC-4555-9446-D6F1494BAA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6ECFCA7-34BC-4555-9446-D6F1494BAA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6ECFCA7-34BC-4555-9446-D6F1494BAA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6ECFCA7-34BC-4555-9446-D6F1494BAA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6709208E-164E-4214-B76F-5C81247226DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6709208E-164E-4214-B76F-5C81247226DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6709208E-164E-4214-B76F-5C81247226DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6709208E-164E-4214-B76F-5C81247226DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

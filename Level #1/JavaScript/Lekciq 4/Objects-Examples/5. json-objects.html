@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>JS Console - Example</title>
+</head>
+<body>
+	<script>
+		var person = {
+			firstName: 'Tom',
+			lastName: 'Miller',
+			toString: function () {
+				return this.firstName + " " + this.lastName;
+			}
+		}
+
+		//var person = new Object();
+		//person.firstname = "Tom";
+		//person.lastname = "Miller";
+		//person.toString = function () {
+		//	return this.firstname + " " + this.lastname;
+		//}
+
+		function renamePerson(personObj, fname, lname) {
+			personObj.firstName = fname || personObj.firstName;
+			personObj.lastName = lname || personObj.lastName;
+		}
+
+		console.log(person);
+		renamePerson(person, 'Stamat');
+		console.log(person);
+	</script>
+</body>
+</html>

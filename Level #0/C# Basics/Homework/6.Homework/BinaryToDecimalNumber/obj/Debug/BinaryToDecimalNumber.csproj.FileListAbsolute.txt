@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.csprojResolveAssemblyReference.cache

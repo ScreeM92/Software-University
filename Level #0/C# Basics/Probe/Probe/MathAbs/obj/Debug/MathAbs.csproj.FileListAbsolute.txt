@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\MathAbs\bin\Debug\MathAbs.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\MathAbs\bin\Debug\MathAbs.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\MathAbs\bin\Debug\MathAbs.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\MathAbs\obj\Debug\MathAbs.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\MathAbs\obj\Debug\MathAbs.pdb

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<GoblinFreelancer.Areas.Admin.Models.UserAdministrationModel>
+
+<h2>Manage users</h2>
+
+@(Html.Kendo()
+        .Grid(Model)
+        .Name("Users")
+        .Columns( c =>
+        {
+            c.Bound(u => u.UserName);
+            c.Bound(u => u.IsBanned);
+            c.Command(command => command.Edit());
+        })
+        .Pageable()
+        .Sortable()
+        .Editable(editable => editable.Mode(GridEditMode.PopUp))
+        .DataSource(data => data.Ajax()
+                            .Model(m => m.Id(b => b.Id))
+                            .PageSize(5)
+                            .Update("EditUser", "Users")
+                            .ServerOperation(true)
+                            .Read("GetUsers", "Users"))
+)

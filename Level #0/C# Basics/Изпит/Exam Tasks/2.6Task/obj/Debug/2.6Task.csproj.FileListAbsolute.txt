@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.6Task\bin\Debug\2.6Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.6Task\bin\Debug\2.6Task.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.6Task\obj\Debug\2.6Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.6Task\obj\Debug\2.6Task.pdb
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\2.6Task\obj\Debug\2.6Task.exe
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\2.6Task\obj\Debug\2.6Task.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\2.6Task\obj\Debug\2.6Task.exe
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\2.6Task\obj\Debug\2.6Task.pdb

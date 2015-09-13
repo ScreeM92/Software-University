@@ -1,0 +1,6 @@
+D:\SoftUni\OOP\Homework1\Persons\Persons\bin\Release\Persons.exe
+D:\SoftUni\OOP\Homework1\Persons\Persons\bin\Release\Persons.pdb
+D:\SoftUni\OOP\Homework1\Persons\Persons\obj\x86\Release\Persons.exe
+D:\SoftUni\OOP\Homework1\Persons\Persons\obj\x86\Release\Persons.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\3\Homework1\Persons\Persons\obj\x86\Release\Persons.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\3\Homework1\Persons\Persons\obj\x86\Release\Persons.pdb

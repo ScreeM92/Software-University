@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Annonymous-Types\bin\Debug\Annonymous-Types.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Annonymous-Types\bin\Debug\Annonymous-Types.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Annonymous-Types\obj\x86\Debug\2. Annonymous-Types.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Annonymous-Types\obj\x86\Debug\Annonymous-Types.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq4\Demo\Annonymous-Types\obj\x86\Debug\Annonymous-Types.pdb

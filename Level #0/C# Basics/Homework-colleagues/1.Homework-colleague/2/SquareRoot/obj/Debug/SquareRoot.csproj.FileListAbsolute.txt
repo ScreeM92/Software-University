@@ -1,0 +1,9 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\SquareRoot\obj\Debug\SquareRoot.pdb

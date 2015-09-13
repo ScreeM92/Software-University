@@ -1,0 +1,11 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\NumberComparer\obj\Debug\NumberComparer.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumberComparer\obj\Debug\NumberComparer.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumberComparer\obj\Debug\NumberComparer.csprojResolveAssemblyReference.cache

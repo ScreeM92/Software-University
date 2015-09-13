@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\02-CustomLINQ\bin\Debug\02-CustomLINQ.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\02-CustomLINQ\obj\Debug\02-CustomLINQ.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\02-CustomLINQ\bin\Debug\02-CustomLINQ.exe
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\02-CustomLINQ\bin\Debug\02-CustomLINQ.pdb
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\02-CustomLINQ\obj\Debug\02-CustomLINQ.exe
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\02-CustomLINQ\obj\Debug\02-CustomLINQ.pdb

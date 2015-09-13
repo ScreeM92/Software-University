@@ -1,0 +1,9 @@
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\9. PrintSequence\bin\Debug\_9.PrintSequence.exe.config
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\9. PrintSequence\bin\Debug\_9.PrintSequence.exe
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\9. PrintSequence\bin\Debug\_9.PrintSequence.pdb
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\9. PrintSequence\obj\Debug\9. PrintSequence.csprojResolveAssemblyReference.cache
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\9. PrintSequence\obj\Debug\_9.PrintSequence.exe
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\9. PrintSequence\obj\Debug\_9.PrintSequence.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\9. PrintSequence\bin\Debug\_9.PrintSequence.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\9. PrintSequence\obj\Debug\_9.PrintSequence.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\9. PrintSequence\obj\Debug\_9.PrintSequence.pdb

@@ -1,0 +1,5 @@
+c:\users\vladi\documents\visual studio 2013\Projects\BeerTime\BeerTime\bin\Debug\BeerTime.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\BeerTime\BeerTime\bin\Debug\BeerTime.exe
+c:\users\vladi\documents\visual studio 2013\Projects\BeerTime\BeerTime\bin\Debug\BeerTime.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\BeerTime\BeerTime\obj\Debug\BeerTime.exe
+c:\users\vladi\documents\visual studio 2013\Projects\BeerTime\BeerTime\obj\Debug\BeerTime.pdb

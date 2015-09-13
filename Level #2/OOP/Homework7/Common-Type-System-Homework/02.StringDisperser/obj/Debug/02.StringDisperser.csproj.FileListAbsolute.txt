@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\02.StringDisperser\bin\Debug\02.StringDisperser.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\02.StringDisperser\bin\Debug\02.StringDisperser.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\02.StringDisperser\bin\Debug\02.StringDisperser.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\02.StringDisperser\obj\Debug\02.StringDisperser.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\02.StringDisperser\obj\Debug\02.StringDisperser.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework7\Common-Type-System-Homework\02.StringDisperser\obj\Debug\02.StringDisperser.pdb

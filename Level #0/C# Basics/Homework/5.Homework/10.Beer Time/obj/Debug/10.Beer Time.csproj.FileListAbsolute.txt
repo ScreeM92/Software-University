@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\10.Beer Time\bin\Debug\10.Beer Time.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\10.Beer Time\bin\Debug\10.Beer Time.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\10.Beer Time\bin\Debug\10.Beer Time.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\10.Beer Time\obj\Debug\10.Beer Time.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\10.Beer Time\obj\Debug\10.Beer Time.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\10.Beer Time\obj\Debug\10.Beer Time.pdb

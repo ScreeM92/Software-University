@@ -1,0 +1,65 @@
+@mixin defaultDiv{
+  width: $width;
+  height: $height;
+  display:inline-block;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  margin-left:-3.6px;
+}
+
+@mixin vertical-gradient-btn($from, $to,$repeat:none) {
+  background-image: -webkit-linear-gradient(top, $from, $to);
+  background-image: -moz-linear-gradient(top, $from, $to);
+  background-image: -ms-linear-gradient(top, $from, $to);
+  background-image: -o-linear-gradient(top, $from, $to);
+  background-image: linear-gradient(to bottom, $from, $to);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$from}', endColorstr='#{$to}',GradientType=0 );
+  background-repeat:$repeat;
+}
+
+@mixin vertical-gradient($from, $to,$repeat:none) {
+  @include defaultDiv;
+  background-image: -webkit-linear-gradient(top, $from, $to);
+  background-image: -moz-linear-gradient(top, $from, $to);
+  background-image: -ms-linear-gradient(top, $from, $to);
+  background-image: -o-linear-gradient(top, $from, $to);
+  background-image: linear-gradient(to bottom, $from, $to);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$from}', endColorstr='#{$to}',GradientType=0 );
+  background-repeat:$repeat;
+}
+
+@mixin diagonal-gradient($from, $to,$repeat:none) {
+  @include defaultDiv;
+  background: $from;
+  background: -moz-linear-gradient(-45deg, $from, $to);
+  background: -webkit-gradient(linear, left top, right bottom,$from, $to);
+  background: -webkit-linear-gradient(-45deg,  $from, $to);
+  background: -o-linear-gradient(-45deg,  $from, $to);
+  background: -ms-linear-gradient(-45deg,  $from, $to);
+  background: linear-gradient(135deg,  $from, $to);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='{$from}', endColorstr='#{to}',GradientType=1 );
+}
+
+@mixin horizontal-gradient($from, $to,$repeat:none) {
+  @include defaultDiv;
+  background-image: -webkit-linear-gradient(left, $from, $to);
+  background-image: -moz-linear-gradient(left, $from, $to);
+  background-image: -ms-linear-gradient(left, $from, $to);
+  background-image: -o-linear-gradient(left, $from, $to);
+  background-image: linear-gradient(to right, $from, $to);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$from}', endColorstr='#{$to}',GradientType=0 );
+  background-repeat:$repeat;
+}
+
+@mixin radial-gradient($from, $to,$repeat:none) {
+  @include defaultDiv;
+  background: $from;
+  background: -moz-radial-gradient(center, ellipse cover, $from, $to);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop($from), color-stop($to));
+  background: -webkit-radial-gradient(center, ellipse cover,  $from, $to);
+  background: -o-radial-gradient(center, ellipse cover, $from, $to);
+  background: -ms-radial-gradient(center, ellipse cover,  $from, $to);
+  background: radial-gradient(ellipse at center,$from, $to);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$from}', endColorstr='#{$to}',GradientType=0 );
+}

@@ -1,0 +1,8 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

@@ -1,0 +1,3 @@
+2
+nakov 10 beers
+alex 5 beers

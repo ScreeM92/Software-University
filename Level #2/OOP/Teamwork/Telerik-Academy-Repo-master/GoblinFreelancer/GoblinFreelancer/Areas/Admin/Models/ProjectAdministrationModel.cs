@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Web;
+
+namespace GoblinFreelancer.Areas.Admin.Models
+{
+    public class ProjectAdministrationModel
+    {
+        [ScaffoldColumn(false)]
+        public int Id { get; set; }
+
+        [Required]
+        [MaxLength(50)]
+        public string Name { get; set; }
+
+        [Required]
+        [MaxLength(500)]
+        public string Summary { get; set; }
+        public string CategoryName { get; set; }
+        public string OwnerUserName { get; set; }
+        public List<string> Collaborators { get; set; }
+        public List<string> RequiredSkills { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public DateTime Deadline { get; set; }
+        public decimal Salary { get; set; }
+    }
+}

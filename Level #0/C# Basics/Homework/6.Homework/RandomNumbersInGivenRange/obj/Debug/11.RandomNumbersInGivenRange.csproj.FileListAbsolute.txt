@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\RandomNumbersInGivenRange\bin\Debug\RandomNumbersInGivenRange.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\RandomNumbersInGivenRange\obj\Debug\RandomNumbersInGivenRange.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\RandomNumbersInGivenRange\obj\Debug\RandomNumbersInGivenRange.pdb

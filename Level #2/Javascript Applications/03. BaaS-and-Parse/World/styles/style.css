@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;
+	outline: none;
+}
+
+#wrapper{
+	width: 500px;
+	margin: 0 auto;
+	font-size: 25px;
+}
+
+.country {
+	cursor: pointer;
+}
+
+.buttons {
+	display: none;
+	float: right;
+}
+
+.town-buttons {
+	display: none;
+	float: right;
+}
+
+button {
+	border: none;
+	background: none;
+	color: gray;
+	cursor: pointer;
+	font-size: .8em;
+}
+
+button:hover{
+	color: red;
+}
+
+#countries, #countries > li {
+	width: 300px;
+}
+
+#countries > li {
+	list-style: none;
+}
+
+#countries > li:nth-child(even) {
+	background: #E6E6E6;
+}
+
+.town {
+	width: 100px;
+	border: none;
+	font-size: 1em;
+}
+
+input{
+	font-size: .8em;
+	width: 210px;
+	border: none;
+}
+
+.noty_message {
+    font-size: 1.2em !important;
+}

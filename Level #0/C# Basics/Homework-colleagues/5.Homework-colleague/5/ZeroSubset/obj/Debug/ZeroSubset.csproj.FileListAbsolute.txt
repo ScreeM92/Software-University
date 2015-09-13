@@ -1,0 +1,6 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ZeroSubset\bin\Debug\ZeroSubset.exe.config
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ZeroSubset\bin\Debug\ZeroSubset.exe
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ZeroSubset\bin\Debug\ZeroSubset.pdb
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ZeroSubset\obj\Debug\ZeroSubset.exe
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ZeroSubset\obj\Debug\ZeroSubset.pdb
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ZeroSubset\obj\Debug\ZeroSubset.csprojResolveAssemblyReference.cache

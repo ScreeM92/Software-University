@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Product\bin\Debug\Product.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Product\bin\Debug\Product.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Product\obj\Debug\05. Product N..M.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Product\obj\Debug\Product.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Product\obj\Debug\Product.pdb

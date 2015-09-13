@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\QuadraticEquasion\obj\Debug\QuadraticEquasion.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\QuadraticEquasion\obj\Debug\QuadraticEquasion.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\QuadraticEquasion\bin\Debug\QuadraticEquasion.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\QuadraticEquasion\bin\Debug\QuadraticEquasion.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\QuadraticEquasion\obj\Debug\06.QuadraticEquasion.csprojResolveAssemblyReference.cache

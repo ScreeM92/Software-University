@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

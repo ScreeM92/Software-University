@@ -1,0 +1,5 @@
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication7\bin\Release\ConsoleApplication7.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication7\bin\Release\ConsoleApplication7.exe
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication7\bin\Release\ConsoleApplication7.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication7\obj\Release\ConsoleApplication7.exe
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication7\obj\Release\ConsoleApplication7.pdb

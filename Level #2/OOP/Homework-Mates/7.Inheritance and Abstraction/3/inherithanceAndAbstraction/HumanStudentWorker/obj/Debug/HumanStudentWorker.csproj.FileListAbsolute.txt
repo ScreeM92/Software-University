@@ -1,0 +1,2 @@
+c:\users\georgi.angelov\documents\visual studio 2012\Projects\inherithanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\3\inherithanceAndAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config

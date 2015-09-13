@@ -1,0 +1,2 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\OddOrEven\obj\Debug\OddOrEven.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\OddOrEven\obj\Debug\OddOrEven.pdb

@@ -1,0 +1,95 @@
+﻿@model IEnumerable<GoblinFreelancer.ViewModels.ProjectViewModelShort>
+@{
+    ViewBag.Title = "Hire Developer For Project";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div id="my-projects-hire">
+   @if(Model.Count() > 0)
+   { 
+    <table id="my-projects">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <a href="/Projects/ViewProject/@item.Id">@item.Name</a> 
+                    </td>
+                    <td>
+                        
+                        <input type="hidden" name="projectId" value="@item.Id" />
+                        <span class="btn-wrap">
+                            @{  
+                                var project = new GoblinFreelancer.Repository.UowData().Projects.GetById(item.Id);
+                                var collaborator = project.Collaborators.FirstOrDefault(collab => collab.UserName == Request.Params["Hire"]);
+                                if (collaborator != null)
+	                            {
+		                            <button class="remove-collaborator-btn">Remove from project</button>
+	                            }
+                                else
+                                {
+                                    <button class="hire-collaborator-btn">Hire me</button>
+                                }
+                             }
+                            
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+   }
+   else
+   {
+       <div>You have no projects.</div>
+   }
+
+    @{
+        var username = Request.Params["Hire"];
+        var user = new GoblinFreelancer.Repository.UowData().Users.All().FirstOrDefault(u => u.UserName == username);
+        string userId = null;
+        if (user != null)
+        {
+            userId = user.Id;
+        }
+    }
+    <input type="hidden" name="userNameToHire" value="@Request.Params["Hire"]" id="user-to-hire" />
+    <input type="hidden" name="userIdToHire" value="@userId" id="userId-to-hire" />
+</div>
+
+<script>
+    $('.hire-collaborator-btn').on('click', function (evt) {
+        evt.preventDefault();
+        var parent = $(this).parent();
+        var username = $('#user-to-hire').val();
+        var projectId = parent.prev().val();
+
+        $.post('/Projects/AddCollaborator?projectId=' + projectId, 'name=' + username)
+            .then(function (s) {
+                window.location.reload();
+            }, function (e) {
+                console.log(e);
+            });
+    });
+
+    $('.remove-collaborator-btn').on('click', function (evt) {
+        evt.preventDefault();
+        var parent = $(this).parent();
+        var userId = $('#userId-to-hire').val();
+        var projectId = parent.prev().val();
+
+        $.post('/Projects/RemoveCollaborator?projectId=' + projectId, 'colid=' + userId)
+            .then(function (s) {
+                window.location.reload();
+            }, function (e) {
+                console.log(e);
+            });
+    });
+</script>

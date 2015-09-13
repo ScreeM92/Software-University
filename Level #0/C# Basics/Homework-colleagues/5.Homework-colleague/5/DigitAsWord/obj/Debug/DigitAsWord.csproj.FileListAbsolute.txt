@@ -1,0 +1,5 @@
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\DigitAsWord\bin\Debug\DigitAsWord.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\DigitAsWord\bin\Debug\DigitAsWord.pdb
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\DigitAsWord\obj\Debug\DigitAsWord.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\DigitAsWord\obj\Debug\DigitAsWord.pdb

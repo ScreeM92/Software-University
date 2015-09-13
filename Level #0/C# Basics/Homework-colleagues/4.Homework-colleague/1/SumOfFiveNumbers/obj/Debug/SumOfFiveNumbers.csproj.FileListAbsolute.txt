@@ -1,0 +1,8 @@
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.pdb
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.exe
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.pdb

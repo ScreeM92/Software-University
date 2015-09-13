@@ -1,0 +1,13 @@
+<div ng-controller="HomeController">
+	<div ng-if="authService.isLoggedIn()" class="user-area">
+	  <span>Hello, {{authService.getCurrentUser().userName}}</span>
+	  <a ng-click="logout()" class="link">Logout</a>
+	</div>
+
+	<span ng-if="authService.isLoggedIn()">Social Network - {{pageTitle}}</span>
+	<span ng-if="authService.isAnonymous()">Social Network</span>
+	<span ng-if="authService.isLoggedIn()">
+		<a id="btn-search" ng-click="searchUsers(inputUser)" class="button">Search</a>
+		<input type="text" ng-model="inputUser" placeholder="Search" id="search" />
+	</span>
+</div>

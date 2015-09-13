@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+#main{
+    width: 1300px;
+    height: 287px;
+    background-color: #234465;
+}
+
+#first{
+    /*width: 150px;*/
+    margin-left: 100px;
+    margin-top: 50px;
+    float:left;
+}
+#second, #third, #forth{
+    /*width: 200px;*/
+    margin-left: 30px;
+    margin-top: 50px;
+    float: left;
+}
+#third{
+    margin-left: 40px;
+}
+#forth{
+    margin-left: 70px;
+}
+#fb{
+    margin-left: 80px;
+    margin-top: 30px;
+    float: left;
+}
+iframe{
+    background-color: #e9ecef;
+}
+#button1{
+    color: white;
+    padding: 8px 37px;
+    margin-bottom: 10px;
+    display: block;
+}
+#button2{
+    color: white;
+    padding: 8px 14px;
+}
+.button{
+    background-color: #234465;
+    border: 2px solid #e5990b;
+    cursor: pointer;
+}
+#second h4, #third h4, #forth h4{
+    text-transform: uppercase;
+    color: #e5990b;
+    margin-bottom: 10px;
+    font-size: 13px;
+}
+ul li a{
+    color: #d3d2d1;
+    text-decoration: none;
+    font-size: 13px;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    margin-top: 5px;
+    color: #d3d2d1;
+    font-size: 13px;
+}
+#icons{
+    margin-top: 20px;
+}
+.fb-like-box {
+}
+#last{
+    width: 400px;
+    height: 47px;
+    background-color: #234465;
+    position: absolute;
+    top: 40%;
+    left: 70%;
+}
+
+

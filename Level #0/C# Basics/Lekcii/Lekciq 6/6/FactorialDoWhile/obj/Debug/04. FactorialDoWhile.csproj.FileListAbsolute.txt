@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialDoWhile\bin\Debug\FactorialDoWhile.exe.config
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialDoWhile\bin\Debug\FactorialDoWhile.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialDoWhile\bin\Debug\FactorialDoWhile.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialDoWhile\obj\Debug\04. FactorialDoWhile.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialDoWhile\obj\Debug\FactorialDoWhile.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialDoWhile\obj\Debug\FactorialDoWhile.pdb

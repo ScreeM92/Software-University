@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

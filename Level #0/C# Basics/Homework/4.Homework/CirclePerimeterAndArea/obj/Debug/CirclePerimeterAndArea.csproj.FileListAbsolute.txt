@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb

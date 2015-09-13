@@ -1,0 +1,59 @@
+﻿@model IEnumerable<GoblinFreelancer.ViewModels.ProjectViewModelFull>
+
+@{
+    ViewBag.Title = "Search";
+}
+<h2>Search for: @ViewBag.Query</h2>
+<div>
+    <form action="~/Projects/Search" method="post">
+        @(Html.Kendo().AutoComplete()
+        .Name("search")
+        .DataTextField("Name")
+        .HtmlAttributes(new { name = "query" })
+        .DataSource(
+        d =>
+        {
+            d.Read(r =>
+            {
+                r.Action("GetProjectsNames", "Projects")
+                    .Data("onAdditionalData");
+
+            }).ServerFiltering(true);
+        }))
+        <input type="submit" class="btn" value="Search" />
+    </form>
+    <script>
+        function onAdditionalData() {
+            return {
+                text: $("#search").val()
+            };
+        }
+    </script>
+</div>
+@(Html.Kendo()
+    .Grid(Model)
+    .Name("Projects")
+    .Columns(columns =>
+        {
+            columns.Bound(c => c.Name).ClientTemplate("<a href=\"Projects/ViewProject/#:Id#\">#:Name#</a>");
+            columns.Bound(c => c.Summary);
+            columns.Bound(c => c.Owner)
+                .ClientTemplate("<a href='/Users/UserProfile?username=#:Owner#'>#:Owner#</a>");
+            columns.Bound(c => c.Skills);
+            columns.Bound(c => c.CategoryName).ClientTemplate(
+                @"<a href=""\/Categories/Projects?category=#:CategoryName#"">#:CategoryName#<p>"
+                );
+            columns.Bound(c => c.CreatedOn);
+            columns.Bound(c => c.Deadline);
+            columns.Bound(c => c.Salary).ClientTemplate("#:Salary#$");
+        })
+        .Pageable()
+        .Sortable()
+        .DataSource(dataSource => dataSource
+            .Ajax()
+            .Model(model => model.Id(b => b.Id))
+            .PageSize(5)
+            .ServerOperation(true)
+            .Read("ReadProjectsSearch", "Projects", new { query= ViewBag.Query })
+            )
+)

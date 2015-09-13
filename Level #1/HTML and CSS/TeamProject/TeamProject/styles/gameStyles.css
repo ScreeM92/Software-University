@@ -1,0 +1,51 @@
+﻿@font-face {
+    font-family: 'font';
+    src: url('./fonts/glyphicons-halflings-regular.eot');
+    src: local('☺'), url('./fonts/glyphicons-halflings-regular.woff') format('woff'), url('./fonts/glyphicons-halflings-regular.ttf') format('truetype');
+}
+#game{
+    font-family: font, sans-serif;
+    font-size: 1.25em;
+    background-color: #C5C9D1;
+    width: 900px;
+    height: 500px;
+    text-align: center;
+}
+#game input{
+    display: none;
+    margin-top: 50px;
+    height: 35px;
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+}
+#game #remaining{
+    margin: 25px 100px;
+}
+#game #guessedTags {
+    display: none;
+    background-color: #00f;
+    color: #fff;
+    font-size: 1em;
+    box-shadow: 10px 10px 20px;
+    margin: 0 100px;
+    width: 650px;
+    text-align: left;
+}
+#start{
+    width: 125px;
+    height: 75px;
+    font-size: 45px;
+}
+meter{
+    width: 300px;
+    height: 25px;
+    display: block;
+    display: none;
+}
+body > a {
+	margin-left: 46.5%;
+}
+footer {
+	height: 243px;
+}

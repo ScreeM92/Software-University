@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\ReformatCode\bin\Debug\PascalCase.exe.config
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\ReformatCode\obj\Debug\PascalCase.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\ReformatCode\obj\Debug\PascalCase.pdb

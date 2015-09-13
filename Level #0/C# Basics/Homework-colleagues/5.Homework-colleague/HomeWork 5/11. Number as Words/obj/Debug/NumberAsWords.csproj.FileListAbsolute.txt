@@ -1,0 +1,5 @@
+c:\users\vladi\documents\visual studio 2013\Projects\NumberAsWords\NumberAsWords\bin\Debug\NumberAsWords.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\NumberAsWords\NumberAsWords\bin\Debug\NumberAsWords.exe
+c:\users\vladi\documents\visual studio 2013\Projects\NumberAsWords\NumberAsWords\bin\Debug\NumberAsWords.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\NumberAsWords\NumberAsWords\obj\Debug\NumberAsWords.exe
+c:\users\vladi\documents\visual studio 2013\Projects\NumberAsWords\NumberAsWords\obj\Debug\NumberAsWords.pdb

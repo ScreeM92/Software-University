@@ -1,0 +1,9 @@
+c:\users\vladi\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\vladi\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
+c:\users\vladi\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+c:\users\vladi\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\1. Exchange If Greater\bin\Debug\ExchangeIfGreater.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\1. Exchange If Greater\obj\Debug\ExchangeIfGreater.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\1. Exchange If Greater\obj\Debug\ExchangeIfGreater.pdb

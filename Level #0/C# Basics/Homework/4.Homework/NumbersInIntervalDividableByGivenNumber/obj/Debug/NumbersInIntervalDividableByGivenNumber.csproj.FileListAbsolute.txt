@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb

@@ -1,0 +1,8 @@
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5.Conditional Statements Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

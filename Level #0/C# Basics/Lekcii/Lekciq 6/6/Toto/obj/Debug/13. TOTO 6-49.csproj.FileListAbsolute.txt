@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Toto\bin\Debug\Toto.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Toto\bin\Debug\Toto.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Toto\obj\Debug\13. TOTO 6-49.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Toto\obj\Debug\Toto.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Toto\obj\Debug\Toto.pdb

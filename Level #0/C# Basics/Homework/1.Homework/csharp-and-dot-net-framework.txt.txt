@@ -1,0 +1,4 @@
+C# is high-level programming language. C# was developed for .NET Framework and run on it.
+.NET Framework is platform for Windows OS. Programs written for it execute in a Common Language Runtime (CLR),
+an application virtual machine that provides services such a security, memory management, and exceptions
+handling. The class library and the CLR together constitute .NET Framework.

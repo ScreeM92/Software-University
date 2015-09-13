@@ -1,0 +1,15 @@
+<ul class="listItems">
+    {{#each results}}
+    <li class="item" data-id="{{objectId}}">
+        <a href="#/myNotes/">
+            <h2 id="title">{{title}}</h2>
+            <p id="text">{{text}}</p>
+            <div class="author" title="author">{{author.fullName}}</div>
+            <div class="deadline" title="deadline">{{deadline}}</div>
+        </a>
+        <button class="edit">Edit</button>
+        <button class="delete">Delete</button>
+    </li>
+    {{/each}}
+</ul>
+<div id="pagination"></div>

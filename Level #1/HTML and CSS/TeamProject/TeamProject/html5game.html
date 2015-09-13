@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTML5 Game</title>
+	<link href="styles/home-styles.css" rel="stylesheet" />
+    <script src="scripts/jquery-1.9.0.min.js"></script>
+    <link href="styles/gameStyles.css" rel="stylesheet" />
+    <script src="scripts/game.js"></script>
+</head>
+<body>
+    <div id="game">
+        <h1>HTML5 Game</h1>
+        <p>How many HTML5 elements can you name in 5 minutes?</p>
+        <button id="start" onclick="startGame();">Start</button>
+        <meter min="0" max="300" value="0"></meter>
+        <form>
+            <input type="text" id="input" placeholder="Type Tag" />
+            <input id="reset" type="reset" style="display: none;"/>
+        </form>
+        <div id="remaining"></div>
+        <div id="guessedTags"></div>
+    </div>
+	<a href="Home Page.html"><img alt="SoftUni logo" src="images/softuni-logo.png"/></a>
+<footer>
+		<div>
+			<h1>The Software University Survival Guide</h1>
+			<h3>Made by Team Nozdormu</h3>
+			<h4>Useful Links:</h4>
+			<a href="https://softuni.bg" target="_blank">SoftUni</a>
+			<br/>
+			<a href="http://www.nakov.com/" target="_blank">Nakov's blog</a>
+			<br/>
+			<a href="http://www.introprogramming.info/" target="_blank">C# & Java books</a>
+		</div>
+</footer>
+</body>
+</html>

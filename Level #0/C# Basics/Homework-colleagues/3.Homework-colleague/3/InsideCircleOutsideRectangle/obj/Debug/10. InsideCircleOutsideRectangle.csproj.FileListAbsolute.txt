@@ -1,0 +1,4 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\InsideCircleOutsideRectangle\bin\Debug\InsideCircleOutsideRectangle.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\InsideCircleOutsideRectangle\bin\Debug\InsideCircleOutsideRectangle.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\InsideCircleOutsideRectangle\obj\Debug\InsideCircleOutsideRectangle.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\InsideCircleOutsideRectangle\obj\Debug\InsideCircleOutsideRectangle.pdb

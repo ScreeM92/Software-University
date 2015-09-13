@@ -1,0 +1,86 @@
+﻿@model GoblinFreelancer.Models.Project
+
+<form method="post" id="CreateProjectForm">
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset class="form-horizontal">
+        <legend>Create a new project</legend>
+        <div class="control-group">
+            @Html.LabelFor(m => m.Name, new { @class = "control-label" })
+            <div class="controls">
+                @Html.TextBoxFor(m => m.Name)
+                @Html.ValidationMessageFor(m => m.Name, null, new { @class = "help-inline" })
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(m => m.Summary, new { @class = "control-label" })
+            <div class="controls">
+                @Html.TextBoxFor(m => m.Summary)
+                @Html.ValidationMessageFor(m => m.Summary, null, new { @class = "help-inline" })
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(m => m.Salary, new { @class = "control-label" })
+            <div class="controls">
+                @Html.TextBoxFor(m => m.Salary)
+                @Html.ValidationMessageFor(m => m.Salary, null, new { @class = "help-inline" })
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(m => m.Category.Id, new { @class = "control-label" })
+            <div class="controls">
+                @Html.DropDownListFor(m => m.Category.Id, (IEnumerable<SelectListItem>)ViewBag.Categories)
+                @Html.ValidationMessageFor(m => m.Category.Id, null, new { @class = "help-inline" })
+                <input type="hidden" value="Category.Name" name="Category.Name" />
+            </div>
+        </div>
+        <div class="form-actions no-color">
+            <input type="submit" id="createProjectButton" value="Create" class="btn" />
+        </div>
+    </fieldset>
+</form>
+<script>
+    function getFormResult(root) {
+        var form = document.getElementById(root);
+
+        var formDataString = '';
+
+        var inputs = form.getElementsByTagName('input');
+        for (var i = 0; i < inputs.length; i++) {
+            if (inputs[i].getAttribute('type') == 'radio' && !inputs[i].checked) {
+                continue;
+            }
+
+            formDataString += encodeURIComponent(inputs[i].name) + '=' + encodeURIComponent(inputs[i].value) + '&';
+        }
+
+        var selects = form.getElementsByTagName('select');
+        for (var i = 0; i < selects.length; i++) {
+            formDataString += encodeURIComponent(selects[i].name) + '=' + encodeURIComponent(selects[i].value) + '&';
+        }
+
+        formDataString = formDataString.substring(0, formDataString.length - 1);
+
+        return formDataString;
+    }
+    $("#createProjectButton").click(function (e) {
+        e.preventDefault();
+        $.ajax({
+            url: "/Projects/CreateProject",
+            data: getFormResult("CreateProjectForm"),
+            type: "POST",
+            success: function (data) {
+                if (data) {
+                    $("#CreateProjectForm").html(data);
+                }
+                else {
+                    window.location.reload();
+                }
+            }
+        });
+    });
+</script>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

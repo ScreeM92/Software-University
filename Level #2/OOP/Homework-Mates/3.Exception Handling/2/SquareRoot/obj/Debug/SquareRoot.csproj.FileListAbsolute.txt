@@ -1,0 +1,9 @@
+c:\users\orgfjsl\documents\visual studio 2013\Projects\Homework-Exception-Handling\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\orgfjsl\documents\visual studio 2013\Projects\Homework-Exception-Handling\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\orgfjsl\documents\visual studio 2013\Projects\Homework-Exception-Handling\SquareRoot\bin\Debug\SquareRoot.pdb
+c:\users\orgfjsl\documents\visual studio 2013\Projects\Homework-Exception-Handling\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+c:\users\orgfjsl\documents\visual studio 2013\Projects\Homework-Exception-Handling\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\orgfjsl\documents\visual studio 2013\Projects\Homework-Exception-Handling\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\3.Exception Handling\2\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\3.Exception Handling\2\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\3.Exception Handling\2\SquareRoot\obj\Debug\SquareRoot.pdb

@@ -1,0 +1,5 @@
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication14\bin\Release\ConsoleApplication14.exe.config
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication14\bin\Release\ConsoleApplication14.exe
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication14\bin\Release\ConsoleApplication14.pdb
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication14\obj\Release\ConsoleApplication14.exe
+c:\users\pavel\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication14\obj\Release\ConsoleApplication14.pdb

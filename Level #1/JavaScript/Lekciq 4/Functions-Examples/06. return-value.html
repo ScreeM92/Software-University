@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Functions - Returning a Value</title>
+</head>
+<body>
+	<script>
+		function getPropertiesCount(obj) {
+			var count = 0;
+			for (var prop in obj) {
+				count++;
+			}
+			return count;
+		}
+
+		console.log(getPropertiesCount(document));
+		console.log(getPropertiesCount(navigator));
+	</script>
+</body>
+</html>

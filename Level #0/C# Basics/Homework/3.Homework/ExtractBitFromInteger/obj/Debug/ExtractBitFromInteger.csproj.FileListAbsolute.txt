@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

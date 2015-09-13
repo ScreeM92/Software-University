@@ -1,0 +1,44 @@
+﻿<html>
+<head>
+	<title>Functions - Overloading with Number of Parameters</title>
+</head>
+<body>
+	<script type="text/javascript">
+
+		function getCharCount(str, char, isCaseSensitive) {
+			function getCharCountCaseInsensitive(char) {
+				var count = 0;
+				var lowerChar = char.toLowerCase();
+				var upperChar = char.toUpperCase();
+				for (var ch = 0; ch < str.length; ch++) {
+					if (str[ch] === lowerChar || str[ch] === upperChar) count++;
+				}
+				return count;
+			}
+
+			function getCharCountCaseSensitive(char) {
+				var count = 0;
+				for (var ch = 0; ch < str.length; ch++) {
+					if (str[ch] === char) count++;
+				}
+				return count;
+			}
+
+			switch (arguments.length) {
+				case 2:
+					return getCharCountCaseInsensitive(char);
+				case 3:
+					return isCaseSensitive ? getCharCountCaseSensitive(char) : getCharCountCaseInsensitive(char);
+			}
+		}															   
+										   
+		var str = 'My name is Peter and I am 23 years-old';
+
+		console.log('a in ' + str + ' - > ' + getCharCount(str,'a'));
+		console.log('m in ' + str + ' - > ' + getCharCount(str, 'm'));
+		console.log('M in ' + str + ' - > ' + getCharCount(str, 'M'));
+		console.log('M in ' + str + ' - > ' + getCharCount(str, 'M', false));
+		console.log('M in ' + str + ' - > ' + getCharCount(str, 'M', true));
+	</script>
+</body>
+</html>

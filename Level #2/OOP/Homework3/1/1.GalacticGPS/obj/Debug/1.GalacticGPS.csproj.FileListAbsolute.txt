@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\Homework3\bin\Debug\Homework3.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\Homework3\obj\Debug\1.GalacticGPS.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\Homework3\obj\Debug\Homework3.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\Homework3\obj\Debug\Homework3.pdb

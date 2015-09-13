@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\9.Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\9.Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\9.Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\9.Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\9.Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\9.Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojResolveAssemblyReference.cache

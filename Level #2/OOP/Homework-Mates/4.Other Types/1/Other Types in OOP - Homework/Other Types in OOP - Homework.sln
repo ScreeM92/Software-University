@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Galactic GPS", "Problem 1. Galactic GPS\Problem 1. Galactic GPS.csproj", "{9098DE4F-C4AD-49C0-8D6C-A0FE2EEB6A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Fraction Calculator", "Problem 2. Fraction Calculator\Problem 2. Fraction Calculator.csproj", "{691C1917-01C8-46EA-8CB5-ACD63169E812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Generic List", "Problem 3. Generic List\Problem 3. Generic List.csproj", "{3EE91A0F-9A5B-43A0-8131-759FFA6352ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Generic List Version", "Problem 4. Generic List Version\Problem 4. Generic List Version.csproj", "{89A21D2C-AAFD-4EDA-96BA-F9C4C9C34EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Word Document Generator", "Problem 5. Word Document Generator\Problem 5. Word Document Generator.csproj", "{9E193C28-34A2-4068-B60A-E31A37FD298A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9098DE4F-C4AD-49C0-8D6C-A0FE2EEB6A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9098DE4F-C4AD-49C0-8D6C-A0FE2EEB6A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9098DE4F-C4AD-49C0-8D6C-A0FE2EEB6A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9098DE4F-C4AD-49C0-8D6C-A0FE2EEB6A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691C1917-01C8-46EA-8CB5-ACD63169E812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691C1917-01C8-46EA-8CB5-ACD63169E812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691C1917-01C8-46EA-8CB5-ACD63169E812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691C1917-01C8-46EA-8CB5-ACD63169E812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE91A0F-9A5B-43A0-8131-759FFA6352ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE91A0F-9A5B-43A0-8131-759FFA6352ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE91A0F-9A5B-43A0-8131-759FFA6352ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE91A0F-9A5B-43A0-8131-759FFA6352ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A21D2C-AAFD-4EDA-96BA-F9C4C9C34EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A21D2C-AAFD-4EDA-96BA-F9C4C9C34EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A21D2C-AAFD-4EDA-96BA-F9C4C9C34EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A21D2C-AAFD-4EDA-96BA-F9C4C9C34EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E193C28-34A2-4068-B60A-E31A37FD298A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E193C28-34A2-4068-B60A-E31A37FD298A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E193C28-34A2-4068-B60A-E31A37FD298A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E193C28-34A2-4068-B60A-E31A37FD298A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

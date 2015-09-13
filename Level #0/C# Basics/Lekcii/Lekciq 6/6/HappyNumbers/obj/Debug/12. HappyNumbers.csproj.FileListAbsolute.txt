@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\HappyNumbers\bin\Debug\HappyNumbers.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\HappyNumbers\bin\Debug\HappyNumbers.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\HappyNumbers\obj\Debug\12. HappyNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\HappyNumbers\obj\Debug\HappyNumbers.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\HappyNumbers\obj\Debug\HappyNumbers.pdb

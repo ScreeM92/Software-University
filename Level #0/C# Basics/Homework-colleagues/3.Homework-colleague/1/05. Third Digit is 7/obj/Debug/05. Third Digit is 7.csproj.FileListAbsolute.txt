@@ -1,0 +1,6 @@
+D:\c#\Operators Expressions and Statements\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.exe.config
+D:\c#\Operators Expressions and Statements\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.exe
+D:\c#\Operators Expressions and Statements\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.pdb
+D:\c#\Operators Expressions and Statements\05. Third Digit is 7\obj\Debug\_05.Third_Digit_is_7.exe
+D:\c#\Operators Expressions and Statements\05. Third Digit is 7\obj\Debug\_05.Third_Digit_is_7.pdb
+D:\c#\Operators Expressions and Statements\05. Third Digit is 7\obj\Debug\05. Third Digit is 7.csprojResolveAssemblyReference.cache

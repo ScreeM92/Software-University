@@ -1,0 +1,5 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Trash\bin\Debug\Trash.exe.config
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Trash\bin\Debug\Trash.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Trash\bin\Debug\Trash.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Trash\obj\Debug\Trash.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Trash\obj\Debug\Trash.pdb

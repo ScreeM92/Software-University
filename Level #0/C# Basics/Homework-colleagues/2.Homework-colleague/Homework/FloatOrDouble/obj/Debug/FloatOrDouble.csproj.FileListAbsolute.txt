@@ -1,0 +1,9 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\FloatOrDouble\obj\Debug\FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

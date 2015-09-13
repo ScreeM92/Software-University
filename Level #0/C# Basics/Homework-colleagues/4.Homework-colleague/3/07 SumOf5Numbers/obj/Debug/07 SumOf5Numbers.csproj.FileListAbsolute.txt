@@ -1,0 +1,8 @@
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07 SumOf5Numbers\bin\Debug\07 SumOf5Numbers.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07 SumOf5Numbers\bin\Debug\07 SumOf5Numbers.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07 SumOf5Numbers\bin\Debug\07 SumOf5Numbers.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07 SumOf5Numbers\obj\Debug\07 SumOf5Numbers.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07 SumOf5Numbers\obj\Debug\07 SumOf5Numbers.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\07 SumOf5Numbers\bin\Debug\07 SumOf5Numbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\07 SumOf5Numbers\obj\Debug\07 SumOf5Numbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\07 SumOf5Numbers\obj\Debug\07 SumOf5Numbers.pdb

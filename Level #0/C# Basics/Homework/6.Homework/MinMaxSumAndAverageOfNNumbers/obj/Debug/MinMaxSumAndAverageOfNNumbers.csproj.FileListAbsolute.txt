@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.pdb

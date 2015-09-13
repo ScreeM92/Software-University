@@ -1,0 +1,1 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\InsideCircleOutsideRectangle\bin\Debug\InsideCircleOutsideRectangle.exe.config

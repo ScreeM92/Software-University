@@ -1,0 +1,24 @@
+﻿@using GoblinFreelancer.Models.ViewModels;
+@model IEnumerable<CategoryViewModel>
+@{
+    ViewBag.Title = "Categories";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div style="width:100%;">
+    @{
+        foreach (var category in Model)
+        {
+            <span style="padding:5px;display:inline-block;width:15%;overflow:auto;word-break:break-all">
+                <img src="img/category-pointer.png" width="5" height="5" />
+                <a href="\Categories/Projects?category=@category.Name">
+                    @category.Name (@category.CountOfProjects)
+                </a>
+            </span>
+        }
+    }
+</div>
+
+
+

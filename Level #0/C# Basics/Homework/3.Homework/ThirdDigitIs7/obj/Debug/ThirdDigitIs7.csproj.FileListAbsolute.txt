@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.csprojResolveAssemblyReference.cache

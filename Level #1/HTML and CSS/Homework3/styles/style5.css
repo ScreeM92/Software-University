@@ -1,0 +1,59 @@
+body {
+    font-family: arial;
+}
+
+a {
+    text-decoration: none;
+    color: #3f3b55;
+}
+
+#slider_table {
+    background: #f7fcff;
+    color: #6173a7;
+    text-align: center;
+    float: left;
+    padding: 10px;
+    position: relative;
+    border: solid skyblue 1px;
+}
+
+.left_subs {
+    float: left;
+    padding-top: 15px;
+    font-size: 11px;
+    position: absolute;
+    left: 2px;
+}
+
+.right_subs {
+    float: right;
+    padding-top: 15px;
+    font-size: 10px;
+    position: absolute;
+    right: 2px;
+}
+
+#laptops_table td {
+    border: solid skyblue 1px;
+    border-radius: 10px
+}
+
+#laptops_table{
+    float: left;
+    color: #3f3b55  ;
+}
+
+.price_div {
+    width: 100px;
+    border-top-left-radius: 10px;
+    background: #2c425a;
+    float: right;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 0px -11px -11px 0px;
+}
+
+#laptops_model {
+    text-align: left;
+}

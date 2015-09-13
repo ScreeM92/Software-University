@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb

@@ -1,0 +1,24 @@
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\Project\JustNotJewelry\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.exe.config
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\Project\JustNotJewelry\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.exe
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\Project\JustNotJewelry\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.pdb
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\Project\JustNotJewelry\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.csprojResolveAssemblyReference.cache
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\Project\JustNotJewelry\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.exe
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\Project\JustNotJewelry\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.pdb
+C:\Users\Matthew\Desktop\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.exe.config
+C:\Users\Matthew\Desktop\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.exe
+C:\Users\Matthew\Desktop\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.pdb
+C:\Users\Matthew\Desktop\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.exe
+C:\Users\Matthew\Desktop\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.pdb
+C:\Users\Matthew\Desktop\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.csprojResolveAssemblyReference.cache
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\ProjectReBuild\JustNotJewelryNewBuild\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.exe.config
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\ProjectReBuild\JustNotJewelryNewBuild\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.exe
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\ProjectReBuild\JustNotJewelryNewBuild\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.pdb
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\ProjectReBuild\JustNotJewelryNewBuild\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.exe
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\ProjectReBuild\JustNotJewelryNewBuild\JustNotJewelry\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.pdb
+D:\Main\Telerik Academy\Homeworks\C# OOP TeamProject\ProjectReBuild\JustNotJewelryNewBuild\JustNotJewelry\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\Telerik-Academy-Repo-master\OOP Team Project\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\Telerik-Academy-Repo-master\OOP Team Project\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\Telerik-Academy-Repo-master\OOP Team Project\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\Telerik-Academy-Repo-master\OOP Team Project\JustNotJewelryMain\obj\Debug\JustNotJewelryMain.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\Telerik-Academy-Repo-master\OOP Team Project\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\Telerik-Academy-Repo-master\OOP Team Project\JustNotJewelryMain\bin\Debug\JustNotJewelryMain.pdb

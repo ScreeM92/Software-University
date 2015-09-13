@@ -1,0 +1,9 @@
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe.config
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\8. SquareRoot\bin\Debug\_8.SquareRoot.pdb
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\8. SquareRoot\obj\Debug\_8.SquareRoot.exe
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\8. SquareRoot\obj\Debug\_8.SquareRoot.pdb
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\8. SquareRoot\obj\Debug\8. SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\8. SquareRoot\obj\Debug\_8.SquareRoot.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\8. SquareRoot\obj\Debug\_8.SquareRoot.pdb

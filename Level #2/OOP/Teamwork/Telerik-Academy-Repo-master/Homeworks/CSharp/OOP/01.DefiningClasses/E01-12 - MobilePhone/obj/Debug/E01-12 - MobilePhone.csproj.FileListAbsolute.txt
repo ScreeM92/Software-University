@@ -1,0 +1,12 @@
+D:\Main\Telerik Academy\Homeworks\OOP\01.DefiningClasses\E01-12 - MobilePhone\bin\Debug\04 - FallDown.exe.config
+D:\Main\Telerik Academy\Homeworks\OOP\01.DefiningClasses\E01-12 - MobilePhone\obj\Debug\E01-12 - MobilePhone.csprojResolveAssemblyReference.cache
+D:\Main\Telerik Academy\Homeworks\OOP\01.DefiningClasses\E01-12 - MobilePhone\bin\Debug\04 - FallDown.exe
+D:\Main\Telerik Academy\Homeworks\OOP\01.DefiningClasses\E01-12 - MobilePhone\bin\Debug\04 - FallDown.pdb
+D:\Main\Telerik Academy\Homeworks\OOP\01.DefiningClasses\E01-12 - MobilePhone\obj\Debug\04 - FallDown.exe
+D:\Main\Telerik Academy\Homeworks\OOP\01.DefiningClasses\E01-12 - MobilePhone\obj\Debug\04 - FallDown.pdb
+D:\Main\Telerik Academy\Homeworks\C# OOP\01.DefiningClasses\E01-12 - MobilePhone\bin\Debug\04 - FallDown.exe.config
+D:\Main\Telerik Academy\Homeworks\C# OOP\01.DefiningClasses\E01-12 - MobilePhone\obj\Debug\04 - FallDown.exe
+D:\Main\Telerik Academy\Homeworks\C# OOP\01.DefiningClasses\E01-12 - MobilePhone\obj\Debug\04 - FallDown.pdb
+D:\Main\Telerik Academy\Homeworks\C# OOP\01.DefiningClasses\E01-12 - MobilePhone\obj\Debug\E01-12 - MobilePhone.csprojResolveAssemblyReference.cache
+D:\Main\Telerik Academy\Homeworks\C# OOP\01.DefiningClasses\E01-12 - MobilePhone\bin\Debug\04 - FallDown.exe
+D:\Main\Telerik Academy\Homeworks\C# OOP\01.DefiningClasses\E01-12 - MobilePhone\bin\Debug\04 - FallDown.pdb

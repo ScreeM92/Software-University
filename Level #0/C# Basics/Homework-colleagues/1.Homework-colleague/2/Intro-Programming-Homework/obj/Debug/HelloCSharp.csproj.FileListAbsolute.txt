@@ -1,0 +1,8 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb

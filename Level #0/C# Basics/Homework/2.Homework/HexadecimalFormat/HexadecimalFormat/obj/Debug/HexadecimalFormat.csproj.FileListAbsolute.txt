@@ -1,0 +1,11 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\4exercise\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\4exercise\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\4exercise\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\4exercise\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\4exercise\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\4.exercise\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\4.exercise\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\4.exercise\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\HexadecimalFormat\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\HexadecimalFormat\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\HexadecimalFormat\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

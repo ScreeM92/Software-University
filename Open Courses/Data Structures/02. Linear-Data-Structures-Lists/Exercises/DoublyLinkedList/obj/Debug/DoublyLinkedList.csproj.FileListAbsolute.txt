@@ -1,0 +1,4 @@
+D:\SoftUni\Open Courses\Data Structures (June 2015)\02. Linear-Data-Structures-Lists\Exercises\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\SoftUni\Open Courses\Data Structures (June 2015)\02. Linear-Data-Structures-Lists\Exercises\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\SoftUni\Open Courses\Data Structures (June 2015)\02. Linear-Data-Structures-Lists\Exercises\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\SoftUni\Open Courses\Data Structures (June 2015)\02. Linear-Data-Structures-Lists\Exercises\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

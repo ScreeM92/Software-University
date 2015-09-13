@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\TheSlum-Skeleton\obj\Debug\TheSlum.pdb

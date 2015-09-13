@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.-->
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link href="css/kendo/kendo.common.min.css" rel="stylesheet" />
+        <link href="css/kendo//kendo.default.min.css" rel="stylesheet" />
+        <link href="css/kendo//kendo.mobile.all.min.css" rel="stylesheet" />
+        <style>
+            body
+            {
+                font-size: 18px;
+            }
+        </style>
+        <script src="cordova.js"></script>
+        <script src="js/libs/jquery-1.10.2.js"></script>
+        <script src="js/libs/kendo.all.min.js"></script>
+        <script src="js/app/notifications.js"></script>
+        <script src="js/app/device.js"></script>
+        <script src="js/app/connection.js"></script>
+        <script src="js/index.js"></script>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div id="home-view" data-id="home-view" data-role="view" data-layout="home-layout" data-title="Home">
+            <ul id="devices-list">
+                <li>
+                    <a href="#notifications-view" >Notifications</a>
+                </li>
+                <li>
+                    <a href="#device-view">Device</a>
+                </li>
+                <li>
+                    <a href="#capture-view">Capture</a>
+                </li>
+                <li>
+                    <a href="#connection-view">Connection</a>
+                </li>
+                <li>
+                    <a href="#contacts-view">Contacts</a>
+                </li>
+                <li>
+                    <a href="#events-view" >Events</a>
+                </li>
+                <li>
+                    <a href="#file-system-view">File System</a>
+                </li>
+                <li>
+                    <a href="#globalization-view">Globalization</a>
+                </li>
+                <li>
+                    <a href="#InAppBrowser-view">InAppBrowser</a>
+                </li>
+                <li>
+                    <a href="#media-view">Media</a>
+                </li>
+                <li>
+                    <a href="#storage-view">Storage</a>
+                </li>
+            </ul>
+        </div>
+
+        <div id="notifications-view" data-id="notifications-view" data-role="view" data-layout="api-layout" data-title="Notifications API"
+             data-show="app.notifications.init"
+             data-hide="app.notifications.close">
+            <ul class="listview">
+                <li>
+                    <a data-role="touch" class="button" data-tap="app.notifications.alert">Alert</a>
+                </li>
+                <li>
+                    <a data-role="touch" class="button" data-tap="app.notifications.confirm">Confirm</a>
+                </li>
+                <li>
+                    <a data-role="touch" class="button" data-tap="app.notifications.prompt">Prompt</a>
+                </li>
+                <li>
+                    <a data-role="touch" class="button" data-tap="app.notifications.beep">Beep</a>
+                </li>
+                <li>
+                    <a data-role="touch" class="button" data-tap="app.notifications.vibrate">Vibrate</a>
+                </li>
+            </ul>
+        </div>
+        <div id="device-view" data-id="device-view" data-role="view" data-layout="api-layout" data-title="Device API"
+                data-show="app.deviceInfo.init">
+            <table>
+                <tr>
+                    <td>
+                        <span data-align="right">Device Name:</span>
+                    </td>
+                    <td>
+                        <strong data-align="left" data-bind="text: name"></strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span data-align="right">Cordova Version:</span>
+                    </td>
+                    <td>
+                        <strong data-align="left" data-bind="text: cordova"></strong>
+                    </td>
+                </tr>
+                <tr> 
+                    <td>
+                        <span data-align="right">Platform:</span>
+                    </td>
+                    <td>
+                        <strong data-align="left" data-bind="text: platform"></strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span data-align="right">Device UUID:</span>
+                    </td>
+                    <td>
+                        <strong data-align="left" data-bind="text:uuid"></strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span data-align="right">Version:</span>
+                    </td>
+                    <td>
+                        <strong data-align="left" data-bind="text:version"></strong>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="capture-view" data-id="capture-view" data-role="view" data-layout="api-layout" data-title="Capture API">
+        </div>
+        <div id="connection-view" data-id="connection-view" data-role="view" data-layout="api-layout" data-title="Connection API"
+            data-show="app.connectionApi.init" data-hide="app.connectionApi.close">
+            <h1 data-bind="text: state"></h1>
+        </div>
+        <div id="contacts-view" data-id="contacts-view" data-role="view" data-layout="api-layout" data-title="Contacts API"
+            data-show="app.contactsApi.init">
+            <input type="text" data-bind="value:name"/>
+            <input type="text" data-bind="value:number"/>
+            <a data-role="touch" data-tap="app.contactsApi.create">Create</a>
+        </div>
+        <div id="events-view" data-id="events-view" data-role="view" data-layout="api-layout" data-title="Events API">
+        </div>
+        <div id="file-system-view" data-id="file-system-view" data-role="view" data-layout="api-layout" data-title="File system API">
+        </div>
+        <div id="globalization-view" data-id="globalization-view" data-role="view" data-layout="api-layout" data-title="Globalization API">
+        </div>
+        <div id="InAppBrowser-view" data-id="InAppBrowser-view" data-role="view" data-layout="api-layout" data-title="InAppBrowser API">
+        </div>
+        <div id="media-view" data-id="media-view" data-role="view" data-layout="api-layout" data-title="Media API">
+        </div>
+        <div id="storage-view" data-id="storage-view" data-role="view" data-layout="api-layout" data-title="Storage API">
+        </div>
+
+        <div id="home-layout" data-id="home-layout" data-role="layout">
+            <header data-role="header">
+                <div data-role="navbar">
+                    <span data-role="view-title"></span>
+                </div>
+            </header>
+        </div>
+
+        <div id="api-layout" data-id="api-layout" data-role="layout">
+            <header data-role="header">
+                <div data-role="navbar">
+                    <a data-role="backbutton" class="button" data-align="left">Back</a>
+                    <span data-role="view-title"></span>
+                </div>
+            </header>
+        </div>
+    </body>
+</html>

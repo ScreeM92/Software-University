@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial;
+}
+section{
+    width: 630px;
+    margin: 10px;
+    border-bottom: 1px solid lightgrey;
+    border-top: 1px solid lightgrey;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+article{
+    width: 153px;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: #2c75ab;
+}
+p{
+    color: #3473b3;
+    font-size: 14px;
+}
+#p2{
+    margin-right: -15px;
+}

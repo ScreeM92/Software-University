@@ -1,0 +1,6 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\CurrentDate\bin\Debug\CurrentDate.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\CurrentDate\bin\Debug\CurrentDate.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\CurrentDate\bin\Debug\CurrentDate.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\CurrentDate\obj\Debug\CurrentDate.csprojResolveAssemblyReference.cache
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\CurrentDate\obj\Debug\CurrentDate.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\CurrentDate\obj\Debug\CurrentDate.pdb

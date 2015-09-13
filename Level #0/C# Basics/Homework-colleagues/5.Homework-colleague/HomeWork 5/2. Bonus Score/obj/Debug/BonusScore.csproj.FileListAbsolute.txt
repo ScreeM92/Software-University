@@ -1,0 +1,8 @@
+c:\users\vladi\documents\visual studio 2013\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.exe
+c:\users\vladi\documents\visual studio 2013\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\BonusScore\BonusScore\obj\Debug\BonusScore.exe
+c:\users\vladi\documents\visual studio 2013\Projects\BonusScore\BonusScore\obj\Debug\BonusScore.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\2. Bonus Score\bin\Debug\BonusScore.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\2. Bonus Score\obj\Debug\BonusScore.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\2. Bonus Score\obj\Debug\BonusScore.pdb

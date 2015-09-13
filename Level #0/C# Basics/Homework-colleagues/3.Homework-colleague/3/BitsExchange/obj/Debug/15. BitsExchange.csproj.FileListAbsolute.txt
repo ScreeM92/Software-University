@@ -1,0 +1,5 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchange\bin\Debug\BitsExchange.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchange\bin\Debug\BitsExchange.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchange\obj\Debug\15. BitsExchange.csprojResolveAssemblyReference.cache
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchange\obj\Debug\BitsExchange.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchange\obj\Debug\BitsExchange.pdb

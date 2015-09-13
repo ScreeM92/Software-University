@@ -1,0 +1,16 @@
+﻿@using Microsoft.AspNet.Identity
+<div class="chat-wrap span5">
+    <h3>Collaborators chat</h3>
+    <ul id="messages"></ul>
+    <div>
+        <textarea id="message"></textarea>
+        <button id="send-message" class="btn btn-info btn-large">Send</button>
+    </div>
+
+    <div class="msg-info">
+        <input type="hidden" name="projectId" value="@Model.Id" id="projectId" />
+        <input type="hidden" name="userId" value="@User.Identity.GetUserId()" id="userId" />
+        <input type="hidden" name="userNameChat" value="@User.Identity.Name" id="userNameChat" />
+    </div>
+    <script src="~/Scripts/app/signalr-chat.js"></script>
+</div>

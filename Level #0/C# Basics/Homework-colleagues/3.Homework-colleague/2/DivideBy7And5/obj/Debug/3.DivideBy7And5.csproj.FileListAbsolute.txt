@@ -1,0 +1,8 @@
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

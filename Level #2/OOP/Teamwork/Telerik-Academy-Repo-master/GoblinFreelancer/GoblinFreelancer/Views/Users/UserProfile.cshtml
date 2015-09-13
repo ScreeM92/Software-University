@@ -1,0 +1,86 @@
+﻿@using GoblinFreelancer.Models.ViewModels;
+@using Microsoft.AspNet.Identity;
+
+@model UserViewModel
+@{
+    ViewBag.Title = @Model.UserName;
+}
+
+<div>
+    <div class="user-item">
+        <div style="float: left">
+            <div class="user-profile-img" style="background-image: url('/Users/GetImage?id=@Model.Id');">
+            </div>
+            @if (User.Identity.Name != Model.UserName && Model.Roles.Contains("Work") )
+            { 
+                <a class="btn btn-info btn-large" href="/Projects/MyProjects?hire=@Model.UserName" style="margin-top: 5px;margin-left:-7px">
+                    <i class="icon-white icon-plus"></i>
+                    Hire me for a project
+                </a>
+            }
+        </div>
+        <div class="user-profile-info">
+            <h3 class="profile-page-username">
+                @ViewBag.Title
+                @if (Model.UserName == User.Identity.Name)
+                {
+                    <span class="edit-btn">[@Html.ActionLink("edit", "ByUser/" + Model.UserName, "Users")]</span>
+                }
+            </h3>
+            <div>
+                <strong> Email:</strong> @Model.Email
+            </div>
+            <hr />
+            <div>
+                <strong> My Skils:</strong> <br />
+                @Model.Skills<br />
+                <strong> My Roles:</strong> <br />
+                @Model.Roles
+            </div>
+
+        </div>
+
+        <div class="user-profile-reputation">
+            <h3>
+                <strong> Reputation:</strong> <br />
+                    @Model.Rating<span style="font-size:12pt;">/ 5</span>
+                    @{
+                        int userRating = Convert.ToInt32(double.Parse(Model.Rating));
+                        string stars = String.Join("", Enumerable
+                                        .Range(0, userRating)
+                                        .Select(i => "<span class='full-star-img'></span>"));
+                        stars += String.Join("", Enumerable
+                                    .Range(0, 5 - userRating)
+                                    .Select(i => "<span class='empty-star-img'></span>"));
+                        }
+                    <span>@Html.Raw(stars)</span>
+            </h3>
+           
+                @if (Model.UserName != User.Identity.Name)
+                {
+                    <span>Vote for this user: </span>
+                    <form action="/Users/Vote" method="post" id="vote-form">
+                        <input type="hidden" value="@Model.UserName" name="userToVote" />
+                        <input type="hidden" value="" name="voteValue" id="vote-value" />
+
+                        <ul class='vote-stars'>
+                            <li class="empty-star-img" id="vote-star-1"></li>
+                            <li class="empty-star-img" id="vote-star-2"></li>
+                            <li class="empty-star-img" id="vote-star-3"></li>
+                            <li class="empty-star-img" id="vote-star-4"></li>
+                            <li class="empty-star-img" id="vote-star-5"></li>
+                        </ul>
+                    </form>
+                }
+
+        </div>
+    </div>
+
+   
+</div>
+
+
+
+@section VoteSystemRateUserSection {
+    <script src="~/Scripts/app/vote-system-rate.js"></script>
+}

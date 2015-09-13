@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency", "TravelAgency\TravelAgency.csproj", "{5932FB2B-1BA4-4D76-BFAF-7E0EAC1062C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Tests", "TravelAgency.Tests\TravelAgency.Tests.csproj", "{70FD37AD-12AB-4D87-B7F8-2B2C816A3AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{7EB6BF57-8CAA-4496-82F3-60B3B5E46735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5932FB2B-1BA4-4D76-BFAF-7E0EAC1062C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5932FB2B-1BA4-4D76-BFAF-7E0EAC1062C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5932FB2B-1BA4-4D76-BFAF-7E0EAC1062C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5932FB2B-1BA4-4D76-BFAF-7E0EAC1062C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FD37AD-12AB-4D87-B7F8-2B2C816A3AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FD37AD-12AB-4D87-B7F8-2B2C816A3AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FD37AD-12AB-4D87-B7F8-2B2C816A3AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FD37AD-12AB-4D87-B7F8-2B2C816A3AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB6BF57-8CAA-4496-82F3-60B3B5E46735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB6BF57-8CAA-4496-82F3-60B3B5E46735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB6BF57-8CAA-4496-82F3-60B3B5E46735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB6BF57-8CAA-4496-82F3-60B3B5E46735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

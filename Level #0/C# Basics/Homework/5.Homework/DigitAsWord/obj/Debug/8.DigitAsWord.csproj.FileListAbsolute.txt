@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\DigitAsWord\bin\Debug\DigitAsWord.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\DigitAsWord\bin\Debug\DigitAsWord.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\DigitAsWord\obj\Debug\DigitAsWord.pdb

@@ -1,0 +1,2 @@
+c:\users\vladi\documents\visual studio 2013\Projects\DigitAsWord\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\8. Digit as Word\bin\Debug\DigitAsWord.exe.config

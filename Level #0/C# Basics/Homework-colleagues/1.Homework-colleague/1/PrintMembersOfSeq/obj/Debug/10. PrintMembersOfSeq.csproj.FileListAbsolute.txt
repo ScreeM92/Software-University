@@ -1,0 +1,12 @@
+E:\Programming\SoftUni\01. Intro\Intro\PrintMembersOfSeq\bin\Debug\PrintMembersOfSeq.exe.config
+E:\Programming\SoftUni\01. Intro\Intro\PrintMembersOfSeq\bin\Debug\PrintMembersOfSeq.exe
+E:\Programming\SoftUni\01. Intro\Intro\PrintMembersOfSeq\bin\Debug\PrintMembersOfSeq.pdb
+E:\Programming\SoftUni\01. Intro\Intro\PrintMembersOfSeq\obj\Debug\PrintMembersOfSeq.exe
+E:\Programming\SoftUni\01. Intro\Intro\PrintMembersOfSeq\obj\Debug\PrintMembersOfSeq.pdb
+E:\Programming\SoftUni\01. Intro\Intro\PrintMembersOfSeq\obj\Debug\10. PrintMembersOfSeq.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\PrintMembersOfSeq\bin\Debug\PrintMembersOfSeq.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\PrintMembersOfSeq\obj\Debug\PrintMembersOfSeq.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\PrintMembersOfSeq\obj\Debug\PrintMembersOfSeq.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\PrintMembersOfSeq\bin\Debug\PrintMembersOfSeq.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\PrintMembersOfSeq\bin\Debug\PrintMembersOfSeq.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\PrintMembersOfSeq\obj\Debug\10. PrintMembersOfSeq.csprojResolveAssemblyReference.cache

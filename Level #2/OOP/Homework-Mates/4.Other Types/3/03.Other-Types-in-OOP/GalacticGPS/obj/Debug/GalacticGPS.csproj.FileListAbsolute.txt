@@ -1,0 +1,9 @@
+D:\SOFTWARE UNIVERSITY\HOMEWORKS\05.OOP\03.Other-Types-in-OOP\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+D:\SOFTWARE UNIVERSITY\HOMEWORKS\05.OOP\03.Other-Types-in-OOP\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+D:\SOFTWARE UNIVERSITY\HOMEWORKS\05.OOP\03.Other-Types-in-OOP\GalacticGPS\bin\Debug\GalacticGPS.exe
+D:\SOFTWARE UNIVERSITY\HOMEWORKS\05.OOP\03.Other-Types-in-OOP\GalacticGPS\bin\Debug\GalacticGPS.pdb
+D:\SOFTWARE UNIVERSITY\HOMEWORKS\05.OOP\03.Other-Types-in-OOP\GalacticGPS\obj\Debug\GalacticGPS.exe
+D:\SOFTWARE UNIVERSITY\HOMEWORKS\05.OOP\03.Other-Types-in-OOP\GalacticGPS\obj\Debug\GalacticGPS.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\4.Other Types\3\03.Other-Types-in-OOP\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\4.Other Types\3\03.Other-Types-in-OOP\GalacticGPS\obj\Debug\GalacticGPS.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\4.Other Types\3\03.Other-Types-in-OOP\GalacticGPS\obj\Debug\GalacticGPS.pdb

@@ -1,0 +1,16 @@
+D:\Main\Telerik Academy\Homeworks\High Quality Code\04.Code Documentation and Comments\E04 - Extensions\StringExtension\bin\Debug\StringExtension.exe.config
+D:\Main\Telerik Academy\Homeworks\High Quality Code\04.Code Documentation and Comments\E04 - Extensions\StringExtension\bin\Debug\StringExtension.XML
+D:\Main\Telerik Academy\Homeworks\High Quality Code\04.Code Documentation and Comments\E04 - Extensions\StringExtension\bin\Debug\StringExtension.exe
+D:\Main\Telerik Academy\Homeworks\High Quality Code\04.Code Documentation and Comments\E04 - Extensions\StringExtension\bin\Debug\StringExtension.pdb
+D:\Main\Telerik Academy\Homeworks\High Quality Code\04.Code Documentation and Comments\E04 - Extensions\StringExtension\obj\Debug\StringExtension.csprojResolveAssemblyReference.cache
+D:\Main\Telerik Academy\Homeworks\High Quality Code\04.Code Documentation and Comments\E04 - Extensions\StringExtension\obj\Debug\StringExtension.exe
+D:\Main\Telerik Academy\Homeworks\High Quality Code\04.Code Documentation and Comments\E04 - Extensions\StringExtension\obj\Debug\StringExtension.pdb
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\StringExtension.exe.config
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\StringExtension.XML
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\obj\Debug\StringExtension.exe
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\obj\Debug\StringExtension.pdb
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\StringExtension.exe
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\StringExtension.pdb
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\log4net.dll
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\bin\Debug\log4net.xml
+D:\Main\Telerik Academy\Telerik-Academy-Repo\Homeworks\CSharp\High Quality Programming Code\StringExtension\obj\Debug\StringExtension.csprojResolveAssemblyReference.cache

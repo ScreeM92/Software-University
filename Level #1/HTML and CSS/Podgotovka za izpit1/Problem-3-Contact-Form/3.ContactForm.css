@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    width: 520px;
+    height: 525px;
+    border: 1px solid black;
+    background-image: url("images/4.%20background.jpg");
+    background-repeat: no-repeat;
+    background-size: 520px 525px;
+}
+#main{
+    border: 1px solid #000000;
+    margin: 35px 35px 0px 35px;
+    height: 489px;
+    background: rgba(0,0,0, 0.4);
+}
+input {
+    background: #ffffff;
+}

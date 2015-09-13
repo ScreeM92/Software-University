@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\001.PeaceOfCake\bin\Debug\001.PeaceOfCake.exe.config
+C:\Users\Работа сайт\Desktop\Изпитни задачи\001.PeaceOfCake\bin\Debug\001.PeaceOfCake.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\001.PeaceOfCake\bin\Debug\001.PeaceOfCake.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\001.PeaceOfCake\obj\Debug\001.Task.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Изпитни задачи\001.PeaceOfCake\obj\Debug\001.PeaceOfCake.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\001.PeaceOfCake\obj\Debug\001.PeaceOfCake.pdb

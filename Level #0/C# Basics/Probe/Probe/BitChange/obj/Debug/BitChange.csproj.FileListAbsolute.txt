@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\BitChange\bin\Debug\BitChange.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\BitChange\bin\Debug\BitChange.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\BitChange\bin\Debug\BitChange.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\BitChange\obj\Debug\BitChange.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Probe\Probe\BitChange\obj\Debug\BitChange.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\BitChange\obj\Debug\BitChange.pdb

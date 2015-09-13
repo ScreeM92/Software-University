@@ -1,0 +1,9 @@
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\Rectangles\bin\Debug\Rectangles.exe.config
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\Rectangles\bin\Debug\Rectangles.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\Rectangles\obj\Debug\4.Rectangles.csprojResolveAssemblyReference.cache
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\Rectangles\obj\Debug\Rectangles.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\Rectangles\obj\Debug\Rectangles.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\Rectangles\obj\Debug\Rectangles.pdb

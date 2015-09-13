@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Rectangles\obj\Debug\Rectangles.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Rectangles\obj\Debug\Rectangles.pdb

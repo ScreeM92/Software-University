@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

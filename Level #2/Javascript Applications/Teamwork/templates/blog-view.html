@@ -1,0 +1,32 @@
+<ul class="pagination" id="pagination"></ul>
+
+<section id="posts">
+    {{#each posts}}
+        <article id="{{objectId}}" class="post">
+            <div class="jumbotron">
+                <h2><a href="#/post/{{objectId}}">{{title}}</a></h2>
+                <p>posted by <span class="glyphicon glyphicon-user"></span><span class="author"><a href="#/user/{{authorId}}"> {{author}}</a></span> at <span class="glyphicon glyphicon-calendar"></span> <time>{{createdAt}}</time></p>
+                {{#if headerImage}}
+                    <div class="col-xs-12 col-md-12">
+                        <img class="header-image" src="{{headerImage.url}}" alt="headerImage">
+                    </div>
+                {{/if}}
+                <p class="post-content">{{contentSummary}}</p>
+                <p class="post-details-container">
+                    <span class="glyphicon glyphicon-eye-open" title="visits"></span> <span class="views post-details" title="visits"> {{visitsCount}}</span>
+                    <span class="glyphicon glyphicon-comment" title="comments"></span> <span class="comments-count post-details" title="comments"></span>
+                    <span class="glyphicon glyphicon-tags" title="tags"> </span> <span class="post-details" title="tags">
+                        {{#tags}}
+                            {{#if @first}}
+                                <a href="#/tag/{{this}}">{{this}}</a>
+                            {{else}}
+                                <span> / </span><a href="#/tag/{{this}}">{{this}}</a>
+                            {{/if}}
+                        {{/tags}}
+                    </span>
+                </p>
+                <hr />
+            </div>
+        </article>
+    {{/each}}
+</section>

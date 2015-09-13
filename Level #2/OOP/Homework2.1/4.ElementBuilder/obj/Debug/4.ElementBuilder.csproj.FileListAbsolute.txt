@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2\4.ElementBuilder\bin\Debug\4.ElementBuilder.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2\4.ElementBuilder\bin\Debug\4.ElementBuilder.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2\4.ElementBuilder\bin\Debug\4.ElementBuilder.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2\4.ElementBuilder\obj\Debug\4.ElementBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2\4.ElementBuilder\obj\Debug\4.ElementBuilder.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2\4.ElementBuilder\obj\Debug\4.ElementBuilder.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.1\4.ElementBuilder\bin\Debug\4.ElementBuilder.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.1\4.ElementBuilder\obj\Debug\4.ElementBuilder.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.1\4.ElementBuilder\obj\Debug\4.ElementBuilder.pdb

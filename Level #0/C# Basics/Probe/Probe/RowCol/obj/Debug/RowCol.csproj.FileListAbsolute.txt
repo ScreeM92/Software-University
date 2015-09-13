@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\RowCol\bin\Debug\RowCol.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\RowCol\bin\Debug\RowCol.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\RowCol\bin\Debug\RowCol.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\RowCol\obj\Debug\RowCol.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Probe\Probe\RowCol\obj\Debug\RowCol.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\RowCol\obj\Debug\RowCol.pdb

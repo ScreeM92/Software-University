@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\BitwiseExtractBit\bin\Debug\BitwiseExtractBit.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\BitwiseExtractBit\bin\Debug\BitwiseExtractBit.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\BitwiseExtractBit\bin\Debug\BitwiseExtractBit.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\BitwiseExtractBit\obj\Debug\BitwiseExtractBit.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\BitwiseExtractBit\obj\Debug\BitwiseExtractBit.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\BitwiseExtractBit\obj\Debug\BitwiseExtractBit.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitwiseExtractBit\bin\Debug\BitwiseExtractBit.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitwiseExtractBit\obj\Debug\BitwiseExtractBit.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\BitwiseExtractBit\obj\Debug\BitwiseExtractBit.pdb

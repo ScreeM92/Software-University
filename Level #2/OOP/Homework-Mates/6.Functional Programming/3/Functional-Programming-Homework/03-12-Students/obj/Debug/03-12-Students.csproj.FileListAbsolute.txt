@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\03-12-Students\bin\Debug\03-12-Students.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\03-12-Students\bin\Debug\03-12-Students.exe
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\03-12-Students\bin\Debug\03-12-Students.pdb
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\03-12-Students\obj\Debug\03-12-Students.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\03-12-Students\obj\Debug\03-12-Students.exe
+c:\users\user\documents\visual studio 2013\Projects\Functional-Programming-Homework\03-12-Students\obj\Debug\03-12-Students.pdb

@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\Trapezoids\obj\Debug\Trapezoids.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Trapezoids\obj\Debug\Trapezoids.pdb

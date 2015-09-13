@@ -1,0 +1,4 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\CheckABit\bin\Release\CheckABit.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\CheckABit\bin\Release\CheckABit.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\CheckABit\obj\Release\CheckABit.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\CheckABit\obj\Release\CheckABit.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Sales>
+<Sale month="Jan-2014">
+    <dish code="SHPK">25</dish>
+    <dish code="JUK1">5</dish>
+    <dish code="LOYE">3</dish>
+</Sale>
+<Sale month="Feb-2014">
+    <dish code="SHPK">25</dish>
+    <dish code="JUK1">7</dish>
+    <dish code="LOYE">3</dish>
+</Sale>
+<Sale month="Mar-2014">
+    <dish code="SHPK">25</dish>
+    <dish code="JUK1">8</dish>
+    <dish code="LOYE">3</dish>
+</Sale>
+<Sale month="Apr-2014">
+    <dish code="SHPK">25</dish>
+    <dish code="JUK1">5</dish>
+    <dish code="LOYE">12</dish>
+</Sale>
+<Sale month="Jun-2014">
+    <dish code="SHPK">25</dish>
+    <dish code="JUK1">15</dish>
+    <dish code="LOYE">3</dish>
+</Sale>
+<Sale month="Jul-2014">
+    <dish code="SHPK">2</dish>
+    <dish code="JUK1">53</dish>
+    <dish code="LOYE">3</dish>
+</Sale>
+</Sales>
+</ArrayOfSale>

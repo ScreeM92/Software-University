@@ -1,0 +1,67 @@
+﻿* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    font-size: 26px;
+}
+
+#wrapper {
+    margin: 20px auto;
+    width: 100%;
+    max-width: 600px;
+}
+
+#welcome-section button {
+    display: inline-block;
+    background: #3C3C3C;
+    color: #fff;
+    font-size: .7em;
+    border: none;
+    width: 10em;
+    height: 2em;
+    outline: none;
+    cursor: pointer;
+}
+
+#welcome-section button:hover {
+    background: #E90606;
+}
+
+p {
+    margin: 10px 0;
+    width: 200px;
+    display: inline-block;
+}
+
+#wrapper > div, #name-input, #name-send {
+    float: left;
+}
+
+#wrapper > div {
+    width: 100%;
+}
+
+
+#name-input {
+    font-size: .7em;
+    height: 2em;
+}
+
+.remove {
+    display: inline-block;
+    font-size: 1.3em;
+    width: 1em;
+    border: none;
+    background: none;
+    color: #c6c6c6;
+    cursor: pointer;
+}
+
+.remove:hover {
+    color: #E90606;
+}

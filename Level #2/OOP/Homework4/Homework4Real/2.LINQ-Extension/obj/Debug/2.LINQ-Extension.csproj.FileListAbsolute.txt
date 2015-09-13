@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\2.LINQ-Extension\bin\Debug\2.LINQ-Extension.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\2.LINQ-Extension\bin\Debug\2.LINQ-Extension.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\2.LINQ-Extension\bin\Debug\2.LINQ-Extension.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\2.LINQ-Extension\obj\Debug\2.LINQ-Extension.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\2.LINQ-Extension\obj\Debug\2.LINQ-Extension.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\2.LINQ-Extension\obj\Debug\2.LINQ-Extension.pdb

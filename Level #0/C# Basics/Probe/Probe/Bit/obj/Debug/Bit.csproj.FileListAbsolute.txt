@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\Bit\bin\Debug\Bit.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\Bit\bin\Debug\Bit.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Bit\bin\Debug\Bit.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\Bit\obj\Debug\Bit.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Bit\obj\Debug\Bit.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\Bit\obj\Debug\Bit.csprojResolveAssemblyReference.cache

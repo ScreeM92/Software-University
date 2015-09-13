@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

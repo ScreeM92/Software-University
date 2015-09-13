@@ -1,0 +1,8 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\LongerNumberSequance\bin\Debug\LongerNumberSequance.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\LongerNumberSequance\bin\Debug\LongerNumberSequance.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\LongerNumberSequance\bin\Debug\LongerNumberSequance.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\LongerNumberSequance\obj\Debug\LongerNumberSequance.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\LongerNumberSequance\obj\Debug\LongerNumberSequance.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\LongerNumberSequance\bin\Debug\LongerNumberSequance.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\LongerNumberSequance\obj\Debug\LongerNumberSequance.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\LongerNumberSequance\obj\Debug\LongerNumberSequance.pdb

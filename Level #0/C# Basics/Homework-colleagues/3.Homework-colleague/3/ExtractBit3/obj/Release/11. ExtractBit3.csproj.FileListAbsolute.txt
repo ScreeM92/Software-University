@@ -1,0 +1,4 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\ExtractBit3\bin\Release\ExtractBit3.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\ExtractBit3\bin\Release\ExtractBit3.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\ExtractBit3\obj\Release\ExtractBit3.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\ExtractBit3\obj\Release\ExtractBit3.pdb

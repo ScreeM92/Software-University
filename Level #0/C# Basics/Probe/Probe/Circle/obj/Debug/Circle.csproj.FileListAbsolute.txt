@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\Circle\bin\Debug\Circle.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\Circle\bin\Debug\Circle.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Circle\bin\Debug\Circle.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Probe\Probe\Circle\obj\Debug\Circle.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Circle\obj\Debug\Circle.pdb

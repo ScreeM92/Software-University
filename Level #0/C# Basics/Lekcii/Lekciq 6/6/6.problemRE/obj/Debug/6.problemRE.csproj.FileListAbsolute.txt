@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problemRE\bin\Debug\6.problemRE.exe.config
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problemRE\bin\Debug\6.problemRE.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problemRE\bin\Debug\6.problemRE.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problemRE\obj\Debug\6.problemRE.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problemRE\obj\Debug\6.problemRE.pdb

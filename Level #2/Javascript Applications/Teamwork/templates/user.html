@@ -1,0 +1,13 @@
+<section class="user-info">
+    <h2><span class="glyphicon glyphicon-folder-open"></span>    User info</h2>
+    {{#if profilePicture}}
+    <img class="profile-pic" src={{profilePicture.imageUrl}} alt="profilePicture">
+    {{/if}}
+    <div>
+        <p><b>Name:</b> {{firstName}} {{middleName}} {{lastName}}</p>
+        <p><b>Gender:</b> {{gender}}</p>
+        <p><b>Username:</b> {{username}}</p>
+        <p><b>Email:</b> {{email}}</p>
+        <p><b>Registered:</b> {{createdAt}}</p>
+    </div>
+</section>

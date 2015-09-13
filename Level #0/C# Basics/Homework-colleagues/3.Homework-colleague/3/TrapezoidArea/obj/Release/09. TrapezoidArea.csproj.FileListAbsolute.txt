@@ -1,0 +1,4 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\TrapezoidArea\bin\Release\TrapezoidArea.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\TrapezoidArea\bin\Release\TrapezoidArea.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\TrapezoidArea\obj\Release\TrapezoidArea.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\TrapezoidArea\obj\Release\TrapezoidArea.pdb

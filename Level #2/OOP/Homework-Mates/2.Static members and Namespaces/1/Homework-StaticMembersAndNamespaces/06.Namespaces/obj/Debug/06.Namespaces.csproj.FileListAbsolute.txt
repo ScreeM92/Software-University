@@ -1,0 +1,1 @@
+c:\users\valeri\documents\visual studio 2013\Projects\Homework-StaticMembersAndNamespaces\06.Namespaces\bin\Debug\06.Namespaces.exe.config

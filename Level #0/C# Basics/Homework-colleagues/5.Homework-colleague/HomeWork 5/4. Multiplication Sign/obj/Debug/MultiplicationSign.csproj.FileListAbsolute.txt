@@ -1,0 +1,8 @@
+c:\users\vladi\documents\visual studio 2013\Projects\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+c:\users\vladi\documents\visual studio 2013\Projects\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\MultiplicationSign\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+c:\users\vladi\documents\visual studio 2013\Projects\MultiplicationSign\MultiplicationSign\obj\Debug\MultiplicationSign.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\4. Multiplication Sign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\4. Multiplication Sign\obj\Debug\MultiplicationSign.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\4. Multiplication Sign\obj\Debug\MultiplicationSign.pdb

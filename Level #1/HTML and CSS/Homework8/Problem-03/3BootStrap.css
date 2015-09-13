@@ -1,0 +1,15 @@
+header[role=navigation] {
+    background: #000066;
+}
+.jumbotron {margin:0 30px;}
+.jumbotron, #sidebar {
+    margin-top:70px;
+}
+
+#sidebar a:hover {
+    background: #00FF00;
+}
+
+footer {
+    padding: 30px 0;
+}

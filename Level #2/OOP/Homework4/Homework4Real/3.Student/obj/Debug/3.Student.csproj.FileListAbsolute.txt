@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\3.Student\bin\Debug\3.Student.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\3.Student\bin\Debug\3.Student.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\3.Student\bin\Debug\3.Student.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\3.Student\obj\Debug\3.Student.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\3.Student\obj\Debug\3.Student.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\3.Student\obj\Debug\3.Student.csprojResolveAssemblyReference.cache

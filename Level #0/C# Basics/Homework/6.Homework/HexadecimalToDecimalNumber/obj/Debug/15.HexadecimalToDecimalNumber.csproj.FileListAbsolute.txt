@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.pdb

@@ -1,0 +1,8 @@
+C:\Users\Mihail\Desktop\IzpitKPK\vp_himineu\vp_himineu\obj\Debug\VehicleParkSystem.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Desktop\IzpitKPK\vp_himineu\vp_himineu\obj\Debug\vp_himineu.exe
+C:\Users\Mihail\Desktop\IzpitKPK\vp_himineu\vp_himineu\obj\Debug\vp_himineu.pdb
+C:\Users\Mihail\Desktop\IzpitKPK\vp_himineu\vp_himineu\bin\Debug\vp_himineu.exe.config
+C:\Users\Mihail\Desktop\IzpitKPK\vp_himineu\vp_himineu\bin\Debug\vp_himineu.exe
+C:\Users\Mihail\Desktop\IzpitKPK\vp_himineu\vp_himineu\bin\Debug\vp_himineu.pdb
+C:\Users\Mihail\Desktop\IzpitKPK\vp_himineu\vp_himineu\bin\Debug\PowerCollections.dll
+C:\Users\Mihail\Desktop\IzpitKPK\vp_himineu\vp_himineu\bin\Debug\PowerCollections.xml

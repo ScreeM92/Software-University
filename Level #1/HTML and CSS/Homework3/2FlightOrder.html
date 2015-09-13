@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link type="text/css" rel="stylesheet" href="styles/style2.css"/>
+    <title>Flight Order</title>
+</head>
+<body>
+    <div class="main">
+        <form>
+        <h1>FLIGHT ORDER</h1>
+        <span class="spanBegin">From</span> <span class="spanBegin">To</span>
+        <select name="city" >
+        <option value="" >enter a city</option>
+        <option value="sofia" >Sofia</option>
+        <option value="varna" >Varna</option>
+        <option value="plovdiv" >Plovdiv</option>
+    </select>
+        <select name="otherCity" >
+            <option value="" >enter a city</option>
+            <option value="sofia" >Sofia</option>
+            <option value="varna" >Varna</option>
+            <option value="plovdiv" >Plovdiv</option>
+        </select>
+        <span class="long"><input id="in" type="checkbox" name="prefer" value="yes">
+            <lable for id="in">Prefer directs</lable></span>
+        <span class="spanSecond">Departure Date</span> <span class="spanSecond">Time interval</span>
+        <input type="date" name="date" class="depDate" value="09.06.2014">
+        <input type="time" name="timeBegin" class="depTime" value="00:20">
+        <input type="time" name="timeEnd" class="depTime" value="05:00" >
+            <span class="spanThird">Return Date</span> <span class="spanThird">Time interval</span>
+            <input type="date" name="date" class="depDate" value="13.06.2014">
+            <input type="time" name="timeBegin" class="depTime" value="16:00">
+            <input type="time" name="timeEnd" class="depTime" value="22:00" >
+            <span class="spanEnd">12+</span><span class="spanEnd">2-12</span><span class="spanEnd">0-2</span><span class="spanEnd">Choose class</span></br>
+            <input class="nums" type="number" min="0" max="5" placeholder="0" >
+            <input class="nums" type="number" min="0" max="5" placeholder="0">
+            <input class="nums" type="number" min="0" max="5" placeholder="0">
+            <select name="class">
+                <option value="economy" >Economy</option>
+                <option value="bussines" >Bussines</option>
+                <option value="elite" >Elite</option>
+                <option value="poor" >Poor</option>
+            </select>
+            <input type="button" class="search" value="Search">
+        </form>
+    </div>
+</body>
+</html>

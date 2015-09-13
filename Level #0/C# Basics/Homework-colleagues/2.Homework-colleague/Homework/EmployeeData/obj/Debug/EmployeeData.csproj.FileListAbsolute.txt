@@ -1,0 +1,8 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\EmployeeData\obj\Debug\EmployeeData.pdb

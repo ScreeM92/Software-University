@@ -1,0 +1,6 @@
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\BeerTime\bin\Debug\BeerTime.exe.config
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\BeerTime\bin\Debug\BeerTime.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\BeerTime\bin\Debug\BeerTime.pdb
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\BeerTime\obj\Debug\BeerTime.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\BeerTime\obj\Debug\BeerTime.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\BeerTime\obj\Debug\BeerTime.pdb

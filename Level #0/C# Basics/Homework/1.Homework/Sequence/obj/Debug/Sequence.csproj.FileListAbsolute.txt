@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Sequence\bin\Debug\Sequence.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Sequence\bin\Debug\Sequence.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Sequence\obj\Debug\Sequence.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Sequence\obj\Debug\Sequence.pdb
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Sequence\obj\Debug\Sequence.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Sequence\obj\Debug\Sequence.pdb

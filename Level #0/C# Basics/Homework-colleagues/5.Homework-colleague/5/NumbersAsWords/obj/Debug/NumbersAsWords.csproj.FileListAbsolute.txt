@@ -1,0 +1,6 @@
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\NumbersAsWords\bin\Debug\NumbersAsWords.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\NumbersAsWords\bin\Debug\NumbersAsWords.pdb
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\NumbersAsWords\obj\Debug\NumbersAsWords.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\NumbersAsWords\obj\Debug\NumbersAsWords.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\NumbersAsWords\obj\Debug\NumbersAsWords.pdb

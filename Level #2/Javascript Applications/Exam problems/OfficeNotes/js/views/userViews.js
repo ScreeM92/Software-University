@@ -1,0 +1,61 @@
+var app = app || {};
+
+app.userViews = (function() {
+    function UserViews() {
+        this.loginView = {
+            loadLoginView: loadLoginView
+        };
+        this.registerView = {
+            loadRegisterView: loadRegisterView
+        };
+    }
+
+    function loadLoginView (selector) {
+        $.get('templates/login.html', function(template) {
+            var temp = Handlebars.compile(template);
+            var html = temp();
+            $(selector).html(html);
+        }).then(function() {
+            $('#loginButton').click(function() {
+                var username = $('#username').val();
+                var password = $('#password').val();
+
+                $.sammy(function() {
+                    this.trigger('login', {username: username, password: password});
+                });
+
+                return false;
+            })
+        }).done();
+    }
+
+    function loadRegisterView (selector) {
+        $.get('templates/register.html', function(template) {
+            var temp = Handlebars.compile(template);
+            var html = temp();
+            $(selector).html(html);
+        }).then(function() {
+            $('#registerButton').click(function() {
+                var username = $('#username').val();
+                var password = $('#password').val();
+                var fullName = $('#fullName').val();
+
+                if(username === '' || password === '' || fullName === ''){
+                    Noty.error('No blank fields allowed!')
+                } else {
+                    $.sammy(function() {
+                        this.trigger('register', {username: username, password: password, fullName: fullName});
+                    });
+                }
+
+                return false;
+            });
+        }).done();
+    }
+
+    return {
+        load: function() {
+            return new UserViews();
+        }
+    }
+}());

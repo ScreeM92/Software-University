@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Continue\bin\Debug\Continue.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Continue\bin\Debug\Continue.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Continue\obj\Debug\08. Continue - SumOdd.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Continue\obj\Debug\Continue.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Continue\obj\Debug\Continue.pdb

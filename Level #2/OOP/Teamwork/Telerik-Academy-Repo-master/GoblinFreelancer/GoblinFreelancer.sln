@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoblinFreelancer", "GoblinFreelancer\GoblinFreelancer.csproj", "{5E7678EC-7B7E-4D7E-A41B-488E93E5D7B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5F55B419-D807-4418-8F54-0DDCEC113E61}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoblinFreelancer.Tests", "GoblinFreelancer.Tests\GoblinFreelancer.Tests.csproj", "{C3A0E545-9651-48A0-AD30-6502601F1598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7678EC-7B7E-4D7E-A41B-488E93E5D7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7678EC-7B7E-4D7E-A41B-488E93E5D7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7678EC-7B7E-4D7E-A41B-488E93E5D7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7678EC-7B7E-4D7E-A41B-488E93E5D7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A0E545-9651-48A0-AD30-6502601F1598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A0E545-9651-48A0-AD30-6502601F1598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A0E545-9651-48A0-AD30-6502601F1598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A0E545-9651-48A0-AD30-6502601F1598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

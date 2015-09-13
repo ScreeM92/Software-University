@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.5Task\bin\Debug\3.5Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.5Task\bin\Debug\3.5Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.5Task\bin\Debug\3.5Task.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.5Task\obj\Debug\3.5Task.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.5Task\obj\Debug\3.5Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.5Task\obj\Debug\3.5Task.pdb

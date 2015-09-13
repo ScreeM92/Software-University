@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\FirstandLastName\bin\Debug\FirstandLastName.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\FirstandLastName\bin\Debug\FirstandLastName.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\FirstandLastName\bin\Debug\FirstandLastName.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\FirstandLastName\obj\Debug\FirstandLastName.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\FirstandLastName\obj\Debug\FirstandLastName.pdb
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\FirstAndLastName\bin\Debug\FirstandLastName.exe.config
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\FirstAndLastName\obj\Debug\FirstandLastName.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\FirstAndLastName\obj\Debug\FirstandLastName.pdb

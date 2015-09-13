@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication11\bin\Release\ConsoleApplication11.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication11\obj\Release\ConsoleApplication11.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication11\obj\Release\ConsoleApplication11.pdb

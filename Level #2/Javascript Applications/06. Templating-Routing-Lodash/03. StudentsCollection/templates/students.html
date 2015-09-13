@@ -1,0 +1,31 @@
+﻿<table>
+    <thead>
+    <tr>
+        <th>First name</th>
+        <th>Last name</th>
+        <th>Gender</th>
+        <th>Age</th>
+        <th>Country</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{#students}}
+    <tr>
+        <td>{{firstName}}</td>
+        <td>{{lastName}}</td>
+        <td>{{gender}}</td>
+        <td>{{age}}</td>
+        <td>{{country}}</td>
+    </tr>
+    {{/students}}
+    {{^students}}
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    {{/students}}
+    </tbody>
+</table>

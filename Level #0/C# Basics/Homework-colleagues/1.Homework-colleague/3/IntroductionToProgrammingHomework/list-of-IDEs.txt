@@ -1,0 +1,31 @@
+	Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. 
+It is used to develop computer programs for Microsoft Windows superfamily of operating systems, 
+as well as web sites, web applications and web services. Visual Studio uses Microsoft software 
+development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows 
+Store and Microsoft Silverlight. It can produce both native code and managed code.
+
+	In computer programming, Eclipse is an integrated development environment (IDE). It contains 
+a base workspace and an extensible plug-in system for customizing the environment. Written mostly 
+in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may 
+also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, 
+Fortran, Haskell, JavaScript, Lasso, Perl, PHP, Python, R, Ruby (including Ruby on Rails framework),
+Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software
+Mathematica. Development environments include the Eclipse Java development tools (JDT) for Java and
+Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+	JDeveloper is a freeware IDE supplied by Oracle Corporation. It offers features for development in
+Java, XML, SQL and PL/SQL, HTML, JavaScript, BPEL and PHP. JDeveloper covers the full development
+lifecycle from design through coding, debugging, optimization and profiling to deploying.
+
+	Embarcadero Delphi is an integrated development environment (IDE) for console, desktop graphical,
+web, and mobile applications.Delphi's compilers use their own Object Pascal dialect of Pascal and
+generate native code for 32- and 64-bit Windows operating systems, as well as 32-bit Mac OS X,
+iOS and Android. As of late 2011 support for the Linux operating system was planned by Embarcadero.
+
+	NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also
+with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform
+framework for Java desktop applications and others. The NetBeans IDE is written in Java and can
+run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM. The NetBeans
+Platform allows applications to be developed from a set of modular software components called modules.
+Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by
+third party developers.

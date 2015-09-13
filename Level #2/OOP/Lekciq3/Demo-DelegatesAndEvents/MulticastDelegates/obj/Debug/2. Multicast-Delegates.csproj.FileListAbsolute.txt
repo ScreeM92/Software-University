@@ -1,0 +1,4 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\MulticastDelegates\obj\Debug\MulticastDelegates.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\MulticastDelegates\obj\Debug\MulticastDelegates.pdb

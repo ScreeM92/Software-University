@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\2.Laptop Shop\bin\Debug\2.Laptop Shop.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\2.Laptop Shop\obj\Debug\2.LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\2.Laptop Shop\bin\Debug\2.Laptop Shop.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\2.Laptop Shop\bin\Debug\2.Laptop Shop.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\2.Laptop Shop\obj\Debug\2.Laptop Shop.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\2.Laptop Shop\obj\Debug\2.Laptop Shop.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\2.Laptop Shop\bin\Debug\2.Laptop Shop.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\2.Laptop Shop\obj\Debug\2.Laptop Shop.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\2.Laptop Shop\obj\Debug\2.Laptop Shop.pdb

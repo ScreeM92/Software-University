@@ -1,0 +1,12 @@
+D:\c#\Solution1\Odd or Even\bin\Debug\Odd or Even.exe.config
+D:\c#\Solution1\Odd or Even\obj\Debug\Odd or Even.csprojResolveAssemblyReference.cache
+D:\c#\Solution1\Odd or Even\bin\Debug\Odd or Even.exe
+D:\c#\Solution1\Odd or Even\bin\Debug\Odd or Even.pdb
+D:\c#\Solution1\Odd or Even\obj\Debug\Odd or Even.exe
+D:\c#\Solution1\Odd or Even\obj\Debug\Odd or Even.pdb
+D:\c#\Operators Expressions and Statements\Odd or Even\bin\Debug\Odd or Even.exe.config
+D:\c#\Operators Expressions and Statements\Odd or Even\obj\Debug\Odd or Even.exe
+D:\c#\Operators Expressions and Statements\Odd or Even\obj\Debug\Odd or Even.csprojResolveAssemblyReference.cache
+D:\c#\Operators Expressions and Statements\Odd or Even\bin\Debug\Odd or Even.exe
+D:\c#\Operators Expressions and Statements\Odd or Even\bin\Debug\Odd or Even.pdb
+D:\c#\Operators Expressions and Statements\Odd or Even\obj\Debug\Odd or Even.pdb

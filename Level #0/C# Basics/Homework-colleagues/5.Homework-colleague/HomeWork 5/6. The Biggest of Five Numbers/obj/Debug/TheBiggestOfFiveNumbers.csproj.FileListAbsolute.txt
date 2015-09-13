@@ -1,0 +1,8 @@
+c:\users\vladi\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
+c:\users\vladi\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe
+c:\users\vladi\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.pdb
+c:\users\vladi\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.exe
+c:\users\vladi\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\6. The Biggest of Five Numbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\6. The Biggest of Five Numbers\obj\Debug\TheBiggestOfFiveNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\HomeWork 5\6. The Biggest of Five Numbers\obj\Debug\TheBiggestOfFiveNumbers.pdb

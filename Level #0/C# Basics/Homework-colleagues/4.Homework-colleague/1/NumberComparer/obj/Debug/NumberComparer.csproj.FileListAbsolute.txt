@@ -1,0 +1,8 @@
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumberComparer\bin\Debug\NumberComparer.exe.config
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumberComparer\bin\Debug\NumberComparer.exe
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumberComparer\bin\Debug\NumberComparer.pdb
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumberComparer\obj\Debug\NumberComparer.exe
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumberComparer\obj\Debug\NumberComparer.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumberComparer\obj\Debug\NumberComparer.pdb

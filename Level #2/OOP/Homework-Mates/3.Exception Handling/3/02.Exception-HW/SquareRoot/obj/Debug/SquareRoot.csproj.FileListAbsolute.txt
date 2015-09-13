@@ -1,0 +1,9 @@
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\01.Square-Root\bin\Debug\01.Square-Root.exe.config
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\01.Square-Root\obj\Debug\01.Square-Root.exe
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\01.Square-Root\obj\Debug\01.Square-Root.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\01.Square-Root\bin\Debug\01.Square-Root.exe
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\01.Square-Root\bin\Debug\01.Square-Root.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\01.Square-Root\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\SquareRoot\bin\Debug\01.Square-Root.exe.config
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\SquareRoot\obj\Debug\01.Square-Root.exe
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\SquareRoot\obj\Debug\01.Square-Root.pdb

@@ -1,0 +1,32 @@
+﻿<html>
+<head>
+	<title>Functions - Overloading with Parameters Type</title>
+</head>
+<body>
+	<script type="text/javascript">
+		function specialPrint(value) {
+			switch (typeof value) {
+				case 'number': console.log('Number: ' + value); break;
+				case 'string': console.log('String: "' + value + '"'); break;
+				case 'boolean': console.log('Boolean: ' + value); break;
+				case undefined: console.log('undefined'); break;
+				case null: console.log('null'); break;
+				default:
+				case "object": console.log('Object: ' + JSON.stringify(value)); break;
+			}
+		}
+										  
+		specialPrint(5);
+		specialPrint('Lorem Ipsum');
+		specialPrint(new Array(1, 2, 3, 4));
+		specialPrint(true);
+		specialPrint(false);
+		specialPrint('0');
+		specialPrint(0);
+		specialPrint(undefined);
+		specialPrint(null);
+		specialPrint(new Date(2013, 2, 3));
+		specialPrint(document);
+	</script>
+</body>
+</html>

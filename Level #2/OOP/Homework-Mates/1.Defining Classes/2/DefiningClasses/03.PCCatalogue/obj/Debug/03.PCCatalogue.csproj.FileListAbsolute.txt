@@ -1,0 +1,9 @@
+D:\xampp\htdocs\DefiningClasses\03.PCCatalogue\bin\Debug\03.PCCatalogue.exe.config
+D:\xampp\htdocs\DefiningClasses\03.PCCatalogue\bin\Debug\03.PCCatalogue.exe
+D:\xampp\htdocs\DefiningClasses\03.PCCatalogue\bin\Debug\03.PCCatalogue.pdb
+D:\xampp\htdocs\DefiningClasses\03.PCCatalogue\obj\Debug\03.PCCatalogue.csprojResolveAssemblyReference.cache
+D:\xampp\htdocs\DefiningClasses\03.PCCatalogue\obj\Debug\03.PCCatalogue.exe
+D:\xampp\htdocs\DefiningClasses\03.PCCatalogue\obj\Debug\03.PCCatalogue.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\03.PCCatalogue\bin\Debug\03.PCCatalogue.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\03.PCCatalogue\obj\Debug\03.PCCatalogue.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\03.PCCatalogue\obj\Debug\03.PCCatalogue.pdb

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Put the fruits in the basket</title>
+    <script src="scripts/picnic-basket-game.js"></script>
+    <style>
+        body {
+            font-family: Corbel, sans-serif;
+            font-size: .9em;
+            background-color: bisque;
+        }
+
+        td {
+            text-align: center;
+        }
+    </style>
+</head>
+<body onload="onBodyLoad()">
+    <div id="field"></div>
+    <script>
+        function onBodyLoad() {
+            picnicBasketGame.loadGame();
+        }
+    </script>
+</body>
+</html>

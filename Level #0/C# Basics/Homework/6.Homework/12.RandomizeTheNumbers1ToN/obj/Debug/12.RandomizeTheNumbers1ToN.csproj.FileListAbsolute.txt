@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.pdb

@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\DogMeeting\bin\Debug\DogMeeting.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\DogMeeting\bin\Debug\DogMeeting.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\DogMeeting\obj\Debug\2. Dog Meeting.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\DogMeeting\obj\Debug\DogMeeting.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\DogMeeting\obj\Debug\DogMeeting.pdb

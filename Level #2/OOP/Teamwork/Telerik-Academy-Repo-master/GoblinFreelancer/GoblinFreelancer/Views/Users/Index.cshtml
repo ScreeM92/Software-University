@@ -1,0 +1,57 @@
+﻿@using GoblinFreelancer.Models.ViewModels;
+@{
+    ViewBag.Title = "Users";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <div class="span5">
+        <ul style="width:400px">
+            @(Html.Kendo().ListView<UserViewModel>()
+        .Name("listView")
+        .TagName("div")
+        .ClientTemplateId("users-template")
+        .DataSource(data =>
+        {
+            data.Read(read => read.Action("GetUsers", "Users"));
+            data.PageSize(10);
+        })
+        .Pageable()
+            )
+        </ul>
+    </div>
+</div>
+
+
+<script type="text/x-kendo-template" id="users-template">
+    <li class="users-list">
+        <div class="users-list-item">
+            <div class="users-list-img" style="background-image: url('/Users/GetImage?id=#:Id#')"></div>
+            <span class="users-list-info user-info">
+                <span>
+                    <strong> Username:</strong>
+                    <a href="\Users/UserProfile?username=#:UserName#">#:UserName# </a>
+                </span>
+                <br />
+                <span>
+                    <strong> Email:</strong> #:Email#
+                </span>
+                <br />
+                <span>
+                    <strong> Rating:</strong><span class="ratingValue">#:Rating#</span>
+                </span>
+                <br />
+                <span class="stars"></span>
+            </span>
+            <br /><br />
+            <div>
+                <strong> Skills:</strong> #:Skills#
+            </div>
+        </div>
+    </li>
+</script>
+
+@section VoteSystemDrawVoteSection {
+    <script src="~/Scripts/app/vote-system-draw-rating.js"></script>    
+}

@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2.FractionCalculator\bin\Debug\2.FractionCalculator.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2.FractionCalculator\bin\Debug\2.FractionCalculator.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2.FractionCalculator\bin\Debug\2.FractionCalculator.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2.FractionCalculator\obj\Debug\2.FractionCalculator.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2.FractionCalculator\obj\Debug\2.FractionCalculator.pdb

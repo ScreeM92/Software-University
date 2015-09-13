@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Examples-Dancho\Examples-Dancho\bin\Debug\Examples-Dancho.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Examples-Dancho\Examples-Dancho\obj\Debug\Examples-Dancho.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Examples-Dancho\Examples-Dancho\bin\Debug\Examples-Dancho.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Examples-Dancho\Examples-Dancho\bin\Debug\Examples-Dancho.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Examples-Dancho\Examples-Dancho\obj\Debug\Examples-Dancho.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Examples-Dancho\Examples-Dancho\obj\Debug\Examples-Dancho.pdb

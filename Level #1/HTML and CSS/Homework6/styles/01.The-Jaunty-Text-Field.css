@@ -1,0 +1,144 @@
+/*reset*/
+html, div, h1, input {
+    font-weight: normal;
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+}
+
+html {
+    font-family: "Tahoma", San-serif;
+    font-size: 100%;
+}
+
+.main-rectangle {
+    /*size*/
+    display: inline-block;
+    /*borders*/
+    border-top: dotted 4px #FFFF00;
+    border-right: solid 8px #008000;
+    border-bottom: double 8px #0000FF;
+    border-left: dashed 4px #FF0000;
+    /*padding and margin*/
+    padding: 1.8rem;
+    margin: 5rem 2rem;
+    box-shadow: 1rem 1rem 0.3rem rgba(0, 0, 0, 0.8);
+}
+
+.main-rectangle h1 {
+    font-size: 3rem;
+    margin-bottom: 1.8rem;
+    text-shadow: 1rem 1rem 0.6rem rgba(0, 0, 0, 0.4);
+}
+
+.main-rectangle .borders {
+    /*size*/
+    width: 100%;
+    box-sizing: border-box;
+    /*borders*/
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10rem;
+}
+
+.blue {
+    border-color: #0000FF;
+}
+
+.green {
+    border-color: #008000;
+}
+
+.yellow {
+    border-color: #FFFF00;
+}
+
+.red {
+    /*borders*/
+    border-color: #FF0000;
+    /*text and fonds*/
+    font-size: 1.4rem;
+    text-align: center;
+    /*padding and margin*/
+    padding: 1rem;
+    /*position*/
+    position: relative;
+}
+
+div.borders.red div:first-child{
+    text-shadow: 0.5rem 0.8rem 0.8rem rgba(0, 0, 0, 0.35);
+}
+
+.borders.red input{
+    /*background and color*/
+    background-color: #D8921A;
+    /*borders*/
+    border-color: #D8921A;
+    border-style: outset;
+    /*padding and margin*/
+    padding: 0.2rem;
+    margin-top: 1.2rem;
+    /*text and font*/
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.balloon, .balloon div{
+    /*size*/
+    box-sizing: border-box;
+    /*borders*/
+    border-radius: 15rem;
+}
+
+.balloon{
+    /*size*/
+    display: inline-block;
+    /*background and color*/
+    background-color: #A9A9A9;
+    opacity: 0.8;
+    color: #ffffff;
+    /*padding and margin*/
+    padding: 0.3rem;
+    /*position*/
+    position: absolute;
+}
+
+.first{
+    width: 1.3rem;
+    height: 1.2rem;
+}
+
+.move-1{
+    right: 4.4rem;
+    bottom: 2.4rem;
+}
+
+
+.second{
+    width: 2rem;
+    height: 1.9rem;
+}
+
+.move-2{
+    right: 0.7rem;
+    bottom: 4.1rem;
+}
+
+.third{
+    width: 7rem;
+    font-size: 1.4rem;
+    font-weight: bold;
+    padding: .5rem;
+}
+
+.move-3{
+    right: -7.7rem;
+    bottom: 6rem;
+}
+
+.balloon  div{
+    /*size*/
+    display: inline-block;
+    /*borders*/
+    border: dashed 3px red;
+}

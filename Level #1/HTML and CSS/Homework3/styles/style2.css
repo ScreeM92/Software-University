@@ -1,0 +1,57 @@
+.main{
+    width: 400px;
+    height: 275px;
+    background-color: #ffc0cb;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    margin: 0px;
+}
+.spanBegin{
+    margin-right: 170px;
+    font-size: 12px;
+
+}
+select{
+    width: 196px;
+    font-weight: bold;
+}
+.long{
+    margin-left: 200px;
+    font-size: 12px;
+    margin-right: 100px;
+}
+.spanSecond{
+    margin-right: 122px;
+    font-size: 12px;
+
+}
+.spanThird{
+    margin-right: 137px;
+    font-size: 12px;
+}
+.spanEnd{
+    margin-right: 47px;
+    font-size: 12px;
+}
+span{
+    font-style: italic;
+}
+.depDate{
+    width: 190px;
+
+}
+.depTime{
+    width: 92.5px;
+}
+.nums{
+    width: 58px;
+}
+.search{
+    width: 197px;
+    text-align: center;
+    margin-left: 197px;
+    height: 30px;
+    font-weight: bold;
+}

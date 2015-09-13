@@ -1,0 +1,2 @@
+C:\Users\Работа сайт\Desktop\Podgotovka za izpit\PodgotovkaZaIzpit\2.Task\bin\Debug\2.Task.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Podgotovka za izpit\PodgotovkaZaIzpit\2.Task\bin\Debug\2.Task.exe.config

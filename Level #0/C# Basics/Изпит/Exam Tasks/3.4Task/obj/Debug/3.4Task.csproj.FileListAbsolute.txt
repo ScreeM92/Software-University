@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.4Task\bin\Debug\3.4Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.4Task\bin\Debug\3.4Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.4Task\bin\Debug\3.4Task.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.4Task\obj\Debug\3.4Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.4Task\obj\Debug\3.4Task.pdb

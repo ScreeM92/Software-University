@@ -1,0 +1,18 @@
+THE USUAL SUSPECTS
+IT Blog
+
+Home Blog Forums Portfolio About Us Contacts
+
+Write Code Every Day
+Last fall, work on my coding side projects came to a head: I wasn’t making adequate progress and I couldn’t find a way to get more done without sacrificing my ability to do effective work at Khan Academy. There were a few major problems with how I was working on my side projects. I was [...]
+73 Comments · Posted: April 10th, 2014
+
+Use Project-based Interviews Instead of "GitHub"
+First, some background: I highly recommend that you read the following two blog posts: by Ashe Dryden: The Ethics of Unpaid Labor and the OSS Community and by James Coglan: Why Github is not your CV. They make some fantastic points and communicate the issues surrounding “Using Github as your CV”. Both of these were [...]
+16 Comments · Posted: November 21st, 2013
+
+Node.js Stream Playground
+This summer I had the opportunity to attend NodeConf and it was a fantastic experience. I really appreciated how every session was a hands-on coding session: I felt like I walked away knowing how to put a bunch of advice directly into practice. One of my favorite sessions was the one run by James Halliday [...]
+8 Comments · Posted: November 15th, 2013
+
+Archives: 2011 / 2012 / 2013 / 2014

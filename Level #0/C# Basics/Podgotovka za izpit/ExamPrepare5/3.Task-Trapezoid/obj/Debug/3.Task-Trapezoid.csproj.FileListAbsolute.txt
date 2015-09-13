@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Podgotovka za izpit\Solution1\3.Task-Trapezoid\bin\Debug\3.Task-Trapezoid.exe.config
+C:\Users\Работа сайт\Desktop\Podgotovka za izpit\Solution1\3.Task-Trapezoid\bin\Debug\3.Task-Trapezoid.exe
+C:\Users\Работа сайт\Desktop\Podgotovka za izpit\Solution1\3.Task-Trapezoid\bin\Debug\3.Task-Trapezoid.pdb
+C:\Users\Работа сайт\Desktop\Podgotovka za izpit\Solution1\3.Task-Trapezoid\obj\Debug\3.Task-Trapezoid.exe
+C:\Users\Работа сайт\Desktop\Podgotovka za izpit\Solution1\3.Task-Trapezoid\obj\Debug\3.Task-Trapezoid.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Podgotovka za izpit\Solution1 Mitko\3.Task-Trapezoid\bin\Debug\3.Task-Trapezoid.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Podgotovka za izpit\Solution1 Mitko\3.Task-Trapezoid\obj\Debug\3.Task-Trapezoid.exe
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Podgotovka za izpit\Solution1 Mitko\3.Task-Trapezoid\obj\Debug\3.Task-Trapezoid.pdb

@@ -1,0 +1,2 @@
+apples: kiro 10, maria 2, steve 12
+bananas: kiro 4, maria 3

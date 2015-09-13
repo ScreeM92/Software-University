@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\Sort3NumbersWithNestedIfs\obj\Debug\7.Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache

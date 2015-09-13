@@ -1,0 +1,8 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

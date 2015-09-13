@@ -1,0 +1,19 @@
+﻿@model IEnumerable<GoblinFreelancer.ViewModels.ProjectViewModelFull>
+@{
+    ViewBag.Title = "Home Page";  
+}
+
+<h2>Recent Projects</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="span4">
+            <h3>@item.Name</h3>
+            <span><strong>Category: </strong><a href="Categories/Projects?category=@item.CategoryName">@item.CategoryName</a></span><br />
+            <span><strong>Created on: </strong>@item.CreatedOn.ToShortDateString()</span><br />
+            <span><strong>Deadline: </strong>@item.Deadline.ToShortDateString()</span><br />
+            <span><strong>Owner: </strong><a href="/Users/UserProfile?username=@item.Owner">@item.Owner</a></span><br />
+            <a class="btn btn-inverse" href="Projects/ViewProject/@item.Id">More info..</a>
+        </div>
+    }
+</div>

@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework22\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework22\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework22\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework22\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework22\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\5.Exercise\5.Exercise\bin\Debug\5.Exercise.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\5.Exercise\5.Exercise\bin\Debug\5.Exercise.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\5.Exercise\5.Exercise\bin\Debug\5.Exercise.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\5.Exercise\5.Exercise\obj\Debug\5.Exercise.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\5.Exercise\5.Exercise\obj\Debug\5.Exercise.pdb

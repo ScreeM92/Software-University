@@ -1,0 +1,6 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\DigitAsWord\obj\Debug\DigitAsWord.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\DigitAsWord\obj\Debug\DigitAsWord.pdb

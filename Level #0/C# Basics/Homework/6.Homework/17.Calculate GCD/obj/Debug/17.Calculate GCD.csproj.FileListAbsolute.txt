@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\17.Calculate GCD\bin\Debug\17.Calculate GCD.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\17.Calculate GCD\bin\Debug\17.Calculate GCD.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\17.Calculate GCD\bin\Debug\17.Calculate GCD.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\17.Calculate GCD\obj\Debug\17.Calculate GCD.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\17.Calculate GCD\obj\Debug\17.Calculate GCD.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\17.Calculate GCD\obj\Debug\17.Calculate GCD.pdb

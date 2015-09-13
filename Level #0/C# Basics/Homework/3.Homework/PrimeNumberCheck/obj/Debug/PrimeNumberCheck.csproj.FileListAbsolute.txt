@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache

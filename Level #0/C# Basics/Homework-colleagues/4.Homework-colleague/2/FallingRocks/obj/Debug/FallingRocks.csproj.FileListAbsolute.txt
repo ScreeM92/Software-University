@@ -1,0 +1,5 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FallingRocks\obj\Debug\FallingRocks.pdb

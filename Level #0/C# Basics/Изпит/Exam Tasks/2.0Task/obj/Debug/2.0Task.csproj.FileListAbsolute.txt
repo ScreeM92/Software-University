@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.0Task\bin\Debug\2.0Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.0Task\bin\Debug\2.0Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.0Task\bin\Debug\2.0Task.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.0Task\obj\Debug\2.0Task.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.0Task\obj\Debug\2.0Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.0Task\obj\Debug\2.0Task.pdb
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\2.0Task\bin\Debug\2.0Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\2.0Task\obj\Debug\2.0Task.exe
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\2.0Task\obj\Debug\2.0Task.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\2.0Task\bin\Debug\2.0Task.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\2.0Task\obj\Debug\2.0Task.exe
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\2.0Task\obj\Debug\2.0Task.pdb

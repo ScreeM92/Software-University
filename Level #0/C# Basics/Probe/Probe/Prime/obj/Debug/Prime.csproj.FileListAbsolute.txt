@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\Prime\bin\Debug\Prime.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\Prime\bin\Debug\Prime.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Prime\bin\Debug\Prime.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\Prime\obj\Debug\Prime.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Probe\Probe\Prime\obj\Debug\Prime.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Prime\obj\Debug\Prime.pdb

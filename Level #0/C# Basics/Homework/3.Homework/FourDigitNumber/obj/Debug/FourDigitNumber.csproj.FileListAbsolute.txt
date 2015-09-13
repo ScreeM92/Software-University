@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache

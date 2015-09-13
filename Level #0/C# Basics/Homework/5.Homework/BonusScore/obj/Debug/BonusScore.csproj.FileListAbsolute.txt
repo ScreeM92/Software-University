@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\BonusScore\obj\Debug\BonusScore.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\BonusScore\obj\Debug\BonusScore.pdb

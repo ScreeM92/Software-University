@@ -1,0 +1,9 @@
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\FallingRocksGame\FallingRocks\bin\Debug\12 FallingRocks.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\FallingRocksGame\FallingRocks\obj\Debug\12 FallingRocks.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\FallingRocksGame\FallingRocks\obj\Debug\12 FallingRocks.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\FallingRocksGame\FallingRocks\bin\Debug\12 FallingRocks.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\FallingRocksGame\FallingRocks\bin\Debug\12 FallingRocks.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\FallingRocksGame\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\FallingRocksGame\FallingRocks\bin\Debug\12 FallingRocks.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\FallingRocksGame\FallingRocks\obj\Debug\12 FallingRocks.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\FallingRocksGame\FallingRocks\obj\Debug\12 FallingRocks.pdb

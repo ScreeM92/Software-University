@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9a264bc884db48ac9f965dbd779e0807" Name="Diagram1">
+        <EntityTypeShape EntityType="AtmModel.CardAccount" Width="2.625" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AtmModel.TransactionHistory" Width="1.5" PointX="6" PointY="1.625" IsExpanded="true" />
+        <AssociationConnector Association="AtmModel.FK_TransactionHistory_CardAccounts" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

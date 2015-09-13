@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+    background-size: 100%;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 33px;
+}
+p{
+    font-size: 17px;
+}
+.top{
+    margin-top: 20px;
+}

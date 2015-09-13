@@ -1,0 +1,43 @@
+<article id="{{posts.0.objectId}}" class="post">
+    <div class="jumbotron">
+        <h2>{{posts.0.title}}</h2>
+        <p>posted by <span class="glyphicon glyphicon-user"></span><span class="author"><a href="#/user/{{posts.0.author.objectId}}"> {{posts.0.author.username}}</a></span> at <span class="glyphicon glyphicon-calendar"></span> <time>{{posts.0.createdAt}}</time>
+        </p>
+        {{#if posts.0.headerImage}}
+            <div class="col-xs-12 col-md-12">
+                <img class="header-image" src="{{posts.0.headerImage.url}}" alt="headerImage">
+            </div>
+        {{/if}}
+        <p class="post-content">{{posts.0.content}}</p>
+
+        <p class="post-details-container">
+            <span class="glyphicon glyphicon-eye-open" title="visits"></span> <span class="views post-details" title="visits">{{posts.0.visitsCount}}</span>
+            <span class="glyphicon glyphicon-comment" title="comments"></span> <span class="comments-count post-details" title="comments">{{posts.0.commentsCount}}</span>
+            <span class="glyphicon glyphicon-tags" title="tags"></span> <span class="post-details" title="tags">
+            {{#posts.0.tags}}
+                {{#if @first}}
+                    <a href="#/tag/{{this}}">{{this}}</a>
+                {{else}}
+                    <span> / </span><a href="#/tag/{{this}}">{{this}}</a>
+                {{/if}}
+            {{/posts.0.tags}}
+            </span>
+        </p>
+        <hr />
+
+        {{#if logged}}
+        <button id="comment-form-toggle" type="button" class="btn btn-info">Leave a comment</button>
+        <form id="comment-form" hidden="hidden">
+            <textarea id="content" class="form-control" rows="10" placeholder="Content..."></textarea>
+            <button id="{{posts.0.objectId}}" type="button" class="postCommentButton btn btn-info">Add</button>
+        </form>
+        {{else}}
+        <div class="alert alert-info" role="alert">Log in to leave a comment.</div>
+        {{/if}}
+    </div>
+    <ul class="comments">
+    </ul>
+</article>
+
+
+

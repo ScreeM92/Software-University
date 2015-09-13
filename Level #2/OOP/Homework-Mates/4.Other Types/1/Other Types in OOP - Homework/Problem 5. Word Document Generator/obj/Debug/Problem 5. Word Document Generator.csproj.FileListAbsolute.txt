@@ -1,0 +1,15 @@
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.exe.config
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.exe.config
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 5. Word Document Generator\obj\Debug\Problem 5. Word Document Generator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.exe
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.pdb
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\DocX.dll
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 5. Word Document Generator\obj\Debug\Problem_5.Word_Document_Generator.exe
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 5. Word Document Generator\obj\Debug\Problem_5.Word_Document_Generator.pdb
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.exe.config
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 5. Word Document Generator\obj\Debug\Problem_5.Word_Document_Generator.exe
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 5. Word Document Generator\obj\Debug\Problem_5.Word_Document_Generator.pdb
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.exe
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\Problem_5.Word_Document_Generator.pdb
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 5. Word Document Generator\bin\Debug\DocX.dll
+C:\Users\D.Valchanova\Desktop\Homework-Icakis-Други типове (структури, енумерации, шаблонни класове, атрибути)\Other Types in OOP - Homework\Problem 5. Word Document Generator\obj\Debug\Problem 5. Word Document Generator.csprojResolveAssemblyReference.cache

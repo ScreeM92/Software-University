@@ -1,0 +1,28 @@
+{{#if latestPosts}}
+    <div class="panel panel-info col-lg-12 col-sm-12">
+        <div class="panel-heading"><h4>Latest posts:</h4></div>
+        {{#each latestPosts}}
+            <div class="panel-body"><a href="#/post/{{objectId}}">{{title}} <spann class="date">{{createdAt}}</spann></a></div>
+        {{/each}}
+    </div>
+{{/if}}
+
+{{#if mostPopularTags}}
+    <div class="panel panel-info col-lg-12 col-sm-12">
+        <div class="panel-heading">
+            <h4>Most popular tags:</h4>
+        </div>
+        <ul class="list-group">
+            {{#each mostPopularTags}}
+                {{#each this}}
+                    <li class="list-group-item">
+                        <a href="#/tag/{{@key}}">
+                            <span class="badge">{{this}}</span>
+                            <span class="popular-tag">{{@key}}</span>
+                        </a>
+                    </li>
+                {{/each}}
+            {{/each}}
+        </ul>
+    </div>
+{{/if}}

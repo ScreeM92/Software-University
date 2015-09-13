@@ -1,0 +1,275 @@
+{
+	"id": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+	"name": "Web Services Testing",
+	"description": "",
+	"order": [
+		"f74c2e3e-16ad-190f-e4af-2416c45e1e51",
+		"b5fbf198-9160-f9b7-7ea0-6d739c40c19c",
+		"5a5bbe27-779d-87c6-9bfc-13a2e686b6fa",
+		"728e1318-e3d4-e258-907d-81fba39a8bee",
+		"f3e2bbe8-70c8-59a2-eea3-34b292236b89",
+		"3434dd8b-4216-a667-bc70-c5e767195930",
+		"34443b26-dcb5-640b-3b72-d2821036f51e",
+		"b34913a9-d9f1-90f6-c9a9-047fe00dd4d2"
+	],
+	"folders": [],
+	"timestamp": 1441648737416,
+	"owner": 0,
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "3434dd8b-4216-a667-bc70-c5e767195930",
+			"headers": "Authorization: bearer n0pGeooimhXZjdpJOjrl9XNCXARTECPcng88vOqnTGs2QAbaDWH9VrrMUL2YncqC-jyraM5a0YN6jsTngssD4gEHw7c19P75Mbv9dNpl1IIo3RUMEQok-Y06WmOEtLeYHKQ3rvqvPbcIhqPvlr7YyLhREcw9o-o9fMNCNp5A8ppdLnmkeOAl2p6CkxI7V1qscppWxWIN3eOi5IHu7ZsNFdXRVTqciuOEI_6SYzYM9QMs1cBiLC4Mzkqk8dul3gjdw_JfiQJKS9c7ONetUkFXXeQybcGhOfJXHcZNi96nOlczyt3VJ2fzwPSRQemdlHIUmJoGE3aIbQc183FqNkHAZ8Y95GpxSoRBhiZlAC5QkBsOol0wqUxUZsY4gHXPH5TbGzBVjjSzTtub0TleAUq-2oOMPe-0fY-vYM2eiLnCTB7fEn2YGaEryfMwCCta6STiojAIeySzJTB3F9OOu_zjeF8zQMSbBjv4R5_MR4K1Q-w\n",
+			"url": "http://localhost:50334/api/news",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "Title",
+					"value": "My first newsasdasd12",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Content",
+					"value": "no idea what the content should be",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "PublishDate",
+					"value": "03-Dec-2014 18:40:33",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1441888348772,
+			"name": "Create News",
+			"description": "",
+			"collectionId": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+			"responses": []
+		},
+		{
+			"id": "34443b26-dcb5-640b-3b72-d2821036f51e",
+			"headers": "Authorization: bearer n0pGeooimhXZjdpJOjrl9XNCXARTECPcng88vOqnTGs2QAbaDWH9VrrMUL2YncqC-jyraM5a0YN6jsTngssD4gEHw7c19P75Mbv9dNpl1IIo3RUMEQok-Y06WmOEtLeYHKQ3rvqvPbcIhqPvlr7YyLhREcw9o-o9fMNCNp5A8ppdLnmkeOAl2p6CkxI7V1qscppWxWIN3eOi5IHu7ZsNFdXRVTqciuOEI_6SYzYM9QMs1cBiLC4Mzkqk8dul3gjdw_JfiQJKS9c7ONetUkFXXeQybcGhOfJXHcZNi96nOlczyt3VJ2fzwPSRQemdlHIUmJoGE3aIbQc183FqNkHAZ8Y95GpxSoRBhiZlAC5QkBsOol0wqUxUZsY4gHXPH5TbGzBVjjSzTtub0TleAUq-2oOMPe-0fY-vYM2eiLnCTB7fEn2YGaEryfMwCCta6STiojAIeySzJTB3F9OOu_zjeF8zQMSbBjv4R5_MR4K1Q-w\n",
+			"url": "http://localhost:50334/api/news/97",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "PUT",
+			"data": [
+				{
+					"key": "Title",
+					"value": "Edit my first news",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Content",
+					"value": "Still no idea what the content should be",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "PublishDate",
+					"value": "24-Dec-2014 18:40:33",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1441888344635,
+			"name": "Edit News",
+			"description": "",
+			"collectionId": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+			"responses": []
+		},
+		{
+			"id": "5a5bbe27-779d-87c6-9bfc-13a2e686b6fa",
+			"headers": "Authorization: bearer ViEr6SAOyQhXnYIYIjQ3ybZL6ylDyoUT9r6aJGRjMiYxHZQYHcfE95JFw3qwl9dbVy-71MPoZDkNj-juMlGMbEN01EyH2ZZqk5nRTfXVfgVux46qdOh2lbs4dzTtXiT2LEWk7jXpOIt3Jh_GTvXtU7Sy0m4zhIlDMu3GhplXY_Aq8GmNG-x7SIt5UhmgDkMV-n88NSUWFNtnlnIEQPCkPo560YO4mIvvmFoPmUiprNUZi_ilcVt2vO1CdPYBYHVW_FtuSoSoMxQy0XS3an0P_tEbvkS11nU2PUmeTAFqC4XSBlICHRcRaKciVyRWAbnbGKkAFycaCv8uI_j61YMppI_gE_Im_kKfUMDIhg2AJrh4QdeNKsExfqkQ2wMQnVVjJehgJ32xRf2XfZyQegihD9scUpM0dZUa-JcLX7psoDph99suXPVtx_1v7hCSnaGnJBlnONTpvV4burD2w6rXuB_pdJjf1UKUziNEpbd0gDo\n",
+			"url": "http://localhost:50334/api/account/logout",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1441661315026,
+			"name": "Logout",
+			"description": "",
+			"collectionId": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+			"responses": []
+		},
+		{
+			"id": "728e1318-e3d4-e258-907d-81fba39a8bee",
+			"headers": "Authorization: bearer ViEr6SAOyQhXnYIYIjQ3ybZL6ylDyoUT9r6aJGRjMiYxHZQYHcfE95JFw3qwl9dbVy-71MPoZDkNj-juMlGMbEN01EyH2ZZqk5nRTfXVfgVux46qdOh2lbs4dzTtXiT2LEWk7jXpOIt3Jh_GTvXtU7Sy0m4zhIlDMu3GhplXY_Aq8GmNG-x7SIt5UhmgDkMV-n88NSUWFNtnlnIEQPCkPo560YO4mIvvmFoPmUiprNUZi_ilcVt2vO1CdPYBYHVW_FtuSoSoMxQy0XS3an0P_tEbvkS11nU2PUmeTAFqC4XSBlICHRcRaKciVyRWAbnbGKkAFycaCv8uI_j61YMppI_gE_Im_kKfUMDIhg2AJrh4QdeNKsExfqkQ2wMQnVVjJehgJ32xRf2XfZyQegihD9scUpM0dZUa-JcLX7psoDph99suXPVtx_1v7hCSnaGnJBlnONTpvV4burD2w6rXuB_pdJjf1UKUziNEpbd0gDo\n",
+			"url": "http://localhost:50334/api/account/changePassword",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "oldPassword",
+					"value": "password",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "newPassword",
+					"value": "newpassword",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "confirmPassword",
+					"value": "newpassword",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1441661320326,
+			"name": "Change Password",
+			"description": "",
+			"collectionId": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+			"responses": []
+		},
+		{
+			"id": "b34913a9-d9f1-90f6-c9a9-047fe00dd4d2",
+			"headers": "Authorization: bearer ViEr6SAOyQhXnYIYIjQ3ybZL6ylDyoUT9r6aJGRjMiYxHZQYHcfE95JFw3qwl9dbVy-71MPoZDkNj-juMlGMbEN01EyH2ZZqk5nRTfXVfgVux46qdOh2lbs4dzTtXiT2LEWk7jXpOIt3Jh_GTvXtU7Sy0m4zhIlDMu3GhplXY_Aq8GmNG-x7SIt5UhmgDkMV-n88NSUWFNtnlnIEQPCkPo560YO4mIvvmFoPmUiprNUZi_ilcVt2vO1CdPYBYHVW_FtuSoSoMxQy0XS3an0P_tEbvkS11nU2PUmeTAFqC4XSBlICHRcRaKciVyRWAbnbGKkAFycaCv8uI_j61YMppI_gE_Im_kKfUMDIhg2AJrh4QdeNKsExfqkQ2wMQnVVjJehgJ32xRf2XfZyQegihD9scUpM0dZUa-JcLX7psoDph99suXPVtx_1v7hCSnaGnJBlnONTpvV4burD2w6rXuB_pdJjf1UKUziNEpbd0gDo\n",
+			"url": "http://localhost:50334/api/news/1",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1441661421996,
+			"name": "Delete News",
+			"description": "",
+			"collectionId": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+			"responses": []
+		},
+		{
+			"id": "b5fbf198-9160-f9b7-7ea0-6d739c40c19c",
+			"headers": "",
+			"url": "http://localhost:50334/api/account/register",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "Username",
+					"value": "user",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Password",
+					"value": "password",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "ConfirmPassword",
+					"value": "password",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Email",
+					"value": "user@email.aa",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1441661234331,
+			"name": "Register",
+			"description": "",
+			"collectionId": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+			"responses": []
+		},
+		{
+			"id": "f3e2bbe8-70c8-59a2-eea3-34b292236b89",
+			"headers": "",
+			"url": "http://localhost:50334/api/news",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1441651622515,
+			"name": "Get All News",
+			"description": "",
+			"collectionId": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+			"responses": []
+		},
+		{
+			"id": "f74c2e3e-16ad-190f-e4af-2416c45e1e51",
+			"headers": "",
+			"url": "http://localhost:50334/api/account/login",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "Username",
+					"value": "user",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Password",
+					"value": "password",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Grant_type",
+					"value": "password",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1441661213332,
+			"name": "Login",
+			"description": "",
+			"collectionId": "63ca4385-7c9a-b8bf-be59-53118bac22c2",
+			"responses": []
+		}
+	]
+}

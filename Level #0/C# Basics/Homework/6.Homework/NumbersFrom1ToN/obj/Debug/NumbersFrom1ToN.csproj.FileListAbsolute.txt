@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

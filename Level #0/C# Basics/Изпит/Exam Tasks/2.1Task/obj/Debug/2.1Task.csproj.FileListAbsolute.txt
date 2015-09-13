@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\2.1Task\bin\Debug\2.1Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\2.1Task\bin\Debug\2.1Task.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\2.1Task\bin\Debug\2.1Task.exe.config

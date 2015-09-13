@@ -1,0 +1,4 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ThirdDigit7\bin\Debug\ThirdDigit7.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ThirdDigit7\bin\Debug\ThirdDigit7.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ThirdDigit7\obj\Debug\ThirdDigit7.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ThirdDigit7\obj\Debug\ThirdDigit7.pdb

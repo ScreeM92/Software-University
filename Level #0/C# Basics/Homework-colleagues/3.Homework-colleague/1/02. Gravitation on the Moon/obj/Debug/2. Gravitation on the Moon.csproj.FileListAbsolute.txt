@@ -1,0 +1,1 @@
+D:\c#\Operators Expressions and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

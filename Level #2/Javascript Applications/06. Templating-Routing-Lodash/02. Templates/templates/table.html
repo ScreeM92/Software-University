@@ -1,0 +1,18 @@
+﻿<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Job Title</th>
+            <th>Website</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#tableData}}
+        <tr>
+            <td>{{name}}</td>
+            <td>{{jobTitle}}</td>
+            <td><a href="{{website}}" target="_blank">{{website}}</a></td>
+        </tr>
+        {{/tableData}}
+    </tbody>
+</table>

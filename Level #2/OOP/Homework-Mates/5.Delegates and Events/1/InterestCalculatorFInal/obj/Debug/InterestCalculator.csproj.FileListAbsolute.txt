@@ -1,0 +1,8 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\InterestCalculatorFInal\bin\Debug\InterestCalculatorFInal.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\InterestCalculatorFInal\obj\Debug\InterestCalculatorFInal.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\InterestCalculatorFInal\obj\Debug\InterestCalculatorFInal.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\InterestCalculatorFInal\bin\Debug\InterestCalculatorFInal.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\InterestCalculatorFInal\bin\Debug\InterestCalculatorFInal.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\5.Delegates and Events\1\InterestCalculatorFInal\bin\Debug\InterestCalculatorFInal.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\5.Delegates and Events\1\InterestCalculatorFInal\obj\Debug\InterestCalculatorFInal.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\5.Delegates and Events\1\InterestCalculatorFInal\obj\Debug\InterestCalculatorFInal.pdb

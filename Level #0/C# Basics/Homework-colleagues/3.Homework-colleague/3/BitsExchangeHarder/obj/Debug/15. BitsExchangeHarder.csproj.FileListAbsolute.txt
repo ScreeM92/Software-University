@@ -1,0 +1,5 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchangeHarder\bin\Debug\BitsExchangeHarder.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchangeHarder\bin\Debug\BitsExchangeHarder.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchangeHarder\obj\Debug\15. BitsExchangeHarder.csprojResolveAssemblyReference.cache
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchangeHarder\obj\Debug\BitsExchangeHarder.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\BitsExchangeHarder\obj\Debug\BitsExchangeHarder.pdb

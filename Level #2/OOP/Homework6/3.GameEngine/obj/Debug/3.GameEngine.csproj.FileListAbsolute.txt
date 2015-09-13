@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\3.GameEngine\bin\Debug\3.GameEngine.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\3.GameEngine\bin\Debug\3.GameEngine.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\3.GameEngine\bin\Debug\3.GameEngine.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\3.GameEngine\obj\Debug\3.GameEngine.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\3.GameEngine\obj\Debug\3.GameEngine.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\3.GameEngine\obj\Debug\3.GameEngine.pdb

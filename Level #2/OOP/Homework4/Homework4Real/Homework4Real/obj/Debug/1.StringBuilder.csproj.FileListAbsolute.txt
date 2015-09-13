@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\Homework4Real\bin\Debug\Homework4Real.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\Homework4Real\bin\Debug\Homework4Real.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\Homework4Real\bin\Debug\Homework4Real.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\Homework4Real\obj\Debug\Homework4Real.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4Real\Homework4Real\obj\Debug\Homework4Real.pdb

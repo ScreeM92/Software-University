@@ -1,0 +1,5 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\NumberComparer\obj\Debug\NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\NumberComparer\obj\Debug\NumberComparer.pdb

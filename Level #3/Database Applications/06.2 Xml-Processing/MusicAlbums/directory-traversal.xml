@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root-dir path="C:\test\">
+  <file name=".gitignore" />
+  <file name="addTopic.php" />
+  <file name="admin.php" />
+  <file name="category.php" />
+  <file name="index.php" />
+  <file name="login.php" />
+  <file name="members.php" />
+  <file name="profile.php" />
+  <file name="README.md" />
+  <file name="register.php" />
+  <file name="root.php" />
+  <file name="search.php" />
+  <file name="topic.php" />
+  <dir name=".idea">
+    <file name="encodings.xml" />
+    <file name="misc.xml" />
+    <file name="modules.xml" />
+    <file name="PhpBasics-Istanbul.iml" />
+    <file name="vcs.xml" />
+    <file name="workspace.xml" />
+    <dir name="scopes">
+      <file name="scope_settings.xml" />
+    </dir>
+  </dir>
+  <dir name="config">
+    <file name="db.php" />
+  </dir>
+  <dir name="controllers">
+    <file name="login.php" />
+    <file name="master_controller.php" />
+    <file name="topics.php" />
+    <file name="users.php" />
+  </dir>
+  <dir name="js">
+    <file name="js.js" />
+  </dir>
+  <dir name="lib">
+    <file name="auth.php" />
+    <file name="database.php" />
+  </dir>
+  <dir name="models">
+    <file name="answer.php" />
+    <file name="category.php" />
+    <file name="master.php" />
+    <file name="topic.php" />
+    <file name="user.php" />
+  </dir>
+  <dir name="sql">
+    <file name="istanbul.sql" />
+  </dir>
+  <dir name="styles">
+    <file name="style.css" />
+  </dir>
+  <dir name="views">
+    <file name="addTopic.php" />
+    <file name="admin.php" />
+    <file name="category.php" />
+    <file name="index.php" />
+    <file name="login.php" />
+    <file name="members.php" />
+    <file name="profile.php" />
+    <file name="register.php" />
+    <file name="search.php" />
+    <file name="topic.php" />
+    <dir name="elements">
+      <file name="footer.php" />
+      <file name="header.php" />
+    </dir>
+    <dir name="layouts">
+      <file name="default.php" />
+    </dir>
+    <dir name="master">
+      <file name="home.php" />
+    </dir>
+  </dir>
+</root-dir>

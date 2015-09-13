@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Solution1\ssss\bin\Debug\ssss.exe.config
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Solution1\ssss\bin\Debug\ssss.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Solution1\ssss\bin\Debug\ssss.pdb
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Solution1\ssss\obj\Debug\ssss.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Solution1\ssss\obj\Debug\ssss.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\Solution1\ssss\obj\Debug\ssss.pdb

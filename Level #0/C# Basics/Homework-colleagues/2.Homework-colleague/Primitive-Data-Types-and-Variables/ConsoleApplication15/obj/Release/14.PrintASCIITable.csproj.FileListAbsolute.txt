@@ -1,0 +1,9 @@
+C:\Users\Pavel\Documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication15\bin\Release\ConsoleApplication15.exe.config
+C:\Users\Pavel\Documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication15\obj\Release\ConsoleApplication15.exe
+C:\Users\Pavel\Documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication15\obj\Release\ConsoleApplication15.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication15\bin\Release\ConsoleApplication15.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication15\obj\Release\ConsoleApplication15.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication15\obj\Release\ConsoleApplication15.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication15\bin\Release\ConsoleApplication15.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication15\bin\Release\ConsoleApplication15.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Primitive-Data-Types-and-Variables\ConsoleApplication15\obj\Release\14.PrintASCIITable.csprojResolveAssemblyReference.cache

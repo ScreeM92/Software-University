@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\18.TrailingZeroesInN\bin\Debug\18.TrailingZeroesInN.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\18.TrailingZeroesInN\obj\Debug\18.TrailingZeroesInN.pdb

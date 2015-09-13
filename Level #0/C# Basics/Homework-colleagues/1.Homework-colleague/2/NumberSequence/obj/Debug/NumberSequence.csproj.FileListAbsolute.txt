@@ -1,0 +1,12 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\NumberSequence\obj\Debug\NumberSequence.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\NumberSequence\bin\Debug\NumberSequence.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\NumberSequence\bin\Debug\NumberSequence.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\NumberSequence\obj\Debug\NumberSequence.csprojResolveAssemblyReference.cache

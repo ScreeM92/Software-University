@@ -1,0 +1,3 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\BeerTime\bin\Debug\BeerTime.exe.config
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\BeerTime\obj\Debug\BeerTime.exe
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\BeerTime\obj\Debug\BeerTime.pdb

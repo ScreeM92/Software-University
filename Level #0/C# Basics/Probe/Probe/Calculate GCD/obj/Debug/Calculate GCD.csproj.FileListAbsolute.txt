@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\Calculate GCD\bin\Debug\Calculate GCD.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\Calculate GCD\bin\Debug\Calculate GCD.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Calculate GCD\bin\Debug\Calculate GCD.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\Calculate GCD\obj\Debug\Calculate GCD.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Probe\Probe\Calculate GCD\obj\Debug\Calculate GCD.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\Calculate GCD\obj\Debug\Calculate GCD.pdb

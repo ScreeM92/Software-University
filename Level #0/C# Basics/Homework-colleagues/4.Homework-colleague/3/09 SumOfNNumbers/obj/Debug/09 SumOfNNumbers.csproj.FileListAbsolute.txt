@@ -1,0 +1,9 @@
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09 SumOfNNumbers\bin\Debug\09 SumOfNNumbers.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09 SumOfNNumbers\bin\Debug\09 SumOfNNumbers.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09 SumOfNNumbers\bin\Debug\09 SumOfNNumbers.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09 SumOfNNumbers\obj\Debug\09 SumOfNNumbers.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09 SumOfNNumbers\obj\Debug\09 SumOfNNumbers.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09 SumOfNNumbers\obj\Debug\09 SumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\09 SumOfNNumbers\bin\Debug\09 SumOfNNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\09 SumOfNNumbers\obj\Debug\09 SumOfNNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\09 SumOfNNumbers\obj\Debug\09 SumOfNNumbers.pdb

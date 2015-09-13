@@ -1,0 +1,65 @@
+﻿@model IEnumerable<GoblinFreelancer.Areas.Admin.Models.ProjectAdministrationModel>
+<h2>Edit projects</h2>
+
+@(Html.Kendo()
+            .Grid(Model)
+            .Name("Projects")
+            .Columns(column =>
+                    {
+                        column.Bound("Name");
+                        column.Bound("Summary");
+                        column.Bound("CreatedOn");
+                        column.Bound("Deadline");
+                        column.Bound("Salary");
+                        column.Bound("CategoryName");
+                        column.Bound("OwnerUsername");
+                        column.Template(@<text>
+                                            @{
+                                                string collaboratorsString = string.Empty;
+                                                foreach (var collaborator in item.Collaborators)
+                                                {
+                                                    collaboratorsString += collaborator + ' ';
+                                                }
+
+                                                if (item.Collaborators.Count == 0)
+                                                {
+                                                    <span>No collaborators for this project.</span>
+                                                }
+                                                else
+                                                {
+                                                    <span>@collaboratorsString</span>
+                                                }
+                                            }
+                                        </text>)
+                                        .HeaderTemplate(@<text>Collaborators</text>);
+    
+                        column.Template(@<text>
+                                            @{
+                                                string skillString = string.Empty;
+                                                foreach (var skill in item.RequiredSkills)
+                                                {
+                                                    skillString += skill + ' ';
+                                                }
+
+                                                if (item.RequiredSkills.Count == 0)
+                                                {
+                                                    <span>No skills required for this project.</span>
+                                                }
+                                                else
+                                                {
+                                                    <span>@skillString</span>
+                                                }
+                                            }
+                                        </text>)
+                                        .HeaderTemplate(@<text>Required Skills</text>);
+    
+                       column.Command(command => command.Edit());
+                    })
+            .Pageable()
+            .Sortable()
+            .Editable(edit => edit.Mode(GridEditMode.PopUp))
+            .BindTo(Model)
+            .DataSource(dataSource => dataSource.Server()
+            .Model(model => model.Id(item => item.Id))
+            .Update("UpdateProject", "Projects"))
+)

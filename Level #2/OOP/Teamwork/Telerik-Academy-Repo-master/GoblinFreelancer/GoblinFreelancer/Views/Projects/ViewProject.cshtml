@@ -1,0 +1,245 @@
+﻿@using Microsoft.AspNet.Identity
+@model GoblinFreelancer.Models.Project
+
+@{
+    ViewBag.Title = "ViewProject";
+}
+
+<h2>ViewProject</h2>
+
+<div class="row">
+    @if (Model.Owner.UserName == User.Identity.Name)
+    {
+        <div class="span6">
+            <p>CreatedOn: @Html.DisplayFor(m => m.CreatedOn)</p>
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true)
+
+                <fieldset class="form-horizontal">
+                    <legend>Bug</legend>
+
+                    @Html.HiddenFor(model => model.Id)
+
+                    <div class="control-group">
+                        @Html.LabelFor(model => model.Name, new { @class = "control-label" })
+                        <div class="controls">
+                            @Html.EditorFor(model => model.Name)
+                            @Html.ValidationMessageFor(model => model.Name, null, new { @class = "help-inline" })
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        @Html.LabelFor(model => model.Deadline, new { @class = "control-label" })
+                        <div class="controls">
+                            @Html.Kendo().DatePickerFor(model => model.Deadline).Name("Deadline")
+                            @Html.ValidationMessageFor(model => model.Deadline, null, new { @class = "help-inline" })
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        @Html.LabelFor(model => model.Summary, new { @class = "control-label" })
+                        <div class="controls">
+                            @Html.EditorFor(model => model.Summary)
+                            @Html.ValidationMessageFor(model => model.Summary, null, new { @class = "help-inline" })
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        @Html.LabelFor(model => model.Salary, new { @class = "control-label" })
+                        <div class="controls">
+                            @Html.EditorFor(model => model.Salary)
+                            @Html.ValidationMessageFor(model => model.Salary, null, new { @class = "help-inline" })
+                        </div>
+                    </div>
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Edit" class="btn" />
+                    </div>
+                </fieldset>
+            }
+            <div>
+                <div id="skills-list">
+                    Skills:
+                    @foreach (var skill in Model.Skills)
+                    {
+                        <span>@skill.Name <a href="~/Projects/RemoveSkill?projectId=@Model.Id&skillName=@skill.Name">Remove</a></span>
+                    }
+                </div>
+                <div>
+                    @using (Html.BeginForm())
+                    {
+                        @(Html.Kendo()
+                                    .AutoComplete()
+                                    .Name("project-skill-input")
+                                    .DataTextField("Name")
+                                    .Placeholder("Select Skill")
+                                    .DataSource(data =>
+                                    {
+                                        data.Read(read =>
+                                        {
+                                            read.Action("AvailableSkills", "Projects")
+                                            .Data("onAdditionalData");
+                                        }).ServerFiltering(true);
+                                    }))
+                        <button id="add-skill-btn">Add Skill</button>
+                        <span id="skill-panel" style="height:25px;"></span>
+                    }
+                </div>
+            </div>
+            <div>
+                Collaborators:
+                @foreach (var collaborator in Model.Collaborators)
+                {
+                    <a href="~/Users/ByUser/@collaborator.UserName">
+                        <span>
+                            @collaborator.UserName
+                            <a href="~/Projects/RemoveCollaborator?projectId=@Model.Id&colId=@collaborator.Id">Remove</a>
+                        </span>
+                    </a>
+                }
+                <div>
+                    @using (Html.BeginForm())
+                    {
+                        @(Html.Kendo()
+                                    .AutoComplete()
+                                    .Name("collaborator-input")
+                                    .DataTextField("UserName")
+                                    .Placeholder("Select Collaborator")
+                                    .DataSource(data =>
+                                    {
+                                        data.Read(read =>
+                                        {
+                                            read.Action("AvailableCollaborators", "Projects")
+                                            .Data("onAdditionalDataCollaborators");
+                                        }).ServerFiltering(true);
+                                    }))
+                        <button id="add-collaborator-btn">Add Collaborator</button>
+                        <span id="collaborator-panel" style="height:25px;"></span>
+                    }
+                </div>
+            </div>
+        </div>
+                    Html.RenderPartial("_ChatContainer");
+    }
+    else
+    {
+        <div class="span4">
+            <p><strong>Name:</strong> @Html.DisplayFor(m => m.Name)</p>
+            <p><strong>Owner:</strong> <a href="/Users/UserProfile?username=@Model.Owner.UserName">@Html.DisplayFor(m => m.Owner.UserName)</a></p>
+            <p><strong>Salary:</strong> @Html.DisplayFor(m => m.Salary)$</p>
+            <p><strong>Summary:</strong> @Html.DisplayFor(m => m.Summary)</p>
+            <p><strong>CreatedOn:</strong> @Html.DisplayFor(m => m.CreatedOn)</p>
+            <p><strong>Deadline:</strong> @Html.DisplayFor(m => m.Deadline)</p>
+            <p><strong>Category:</strong> <a href="~/Categories/Projects?category=@Html.DisplayFor(m => m.Category.Name)">@Html.DisplayFor(m => m.Category.Name)</a></p>
+            <div id="skills-list">
+                <strong>Skills:</strong>
+                @foreach (var skill in Model.Skills)
+                {
+                    if (skill.Id == Model.Skills.Last().Id)
+                    {
+                        <span>@skill.Name</span>    
+                    }
+                    else
+                    {
+                        <span>@skill.Name, </span>
+                    }
+                    
+                }
+            </div>
+            <div>
+                <strong>Collaborators:</strong>
+                @if (Model.Collaborators.Count == 0)
+                {
+                    <span> No collaborators for this project.</span>
+                }
+
+                @foreach (var collaborator in Model.Collaborators)
+                {
+                    if (collaborator.UserName != User.Identity.Name)
+                    {
+                        <a href="~/Users/ByUser/@collaborator.UserName"><span>@collaborator.UserName</span></a>
+                    }
+                    else
+                    {
+                        <a href="~/Users/ByUser/@collaborator.UserName">me</a>
+                    }
+                }
+            </div>
+        </div>
+                foreach (var collaborator in Model.Collaborators)
+                {
+                    if (collaborator.UserName == User.Identity.Name)
+                    {
+                        Html.RenderPartial("_ChatContainer");
+                        break;
+                    }
+                }
+
+
+    }
+</div>
+
+<script>
+    function onAdditionalData() {
+        return {
+            text: $('#project-skill-input').val(),
+            projectId: $('#Id').val()
+        }
+    }
+
+    function onAdditionalDataCollaborators() {
+        return {
+            text: $('#collaborator-input').val(),
+            projectId: $('#Id').val()
+        }
+    }
+
+    $('#add-skill-btn').on('click', function (evt) {
+        evt.preventDefault();
+        $.post('/Projects/Addskill?projectId=@Model.Id', 'name=' + $('#project-skill-input').val())
+            .then(function (s) {
+                $('#skill-panel').empty()
+                var el = $('<span></span>');
+                el.text(s).appendTo($('#skill-panel'));
+                el.fadeOut(2000, function () {
+                    $('#skill-panel').empty();
+                });
+                var skill = document.createElement("span");
+                var skillName = $('#project-skill-input').val();
+                skill.innerHTML = skillName + ' <a href="/Projects/RemoveSkill?projectId=@Model.Id&skillName=' + skillName + '">Remove</a>';
+                $("#skills-list").append(skill);
+            }, function (e) {
+                $('#skill-panel').empty()
+                var el = $('<span></span>');
+                el.text(e).appendTo($('#skill-panel'));
+                el.fadeOut(2000, function () {
+                    $('#skill-panel').empty();
+                });
+            });
+    });
+
+    $('#add-collaborator-btn').on('click', function (evt) {
+        evt.preventDefault();
+        $.post('/Projects/AddCollaborator?projectId=@Model.Id', 'name=' + $('#collaborator-input').val())
+            .then(function (s) {
+                $('#collaborator-panel').empty()
+                var el = $('<span></span>');
+                el.text(s).appendTo($('#collaborator-panel'));
+                el.fadeOut(2000, function () {
+                    $('#collaborator-panel').empty();
+                    window.location.reload();
+                });
+
+
+            }, function (e) {
+                $('#collaborator-panel').empty()
+                var el = $('<span></span>');
+                el.text(e).appendTo($('#collaborator-panel'));
+                el.fadeOut(2000, function () {
+                    $('#collaborator-panel').empty();
+                });
+            });
+    });
+</script>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

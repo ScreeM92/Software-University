@@ -1,0 +1,8 @@
+C:\Users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\15. AgeAfterTenYears\bin\Debug\_15.AgeAfterTenYears.exe.config
+C:\Users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\15. AgeAfterTenYears\bin\Debug\_15.AgeAfterTenYears.exe
+C:\Users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\15. AgeAfterTenYears\bin\Debug\_15.AgeAfterTenYears.pdb
+C:\Users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\15. AgeAfterTenYears\obj\Debug\_15.AgeAfterTenYears.exe
+C:\Users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\15. AgeAfterTenYears\obj\Debug\_15.AgeAfterTenYears.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\15. AgeAfterTenYears\bin\Debug\_15.AgeAfterTenYears.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\15. AgeAfterTenYears\obj\Debug\_15.AgeAfterTenYears.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\15. AgeAfterTenYears\obj\Debug\_15.AgeAfterTenYears.pdb

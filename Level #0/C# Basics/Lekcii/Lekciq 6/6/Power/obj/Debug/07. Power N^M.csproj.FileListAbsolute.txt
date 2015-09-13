@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Power\bin\Debug\Power.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Power\bin\Debug\Power.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Power\obj\Debug\Power.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Power\obj\Debug\Power.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Power\obj\Debug\07. Power N^M.csprojResolveAssemblyReference.cache

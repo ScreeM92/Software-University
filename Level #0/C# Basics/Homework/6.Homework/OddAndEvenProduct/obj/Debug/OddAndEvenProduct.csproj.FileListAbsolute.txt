@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

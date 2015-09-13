@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PointInsideACircle.OutsideOfARectangle\bin\Debug\PointInsideACircle.OutsideOfARectangle.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PointInsideACircle.OutsideOfARectangle\obj\Debug\CircleAndRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PointInsideACircle.OutsideOfARectangle\bin\Debug\PointInsideACircle.OutsideOfARectangle.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PointInsideACircle.OutsideOfARectangle\bin\Debug\PointInsideACircle.OutsideOfARectangle.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PointInsideACircle.OutsideOfARectangle\obj\Debug\PointInsideACircle.OutsideOfARectangle.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\PointInsideACircle.OutsideOfARectangle\obj\Debug\PointInsideACircle.OutsideOfARectangle.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PointInsideACircle.OutsideOfARectangle\bin\Debug\PointInsideACircle.OutsideOfARectangle.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PointInsideACircle.OutsideOfARectangle\obj\Debug\PointInsideACircle.OutsideOfARectangle.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PointInsideACircle.OutsideOfARectangle\obj\Debug\PointInsideACircle.OutsideOfARectangle.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PointInsideACircle.OutsideOfARectangle\bin\Debug\PointInsideACircle.OutsideOfARectangle.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PointInsideACircle.OutsideOfARectangle\bin\Debug\PointInsideACircle.OutsideOfARectangle.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\PointInsideACircle.OutsideOfARectangle\obj\Debug\CircleAndRectangle.csprojResolveAssemblyReference.cache

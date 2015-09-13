@@ -1,0 +1,5 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ExtractBit3\bin\Debug\ExtractBit3.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ExtractBit3\bin\Debug\ExtractBit3.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ExtractBit3\obj\Debug\11. ExtractBit3.csprojResolveAssemblyReference.cache
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ExtractBit3\obj\Debug\ExtractBit3.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\ExtractBit3\obj\Debug\ExtractBit3.pdb

@@ -1,0 +1,12 @@
+﻿@using GoblinFreelancer.Models;
+
+@model IEnumerable<Skill>
+
+
+<div>
+    @foreach (var s in Model)
+    {
+        <span class="skill-item">@s.Name <a href="/users/RemoveSkill?id=@s.Id">Delete</a></span>
+    }
+</div>
+

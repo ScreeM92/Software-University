@@ -1,0 +1,5 @@
+D:\c#\Operators Expressions and Statements\11.Extract Bit numer 3\bin\Debug\11.Extract Bit numer 3.exe.config
+D:\c#\Operators Expressions and Statements\11.Extract Bit numer 3\bin\Debug\11.Extract Bit numer 3.exe
+D:\c#\Operators Expressions and Statements\11.Extract Bit numer 3\bin\Debug\11.Extract Bit numer 3.pdb
+D:\c#\Operators Expressions and Statements\11.Extract Bit numer 3\obj\Debug\11.Extract Bit numer 3.exe
+D:\c#\Operators Expressions and Statements\11.Extract Bit numer 3\obj\Debug\11.Extract Bit numer 3.pdb

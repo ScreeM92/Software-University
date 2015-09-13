@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbContext", "DbContext\DbContext.csproj", "{70104EE6-5DA8-4B5B-8C19-0B4B1B5AA6E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. DAO", "02. DAO\02. DAO.csproj", "{446D6669-4360-45E1-A13F-8E7E0499F473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. DbSearchQueries", "03. DbSearchQueries\03. DbSearchQueries.csproj", "{001484AA-89D8-4513-A703-B56BD55D5464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. NativeSql", "04. NativeSql\04. NativeSql.csproj", "{DFF70BF8-7C34-4BD5-8964-AAAA02BECAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ConcurentChanges", "05. ConcurentChanges\05. ConcurentChanges.csproj", "{41E1CB36-60AD-401A-8FC9-8D80ED2DB505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. StoredProcedure", "06. StoredProcedure\06. StoredProcedure.csproj", "{3DFE485F-0AA9-4FE9-A984-78D148FE7D2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F3BFC21D-B1DD-4380-9CE6-A8D271DF12A8}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70104EE6-5DA8-4B5B-8C19-0B4B1B5AA6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70104EE6-5DA8-4B5B-8C19-0B4B1B5AA6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70104EE6-5DA8-4B5B-8C19-0B4B1B5AA6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70104EE6-5DA8-4B5B-8C19-0B4B1B5AA6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446D6669-4360-45E1-A13F-8E7E0499F473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446D6669-4360-45E1-A13F-8E7E0499F473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446D6669-4360-45E1-A13F-8E7E0499F473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446D6669-4360-45E1-A13F-8E7E0499F473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001484AA-89D8-4513-A703-B56BD55D5464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001484AA-89D8-4513-A703-B56BD55D5464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001484AA-89D8-4513-A703-B56BD55D5464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001484AA-89D8-4513-A703-B56BD55D5464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF70BF8-7C34-4BD5-8964-AAAA02BECAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF70BF8-7C34-4BD5-8964-AAAA02BECAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF70BF8-7C34-4BD5-8964-AAAA02BECAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF70BF8-7C34-4BD5-8964-AAAA02BECAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E1CB36-60AD-401A-8FC9-8D80ED2DB505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E1CB36-60AD-401A-8FC9-8D80ED2DB505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E1CB36-60AD-401A-8FC9-8D80ED2DB505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E1CB36-60AD-401A-8FC9-8D80ED2DB505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFE485F-0AA9-4FE9-A984-78D148FE7D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFE485F-0AA9-4FE9-A984-78D148FE7D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFE485F-0AA9-4FE9-A984-78D148FE7D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFE485F-0AA9-4FE9-A984-78D148FE7D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

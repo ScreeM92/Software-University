@@ -1,0 +1,6 @@
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe.config
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\SortThreeNumbers\bin\Debug\SortThreeNumbers.pdb
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\SortThreeNumbers\obj\Debug\SortThreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\SortThreeNumbers\obj\Debug\SortThreeNumbers.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\SortThreeNumbers\obj\Debug\SortThreeNumbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.7Task\bin\Debug\3.7Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.7Task\bin\Debug\3.7Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.7Task\bin\Debug\3.7Task.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.7Task\obj\Debug\3.7Task.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.7Task\obj\Debug\3.7Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.7Task\obj\Debug\3.7Task.pdb
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\3.7Task\bin\Debug\3.7Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\3.7Task\obj\Debug\3.7Task.exe
+C:\Users\Работа сайт\Desktop\Изпит\Изпитни задачи\3.7Task\obj\Debug\3.7Task.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\3.7Task\bin\Debug\3.7Task.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\3.7Task\obj\Debug\3.7Task.exe
+C:\Users\Работа сайт\Desktop\SoftUni\C#\Изпит\Изпитни задачи\3.7Task\obj\Debug\3.7Task.pdb

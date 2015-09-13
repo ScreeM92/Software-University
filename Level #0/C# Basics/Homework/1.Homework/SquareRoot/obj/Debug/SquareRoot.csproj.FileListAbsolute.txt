@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\SquareRoot\obj\Debug\SquareRoot.pdb

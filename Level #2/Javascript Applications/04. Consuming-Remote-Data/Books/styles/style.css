@@ -1,0 +1,127 @@
+﻿* {
+    box-sizing: border-box;
+    margin: 0;
+    outline: none;
+}
+
+body {
+    margin: 20px;
+}
+
+#wrapper {
+    font-size: 25px;
+}
+
+#add-details {
+    display: none;
+}
+
+.title {
+    cursor: pointer;
+}
+
+.details {
+    display: none;
+}
+
+h3 {
+    display: inline-block;
+}
+
+.edit, .remove {
+    border: none;
+    background: none;
+    color: gray;
+    cursor: pointer;
+    font-size: .9em;
+}
+
+.edit:hover, .remove:hover{
+    color: red;
+}
+
+ul {
+    padding: 0;
+}
+
+#books-wrapper li {
+    list-style: none;
+    border-bottom: 1px solid black;
+    padding: 10px 0;
+}
+
+.book-buttons {
+    display: none;
+}
+
+#add-book-toggle, #add-book, #book-edit-button {
+    display: inline-block;
+    background: #3C3C3C;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#add-book-toggle {
+    font-size: .7em;
+    width: 7em;
+    height: 2em;
+}
+
+#book-edit-button {
+    font-size: .5em;
+    width: 6em;
+    height: 2em;
+}
+
+#add-book, #book-edit-button {
+    position: relative;
+    top: -4px;
+    font-size: .5em;
+    width: 6em;
+    height: 2em;
+}
+
+#add-section {
+    margin-bottom: 20px;
+}
+
+#add-book-toggle:hover, #add-book:hover, #book-edit-button:hover {
+    background: #E90606;
+}
+
+#books-wrapper input {
+    font-size: .8em;
+    float: left;
+    margin-right: 10px;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    color: red;
+}
+
+#add-section input:first-of-type, #book-edit-section input:first-of-type {
+    width: 450px;
+}
+
+label {
+    float: left;
+    margin-right: 10px;
+    color: lightgray;
+}
+
+#add-details {
+    margin-top: 5px;
+}
+
+.noty_text {
+    font-size: 1.4em;
+}
+
+.book-buttons {
+    margin-left: 20px;
+}
+
+.book-buttons button {
+    margin: 0 5px;
+}

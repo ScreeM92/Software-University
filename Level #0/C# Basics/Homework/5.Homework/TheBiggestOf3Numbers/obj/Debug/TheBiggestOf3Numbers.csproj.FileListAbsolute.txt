@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\5.Homework\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache

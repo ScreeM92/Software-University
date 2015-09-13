@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\TelerikAcademy-master\OOP\Homework Assignments\JustPacman\JustPacman\bin\Debug\JustPacman.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\TelerikAcademy-master\OOP\Homework Assignments\JustPacman\JustPacman\bin\Debug\JustPacman.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\TelerikAcademy-master\OOP\Homework Assignments\JustPacman\JustPacman\bin\Debug\JustPacman.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\TelerikAcademy-master\OOP\Homework Assignments\JustPacman\JustPacman\obj\Debug\JustPacman.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Teamwork\TelerikAcademy-master\OOP\Homework Assignments\JustPacman\JustPacman\obj\Debug\JustPacman.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\Teamwork\JustPacman\JustPacman\bin\Debug\JustPacman.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\Teamwork\JustPacman\JustPacman\obj\Debug\JustPacman.exe
+C:\Users\Работа сайт\Desktop\SoftUni\Teamwork\JustPacman\JustPacman\obj\Debug\JustPacman.pdb

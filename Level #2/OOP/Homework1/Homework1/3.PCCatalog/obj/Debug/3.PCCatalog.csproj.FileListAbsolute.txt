@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\3.PCCatalog\bin\Debug\3.PCCatalog.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\3.PCCatalog\bin\Debug\3.PCCatalog.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\3.PCCatalog\bin\Debug\3.PCCatalog.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\3.PCCatalog\obj\Debug\3.PCCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\3.PCCatalog\obj\Debug\3.PCCatalog.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\3.PCCatalog\obj\Debug\3.PCCatalog.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\3.PCCatalog\bin\Debug\3.PCCatalog.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\3.PCCatalog\obj\Debug\3.PCCatalog.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\3.PCCatalog\obj\Debug\3.PCCatalog.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\3.PCCatalog\bin\Debug\3.PCCatalog.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\3.PCCatalog\bin\Debug\3.PCCatalog.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\Homework1\3.PCCatalog\obj\Debug\3.PCCatalog.csprojResolveAssemblyReference.cache

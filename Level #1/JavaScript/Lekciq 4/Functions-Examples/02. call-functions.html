@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Functions - Calling Functions</title>
+</head>
+<body>   
+	<script>		   
+		function printHello() {
+			console.log('---------------');
+			console.log('Hello');
+			console.log('---------------');
+		}													
+
+		function anotherPrint() {
+			printHello();
+			anotherPrint();
+		}
+
+		anotherPrint();								
+	</script>
+</body>
+</html>

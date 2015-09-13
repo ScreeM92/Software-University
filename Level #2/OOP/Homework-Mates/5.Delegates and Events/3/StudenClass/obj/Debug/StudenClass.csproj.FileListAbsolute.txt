@@ -1,0 +1,5 @@
+C:\Users\chjk\Documents\Visual Studio 2013\Projects\Homework-Delegates-And-Events\StudenClass\bin\Debug\StudenClass.exe.config
+C:\Users\chjk\Documents\Visual Studio 2013\Projects\Homework-Delegates-And-Events\StudenClass\bin\Debug\StudenClass.exe
+C:\Users\chjk\Documents\Visual Studio 2013\Projects\Homework-Delegates-And-Events\StudenClass\bin\Debug\StudenClass.pdb
+C:\Users\chjk\Documents\Visual Studio 2013\Projects\Homework-Delegates-And-Events\StudenClass\obj\Debug\StudenClass.exe
+C:\Users\chjk\Documents\Visual Studio 2013\Projects\Homework-Delegates-And-Events\StudenClass\obj\Debug\StudenClass.pdb

@@ -1,0 +1,88 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.circle, .iris {
+    border-radius: 200px;
+    border: 2px solid black;
+}
+
+.circle#face {
+    width: 400px;
+    height: 400px;
+    background: yellow;
+    z-index: 0;
+}
+
+.circle.eye {
+    background: white;
+    position: absolute;
+    z-index: 1;
+    width: 80px;
+    height: 80px;
+    top: 90px;
+}
+
+#left-eye {
+    left: 80px;
+}
+
+#right-eye {
+    left: 240px;
+}
+
+.iris {
+    background: black;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    z-index: 2;
+}
+
+#left-iris {
+    top: 40px;
+    left: 50px;
+}
+
+#nose {
+    background: red;
+    width: 60px;
+    height: 60px;
+    z-index: 1;
+    position: absolute;
+    top: 170px;
+    left: 170px;
+}
+
+#mouth {
+    height: 70px;
+    width: 200px;
+    background: white;
+    position: absolute;
+    z-index: 1;
+    top: 270px;
+    left: 100px;
+
+}
+
+.tooth {
+    background: white;
+    border-radius: 10px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border: 2px solid black;
+    position: absolute;
+    width: 40px;
+    height: 35px;
+    top: -2px;
+}
+
+#left-tooth {
+    left: 59px;
+}
+
+#right-tooth {
+    left: 103px;
+}

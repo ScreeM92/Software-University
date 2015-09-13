@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Foreach\bin\Debug\Foreach.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Foreach\obj\Debug\09. Foreach.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Foreach\obj\Debug\Foreach.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Foreach\obj\Debug\Foreach.pdb

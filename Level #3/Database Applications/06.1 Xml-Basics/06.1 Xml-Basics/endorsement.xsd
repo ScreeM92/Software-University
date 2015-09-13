@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="urn:endorsements" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:endorsements" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="endorsement">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="author" type="xs:string"/>
+        <xs:element name="author-email" type="xs:string"/>
+        <xs:element name="endorsement-date" type="xs:date"/>
+        <xs:element name="endorsement-text" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

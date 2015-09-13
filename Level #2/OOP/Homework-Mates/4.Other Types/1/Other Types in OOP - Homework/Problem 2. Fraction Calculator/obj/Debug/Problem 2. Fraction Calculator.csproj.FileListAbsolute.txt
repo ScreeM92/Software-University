@@ -1,0 +1,12 @@
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe.config
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 2. Fraction Calculator\obj\Debug\Problem 2. Fraction Calculator.csprojResolveAssemblyReference.cache
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.pdb
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 2. Fraction Calculator\obj\Debug\Problem_2.Fraction_Calculator.exe
+C:\Users\D.Valchanova\Desktop\Other Types in OOP - Homework\Problem 2. Fraction Calculator\obj\Debug\Problem_2.Fraction_Calculator.pdb
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe.config
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.pdb
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 2. Fraction Calculator\obj\Debug\Problem 2. Fraction Calculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 2. Fraction Calculator\obj\Debug\Problem_2.Fraction_Calculator.exe
+D:\SoftUni\Ниво #2\OOP\3. Other-Types-in-OOP + Delegates-and-Events\3. Other-Types-in-OOP\Other Types in OOP - Homework\Problem 2. Fraction Calculator\obj\Debug\Problem_2.Fraction_Calculator.pdb

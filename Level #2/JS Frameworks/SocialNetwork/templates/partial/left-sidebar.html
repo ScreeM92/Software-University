@@ -1,0 +1,98 @@
+<!-- Navigation box for anonymous site visitors -->
+<div ng-if="authService.isAnonymous()" class="box">
+    <h2>Navigation</h2>
+    <ul class="sidebar-menu">
+        <li><a href="#/">Home</a></li>
+        <li><a href="#/login">Login</a></li>
+        <li><a href="#/register">Register</a></li>
+    </ul>
+</div>
+
+<!-- Login / register box for anonymous site visitors  -->
+<div class="box" ng-if="authService.isAnonymous()">
+    <p>To find friends, please login.</p>
+    <a href="#/login" class="button">Login</a>
+    <a href="#/register" class="button">Register</a>
+</div>
+
+<!-- Navigation box for logged in normal users (not admins) -->
+<div ng-if="authService.isNormalUser()" class="box">
+    <h2>Navigation</h2>
+    <ul class="sidebar-menu">
+        <li ng-class="{'selected': selectedMenuItem == 'Home'}">
+            <a href="#/" ng-click="menuClick('Home')">Home</a>
+        </li>
+        <li ng-class="{'selected': selectedMenuItem == 'Profile'}">
+            <a href="#/profile" ng-click="menuClick('Profile')">Profile</a>
+        </li>
+        <li ng-class="{'selected': selectedMenuItem == 'Edit profile'}">
+            <a href="#/user/profile" ng-click="menuClick('Edit profile')">Edit Profile</a>
+        </li>
+        <li ng-class="{'selected': selectedMenuItem == 'Logout'}">
+            <a ng-click="logout()" ng-click="menuClick('Logout')">Logout</a>
+        </li>
+    </ul>
+</div>
+
+<!-- Sort Ads -->
+<!-- <div ng-show="menuOption == 'My ads'" class="box">
+    <h2>My Ads</h2>
+    <ul class="sidebar-menu">
+        <li ng-class="{'selected': selectedMyAds == null}">
+            <a ng-click="myAdsMenuClick(null); adsTypeClicked(null)" href="">All</a>
+        </li>
+        <li ng-class="{'selected': selectedMyAds == 'Published'}">
+            <a ng-click="myAdsMenuClick('Published'); adsTypeClicked(2)" href="">Published</a>
+        </li>
+        <li ng-class="{'selected': selectedMyAds == 'Waiting Approval'}">
+            <a ng-click="myAdsMenuClick('Waiting Approval'); adsTypeClicked(1)" href="">Waiting Approval</a>
+        </li>
+        <li ng-class="{'selected': selectedMyAds == 'Inactive'}">
+            <a ng-click="myAdsMenuClick('Inactive'); adsTypeClicked(0)" href="">Inactive</a>
+        </li>
+        <li ng-class="{'selected': selectedMyAds == 'Rejected'}">
+            <a ng-click="myAdsMenuClick('Rejected'); adsTypeClicked(3)" href="">Rejected</a>
+        </li>
+    </ul>
+</div> -->
+
+<!-- Navigation box for logged in admins -->
+<!-- <div ng-if="authService.isAdmin()" class="box">
+    <h2>Administrator</h2>
+    <ul class="sidebar-menu">
+        <li ng-class="{'selected': adminAdmMenuOption == null}">
+            <a ng-click="adminAdmMenuClick(null)" href="#/admin/ads">Ads</a>
+        </li>
+        <li ng-class="{'selected': adminAdmMenuOption == 'Users'}">
+            <a ng-click="adminAdmMenuClick('Users')" href="#/admin/users">Users</a>
+        </li>
+        <li ng-class="{'selected': adminAdmMenuOption == 'Categories'}">
+            <a ng-click="adminAdmMenuClick('Categories')" href="#/admin/categories">Categories</a>
+        </li>
+        <li ng-class="{'selected': adminAdmMenuOption == 'Towns'}">
+            <a ng-click="adminAdmMenuClick('Towns')" href="#/admin/towns">Towns</a>
+        </li>
+    </ul>
+</div>
+
+<div ng-if="authService.isAdmin()" class="box">
+    <h2>Ads</h2>
+    <ul class="sidebar-menu">
+        <li ng-class="{'selected': adminAdsMenuOption == null}">
+            <a ng-click="adminAdsMenuClick(null)">All</a>
+        </li>
+        <li ng-class="{'selected': adminAdsMenuOption == 2}">
+            <a ng-click="adminAdsMenuClick(2)">Published</a>
+        </li>
+        <li ng-class="{'selected': adminAdsMenuOption == 1}">
+            <a ng-click="adminAdsMenuClick(1)">Waiting Approval</a>
+        </li>
+        <li ng-class="{'selected': adminAdsMenuOption == 0}">
+            <a ng-click="adminAdsMenuClick(0)">Inactive</a>
+        </li>
+        <li ng-class="{'selected': adminAdsMenuOption == 3}">
+            <a ng-click="adminAdsMenuClick(3)">Rejected</a>
+        </li>
+    </ul>
+</div>
+ -->

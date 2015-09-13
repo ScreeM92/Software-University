@@ -1,0 +1,5 @@
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.exe.config
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.exe
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.pdb
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\4. HelloCSharp\obj\Debug\_4.HelloCSharp.exe
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\4. HelloCSharp\obj\Debug\_4.HelloCSharp.pdb

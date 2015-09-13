@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #d4afff;
+    font-family: Tahoma;
+}
+h1{
+    margin-left: 240px;
+    margin-bottom: 25px;
+}
+table{
+    width: 1150px;
+    border: 2px solid #a784d4;
+    margin: 15px;
+    display: table;
+}
+th{
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid #a784d4;
+    width: 1250px;
+    background-color: #bce954;
+    clear: right;
+}
+td{
+    border: 1px solid #a784d4;
+    text-align: center;
+    height: 40px;
+    vertical-align: middle;
+}
+table tbody tr:first-child td{
+    background-color: #bce954;
+    font-weight: bold;
+}
+table tbody tr:nth-child(2), table tbody tr:nth-child(4){
+    background-color: white;
+}
+table tbody tr:nth-child(3){
+    background-color: #eeeeee;
+}
+/*table tbody tr:nth-child(2) td:nth-child(3){*/
+    /*background-image: url("nakovhangman.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 35px 35px;*/
+/*}*/
+img{
+    width: 38px;
+    height: 38px;
+    float: left;
+    margin: 3px;
+}
+table tbody tr:nth-child(2) td:nth-child(3){
+}
+#undertaker{
+    width: 38px;
+    height: 38px;
+    float: left;
+    margin: 3px;
+    background-image: url("undertaker.png");
+    background-repeat: no-repeat;
+
+}
+table tbody tr:nth-child(2):hover, table tbody tr:nth-child(3):hover, table tbody tr:nth-child(4):hover{
+    background-color: #e9d0ed;
+}.pic{
+    position: relative;
+    top: 10px;
+    margin-left: 15px;
+    margin-right: 10px;
+ }
+

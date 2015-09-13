@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\1.Persons\bin\Debug\1.Persons.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\1.Persons\bin\Debug\1.Persons.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\1.Persons\bin\Debug\1.Persons.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\1.Persons\obj\Debug\1.Persons.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\1.Persons\obj\Debug\1.Persons.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework1\1.Persons\1.Persons\obj\Debug\1.Persons.pdb

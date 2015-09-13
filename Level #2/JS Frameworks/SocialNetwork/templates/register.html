@@ -1,0 +1,68 @@
+<div class="container">
+    <form class="form-horizontal">
+        <fieldset>
+            <legend>Register</legend>
+
+            <div class="form-group">
+                <label for="inputUsername" class="col-lg-2 control-label">Username</label>
+                <div class="col-lg-3">
+                    <input type="text" required="required" class="form-control" id="inputUsername" placeholder="Username" ng-model="user.username">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputPassword" class="col-lg-2 control-label">Password</label>
+                <div class="col-lg-3">
+                    <input type="password" required="required" class="form-control" id="inputPassword" placeholder="Password" ng-model="user.password">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputPasswordConfirm" class="col-lg-2 control-label">Confirm Password</label>
+                <div class="col-lg-3">
+                    <input type="password" required="required" class="form-control" id="inputPasswordConfirm" placeholder="Confirm Password" ng-model="user.confirmPassword">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputName" class="col-lg-2 control-label">Name</label>
+                <div class="col-lg-3">
+                    <input type="text" required="required" class="form-control" id="inputName" placeholder="Name"  ng-model="user.name">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputEmail" class="col-lg-2 control-label">Email</label>
+                <div class="col-lg-3">
+                    <input type="text" required="required" class="form-control" id="inputEmail" placeholder="Email"  ng-model="user.email">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-2 control-label">Gender</label>
+                <div class="col-md-9">
+                    <label class="radio-inline" for="male">
+                        <input data-val="true" id="male" name="gender" type="radio" value="1">
+                        Male
+                    </label>
+                    <label class="radio-inline" for="female">
+                        <input id="female" name="gender" type="radio" value="2">
+                       Female
+                    </label>
+                    <label class="radio-inline" for="other">
+                        <input id="other" name="gender" type="radio" value="0">
+                        Other
+                    </label>
+                    <span class="field-validation-valid help-block"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-lg-10 col-lg-offset-2">
+                    <button class="btn btn-default">Cancel</button>
+                    <button type="submit" class="btn btn-primary" ng-click="register(user)">Submit</button>
+                </div>
+            </div>
+
+        </fieldset>
+    </form>
+</div>

@@ -1,0 +1,8 @@
+c:\users\sh0r7i\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\1\EncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\1\EncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\1\EncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\1\EncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\1\EncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\1\EncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\1\EncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.pdb

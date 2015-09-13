@@ -1,0 +1,8 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problem-loops\bin\Debug\6.problem-loops.exe.config
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problem-loops\bin\Debug\6.problem-loops.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problem-loops\bin\Debug\6.problem-loops.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problem-loops\obj\Debug\6.problem-loops.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problem-loops\obj\Debug\6.problem-loops.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\6.problem-loops\obj\Debug\6.problem-loops.pdb

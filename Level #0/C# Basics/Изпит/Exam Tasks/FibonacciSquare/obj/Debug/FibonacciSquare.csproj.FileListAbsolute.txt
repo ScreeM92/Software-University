@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\FibonacciSquare\bin\Debug\FibonacciSquare.exe.config
+C:\Users\Работа сайт\Desktop\Изпитни задачи\FibonacciSquare\bin\Debug\FibonacciSquare.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\FibonacciSquare\bin\Debug\FibonacciSquare.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\FibonacciSquare\obj\Debug\FibonacciSquare.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Изпитни задачи\FibonacciSquare\obj\Debug\FibonacciSquare.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\FibonacciSquare\obj\Debug\FibonacciSquare.pdb

@@ -1,0 +1,4 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleExpression(MoonGravity)\bin\Debug\SimpleExpression(MoonGravity).exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleExpression(MoonGravity)\bin\Debug\SimpleExpression(MoonGravity).pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleExpression(MoonGravity)\obj\Debug\SimpleExpression(MoonGravity).exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\SimpleExpression(MoonGravity)\obj\Debug\SimpleExpression(MoonGravity).pdb

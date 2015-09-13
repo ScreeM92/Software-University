@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ASCIITable\bin\Debug\ASCIITable.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ASCIITable\bin\Debug\ASCIITable.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ASCIITable\bin\Debug\ASCIITable.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ASCIITable\obj\Debug\ASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ASCIITable\obj\Debug\ASCIITable.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ASCIITable\obj\Debug\ASCIITable.pdb

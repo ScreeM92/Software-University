@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\AnonymousMethods\bin\Debug\_4.AnonymousMethods.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\AnonymousMethods\bin\Debug\_4.AnonymousMethods.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\AnonymousMethods\obj\x86\Debug\4. Anonymous-Methods.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\AnonymousMethods\obj\x86\Debug\_4.AnonymousMethods.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\AnonymousMethods\obj\x86\Debug\_4.AnonymousMethods.pdb

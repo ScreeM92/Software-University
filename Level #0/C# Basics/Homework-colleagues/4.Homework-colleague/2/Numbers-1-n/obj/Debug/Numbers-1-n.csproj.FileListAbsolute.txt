@@ -1,0 +1,4 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Numbers-1-n\bin\Debug\Numbers-1-n.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Numbers-1-n\bin\Debug\Numbers-1-n.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Numbers-1-n\obj\Debug\Numbers-1-n.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Numbers-1-n\obj\Debug\Numbers-1-n.pdb

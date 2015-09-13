@@ -1,0 +1,8 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\Работа сайт\Desktop\Homework\1.Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

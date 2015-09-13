@@ -1,0 +1,6 @@
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\12 FallingRocks\bin\Debug\12 FallingRocks.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\12 FallingRocks\bin\Debug\12 FallingRocks.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\12 FallingRocks\bin\Debug\12 FallingRocks.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\12 FallingRocks\obj\Debug\12 FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\12 FallingRocks\obj\Debug\12 FallingRocks.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\12 FallingRocks\obj\Debug\12 FallingRocks.pdb

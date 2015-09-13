@@ -1,0 +1,9 @@
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\bin\Debug\ThirdDigit7.exe.config
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\bin\Debug\ThirdDigit7.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\bin\Debug\ThirdDigit7.pdb
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\obj\Debug\ThirdDigit7.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\obj\Debug\ThirdDigit7.pdb
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\obj\Debug\5.ThirdDigit7.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\bin\Debug\ThirdDigit7.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\obj\Debug\ThirdDigit7.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\ThirdDigit7\obj\Debug\ThirdDigit7.pdb

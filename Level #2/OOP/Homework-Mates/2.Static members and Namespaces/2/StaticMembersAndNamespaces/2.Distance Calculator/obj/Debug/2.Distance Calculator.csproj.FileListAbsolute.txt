@@ -1,0 +1,12 @@
+D:\software university\OOP\StaticMembersAndNamespaces\2.Distance Calculator\bin\Debug\2.Distance Calculator.exe.config
+D:\software university\OOP\StaticMembersAndNamespaces\2.Distance Calculator\bin\Debug\2.Distance Calculator.exe
+D:\software university\OOP\StaticMembersAndNamespaces\2.Distance Calculator\bin\Debug\2.Distance Calculator.pdb
+D:\software university\OOP\StaticMembersAndNamespaces\2.Distance Calculator\obj\Debug\2.Distance Calculator.csprojResolveAssemblyReference.cache
+D:\software university\OOP\StaticMembersAndNamespaces\2.Distance Calculator\obj\Debug\2.Distance Calculator.exe
+D:\software university\OOP\StaticMembersAndNamespaces\2.Distance Calculator\obj\Debug\2.Distance Calculator.pdb
+D:\software university\OOP\Homework2\StaticMembersAndNamespaces\2.Distance Calculator\bin\Debug\2.Distance Calculator.exe.config
+D:\software university\OOP\Homework2\StaticMembersAndNamespaces\2.Distance Calculator\obj\Debug\2.Distance Calculator.exe
+D:\software university\OOP\Homework2\StaticMembersAndNamespaces\2.Distance Calculator\obj\Debug\2.Distance Calculator.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\2.Static members and Namespaces\2\StaticMembersAndNamespaces\2.Distance Calculator\bin\Debug\2.Distance Calculator.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\2.Static members and Namespaces\2\StaticMembersAndNamespaces\2.Distance Calculator\obj\Debug\2.Distance Calculator.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\2.Static members and Namespaces\2\StaticMembersAndNamespaces\2.Distance Calculator\obj\Debug\2.Distance Calculator.pdb

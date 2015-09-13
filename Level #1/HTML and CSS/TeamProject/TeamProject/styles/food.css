@@ -1,0 +1,35 @@
+.food{
+    color: black;
+}
+.food p{
+    margin-bottom: 15px;
+    text-align: left;
+
+}
+.img-food{
+    float: left;
+    margin-right: 10px;
+}
+hr{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+iframe{
+    margin-top: 50px;
+    display: block;
+    margin: 0 auto;
+}

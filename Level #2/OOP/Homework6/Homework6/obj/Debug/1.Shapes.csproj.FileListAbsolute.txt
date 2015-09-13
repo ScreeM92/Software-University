@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\Homework6\bin\Debug\Homework6.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\Homework6\bin\Debug\Homework6.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\Homework6\bin\Debug\Homework6.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\Homework6\obj\Debug\Homework6.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework6\Homework6\obj\Debug\Homework6.pdb

@@ -1,0 +1,2 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\Sum-of-n-Numbers\obj\Debug\Sum-of-n-Numbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\Sum-of-n-Numbers\obj\Debug\Sum-of-n-Numbers.pdb

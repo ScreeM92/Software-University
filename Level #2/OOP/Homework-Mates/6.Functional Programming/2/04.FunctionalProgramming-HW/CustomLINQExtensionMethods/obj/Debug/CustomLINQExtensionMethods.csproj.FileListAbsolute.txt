@@ -1,0 +1,5 @@
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe.config
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.pdb
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.exe
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.pdb

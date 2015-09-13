@@ -1,0 +1,6 @@
+D:\c#\Operators Expressions and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\c#\Operators Expressions and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\c#\Operators Expressions and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\c#\Operators Expressions and Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\c#\Operators Expressions and Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\c#\Operators Expressions and Statements\ConsoleApplication1\obj\Debug\02. Gravitation on the Moon.csprojResolveAssemblyReference.cache

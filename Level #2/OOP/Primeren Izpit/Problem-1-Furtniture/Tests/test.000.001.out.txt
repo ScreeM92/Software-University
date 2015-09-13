@@ -1,0 +1,64 @@
+Company DivaniUniversity created
+Company HladilniciPlus created
+DivaniUniversity - 1234567890 - no furnitures
+Table MyMasa created
+Chair MyStol created
+Chair SitefinityDivan created
+Chair AJAXControlsTaburetka created
+Chair SitefinityShtyrkel created
+HladilniciPlus - 0987654321 - no furnitures
+Furniture MyMasa added to company HladilniciPlus
+Furniture SitefinityShtyrkel added to company HladilniciPlus
+Furniture MyMasa added to company HladilniciPlus
+Furniture SitefinityDivan added to company HladilniciPlus
+HladilniciPlus - 0987654321 - 4 furnitures
+Type: AdjustableChair, Model: SitefinityDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: SitefinityShtyrkel, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: MyMasa, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: Table, Model: MyMasa, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+DivaniUniversity - 1234567890 - no furnitures
+Furniture MyMasa added to company DivaniUniversity
+Furniture MyStol added to company DivaniUniversity
+Furniture AJAXControlsTaburetka added to company DivaniUniversity
+Furniture SitefinityDivan added to company DivaniUniversity
+DivaniUniversity - 1234567890 - 4 furnitures
+Type: ConvertibleChair, Model: AJAXControlsTaburetka, Material: Plastic, Price: 80.00, Height: 1.00, Legs: 3, State: Normal
+Type: Chair, Model: MyStol, Material: Leather, Price: 99.99, Height: 1.20, Legs: 5
+Type: AdjustableChair, Model: SitefinityDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: MyMasa, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+HladilniciPlus - 0987654321 - 4 furnitures
+Type: AdjustableChair, Model: SitefinityDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: SitefinityShtyrkel, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: MyMasa, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: Table, Model: MyMasa, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Furniture MyMasa removed from company HladilniciPlus
+HladilniciPlus - 0987654321 - 3 furnitures
+Type: AdjustableChair, Model: SitefinityDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: SitefinityShtyrkel, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: MyMasa, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: Table, Model: MyMasa, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: AdjustableChair, Model: SitefinityDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Furniture SitefinityDivan removed from company DivaniUniversity
+Furniture SitefinityDivan removed from company DivaniUniversity
+DivaniUniversity - 1234567890 - 3 furnitures
+Type: ConvertibleChair, Model: AJAXControlsTaburetka, Material: Plastic, Price: 80.00, Height: 1.00, Legs: 3, State: Normal
+Type: Chair, Model: MyStol, Material: Leather, Price: 99.99, Height: 1.20, Legs: 5
+Type: Table, Model: MyMasa, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Furniture SitefinityDivan not found
+Type: ConvertibleChair, Model: AJAXControlsTaburetka, Material: Plastic, Price: 80.00, Height: 1.00, Legs: 3, State: Normal
+Type: Chair, Model: MyStol, Material: Leather, Price: 99.99, Height: 1.20, Legs: 5
+Company KenovAndSonBiura created
+Chair PeshoBiuro created
+Furniture PeshoBiuro added to company KenovAndSonBiura
+Chair PeshoBiuro adjusted to height 1.11
+Type: AdjustableChair, Model: PeshoBiuro, Material: Plastic, Price: 0.99, Height: 1.11, Legs: 4
+Chair GoshoFotiol created
+Furniture GoshoFotiol added to company KenovAndSonBiura
+Chair GoshoFotiol converted
+Type: ConvertibleChair, Model: GoshoFotiol, Material: Wooden, Price: 1.99, Height: 0.10, Legs: 1, State: Converted
+Chair GoshoFotiol converted
+Type: ConvertibleChair, Model: GoshoFotiol, Material: Wooden, Price: 1.99, Height: 0.95, Legs: 1, State: Normal
+Chair GoshoFotiol converted
+KenovAndSonBiura - 6666666666 - 2 furnitures
+Type: AdjustableChair, Model: PeshoBiuro, Material: Plastic, Price: 0.99, Height: 1.11, Legs: 4
+Type: ConvertibleChair, Model: GoshoFotiol, Material: Wooden, Price: 1.99, Height: 0.10, Legs: 1, State: Converted

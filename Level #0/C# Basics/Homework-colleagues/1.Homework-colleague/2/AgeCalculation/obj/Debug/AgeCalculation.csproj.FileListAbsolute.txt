@@ -1,0 +1,6 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\AgeCalculation\bin\Debug\AgeCalculation.exe.config
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\AgeCalculation\bin\Debug\AgeCalculation.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\AgeCalculation\bin\Debug\AgeCalculation.pdb
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\AgeCalculation\obj\Debug\AgeCalculation.csprojResolveAssemblyReference.cache
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\AgeCalculation\obj\Debug\AgeCalculation.exe
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\AgeCalculation\obj\Debug\AgeCalculation.pdb

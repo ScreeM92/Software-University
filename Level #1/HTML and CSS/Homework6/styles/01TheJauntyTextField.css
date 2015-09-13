@@ -1,0 +1,165 @@
+#container {
+    position: relative;
+    margin: 20px 0 0 20px;
+    padding: 5px;
+    width: 600px;
+    height: 300px;
+    border-top: 7px dotted #FFFF00;
+    border-right: 13px solid #008000;
+    border-bottom: 7px double #4646FF;
+    border-left: 7px dashed #FF0000;
+    box-shadow: 15px 15px 10px #333333;
+}
+
+#container h1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: normal;
+    text-shadow: 7px 7px  12px #404040;
+}
+
+#oval-container-blue {
+    width: 540px;
+    height: 150px;
+    margin: 0 auto;
+    border-top-left-radius: 75px;
+    border-top-right-radius: 75px;
+    border-bottom-left-radius: 75px;
+    border-bottom-right-radius: 75px;
+    border:5px solid #1D1BFF;
+
+}
+
+#oval-container-green {
+    width: 530px;
+    height: 140px;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    border:5px solid #127C30;
+}
+
+#oval-container-yellow {
+    width: 520px;
+    height: 130px;
+    border-top-left-radius: 65px;
+    border-top-right-radius: 65px;
+    border-bottom-left-radius: 65px;
+    border-bottom-right-radius: 65px;
+    border:5px solid #FFFF00;
+
+}
+
+#oval-container-red {
+    width: 510px;
+    height: 120px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    border:5px solid #FF0000;
+
+}
+
+#oval-container-red h2 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: normal;
+    text-shadow: 5px 5px  10px #404040;
+}
+
+#oval-container-red form {
+    width: 415px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+.button {
+    padding: 2px 10px;
+    width: auto;
+    font-size: 15px;
+    font-weight: bold;
+    background: #D8921A;
+    border-top: 3px solid #EC9C0D;
+    border-left: 3px solid #EC9C0D;
+    border-bottom: 3px solid #AD7206;
+    border-right: 3px solid #AD7206;
+}
+
+#small-bubble {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    background: rgba(104,104,104,0.7);
+    border-radius: 50%;
+    top: -160px;
+    left: 490px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+}
+
+#middle-bubble {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    background: rgba(104,104,104,0.7);
+    border-radius: 50%;
+    top: -255px;
+    left: 530px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+
+}
+
+.border:before {
+    content: " ";
+    position: absolute;
+    border: 4px dashed white;
+    border-radius: 50%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#biggest-bubble {
+    position: relative;
+    width: 140px;
+    height: 80px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background: rgba(104,104,104,0.7);
+    top: -390px;
+    left: 580px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+    padding-top: 10px;
+}
+
+#biggest-bubble:before {
+    content: " ";
+    position: absolute;
+    border: 4px dashed white;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#text{
+    position: absolute;
+    color: white;
+    width: 100px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    top: 75px;
+    left: 610px;
+}

@@ -1,0 +1,24 @@
+<div ng-controller="HomeController">
+	<div ng-if="authService.isLoggedIn()" class="user-area">
+		<ul class="home">
+		    <h1 style="font-size: 3em">Friends({{friends.length}})</h1>
+		</ul>
+	    <div ng-if="friends.length==0" class="box no-data">
+	        No friends found.
+	    </div>
+	   	 <div ng-if="friends.length > 0" class="box data">
+	        <ul class="ads">
+	            <li ng-repeat="friend in friends" class="box" data-id="{{friend.id}}">
+	                <div>
+	                    <span ng-if='friend.profileImageData'>
+	                        <img class="ad-image" ng-src="{{friend.profileImageData}}" />
+	                        <br />
+	                    </span>
+	                </div>
+
+	                <h3 data-id="friend.id"><strong>{{friend.name}}</strong></h3>
+	            </li>
+	        </ul>
+	    </div>
+	</div>
+</div>

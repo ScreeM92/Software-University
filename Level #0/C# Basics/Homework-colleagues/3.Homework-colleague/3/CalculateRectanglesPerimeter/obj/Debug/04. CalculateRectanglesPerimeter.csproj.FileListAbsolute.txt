@@ -1,0 +1,4 @@
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\CalculateRectanglesPerimeter\bin\Debug\CalculateRectanglesPerimeter.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\CalculateRectanglesPerimeter\bin\Debug\CalculateRectanglesPerimeter.pdb
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\CalculateRectanglesPerimeter\obj\Debug\CalculateRectanglesPerimeter.exe
+E:\Tsveti\SOFTWARE UNIVERSITY\C# Basics\3. Оператори и изрази\HOMEWORK\Operators-Expressions-Statements\CalculateRectanglesPerimeter\obj\Debug\CalculateRectanglesPerimeter.pdb

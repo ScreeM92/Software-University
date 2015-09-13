@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <style>
+        table{
+            border: 1px solid black;
+            font-size: 22px;
+        }
+        th{
+            border: 1px solid black;
+            font-size: 50px;
+            font-weight: bold;
+            padding-right: 60px;
+            padding-left: 60px;
+            padding-top: 25px;
+            padding-bottom: 25px;
+        }
+        td{
+            border: 1px solid black;
+
+            padding: 5px;
+        }
+        #google{
+            text-align: left;
+            vertical-align: top;
+        }
+        #git{
+            text-align: right;
+            vertical-align: top;
+        }
+        #fb{
+            text-align: center;
+            vertical-align: top;
+        }
+        #youtube{
+            text-align: center;
+            vertical-align: bottom;
+        }
+        #food{
+            text-align: right;
+            vertical-align: bottom;
+        }
+        #game{
+            text-align: left;
+            vertical-align: bottom;
+        }
+        #height{
+            height: 120px;
+            width: 100px;
+        }
+        .height1{
+            width: 100px;
+            height: 100px;
+        }
+        #align{
+            text-align: center;
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .padd{
+            padding: 15px;
+        }
+        #nested{
+            width: 100%;
+        }
+        #beer{
+            font-weight: bold;
+            font-size: 31px;
+            text-align: right;
+
+        }
+        #wc{
+            text-align: left;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <table>
+        <thead>
+        <tr>
+            <th colspan="4">SoftUni LIFE</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="height1">
+            <td id="google" colspan="2">Google</td>
+            <td id="git" colspan="2">GitHub</td>
+        </tr>
+        <tr class="height1">
+            <td id="fb">FB</td>
+            <td>GMail</td>
+            <td id="youtube">Youtube</td>
+            <td>2048</td>
+        </tr>
+        <tr id="height">
+            <td id="food">Food</td>
+            <td id="game" colspan="2">Game</td>
+            <td>
+                <table id="nested">
+                    <tbody id="align">
+                    <tr>
+                        <td class="padd">Social life</td>
+                    </tr>
+                    <tr>
+                        <td class="padd">Sleep</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr class="height1">
+            <td id="beer" colspan="3">Beer ></td>
+            <td id="wc">WC</td>
+        </tr>
+        </tbody>
+    </table>
+</body>
+</html>

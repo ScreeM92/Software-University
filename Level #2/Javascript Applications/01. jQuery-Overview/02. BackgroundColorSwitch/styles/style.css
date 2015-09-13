@@ -1,0 +1,70 @@
+﻿* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    font-size: 26px;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+}
+
+section {
+    float: left;
+    display: inline-block;
+    min-width: 250px;
+    height: 200px;
+    margin: 0 10px;
+}
+
+section > div {
+    margin: 10px 10px 0 0;
+}
+
+select {
+    font-size: .7em;
+}
+
+label {
+    margin: 10px 10px 0 0;
+}
+
+button {
+    font-size: .7em;
+}
+
+ul {
+    margin: 0;
+}
+
+button {
+    display: inline-block;
+    background: #3C3C3C;
+    color: #fff;
+    font-size: .7em;
+    border: none;
+    width: 7em;
+    height: 2em;
+    outline: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background: #E90606;
+}
+
+input[type=text] {
+    font-size: .7em;
+}
+
+span {
+    color: #808080;
+}

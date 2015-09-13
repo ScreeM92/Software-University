@@ -1,0 +1,8 @@
+7
+nakov 3 whiskeys
+kiro 1 beers
+mimi 2 beers
+alex 4 beers
+alex 1 beers
+kiro 1 vodkas
+nakov 10 beers

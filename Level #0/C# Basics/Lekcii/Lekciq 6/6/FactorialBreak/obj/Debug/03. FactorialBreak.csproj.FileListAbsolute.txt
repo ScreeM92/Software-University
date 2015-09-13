@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialBreak\bin\Debug\FactorialBreak.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialBreak\bin\Debug\FactorialBreak.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialBreak\obj\Debug\03. FactorialBreak.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialBreak\obj\Debug\FactorialBreak.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialBreak\obj\Debug\FactorialBreak.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\FactorialBreak\bin\Debug\FactorialBreak.exe.config

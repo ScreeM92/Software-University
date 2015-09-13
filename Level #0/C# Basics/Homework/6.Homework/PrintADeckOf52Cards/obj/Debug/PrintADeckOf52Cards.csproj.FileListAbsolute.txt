@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.pdb
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.pdb

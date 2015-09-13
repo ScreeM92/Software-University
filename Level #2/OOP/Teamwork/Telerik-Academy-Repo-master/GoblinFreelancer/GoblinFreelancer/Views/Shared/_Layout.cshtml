@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - GoblinFreelancer</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    
+    @Styles.Render("~/Content/kendo")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/kendo")
+    <script src='/signalr/js'></script>    
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container">
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("GoblinFreelancer", "Index", "Home", null, new { @class = "brand" })
+                <div class="nav-collapse collapse">
+                    <ul class="nav">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                        <li class="dropdown">
+                            <a class="dropdown-toggle"
+                               data-toggle="dropdown"
+                               href="#">
+                                Profile
+                                <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a href="~/Users/UserProfile?username=@User.Identity.Name">My Profile</a></li>
+                                <li>@Html.ActionLink("My Projects", "Projects", "Users")</li>
+                            </ul>
+                        </li>
+                        }
+                        
+                        <li>@Html.ActionLink("Users", "Index", "Users")</li>
+                        <li>@Html.ActionLink("Projects", "Index", "Projects")</li>
+                        <li>@Html.ActionLink("Categories", "Index", "Categories")</li>
+                        @if (User.Identity.IsAuthenticated && 
+                            ((new GoblinFreelancer
+                                .Repository.UowData()
+                                .Users.All()
+                                .First(u => u.UserName == User.Identity.Name)
+                                .Roles.FirstOrDefault(u => u.Role.Name == "Admin") != null)))
+                        {
+                            <li class="dropdown">
+                                <a class="dropdown-toggle"
+                                   data-toggle="dropdown"
+                                   href="#">
+                                    Admin
+                                    <b class="caret"></b>
+                                  </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("Users", "EditUsers", "Admin/Users")</li>
+                                    <li>@Html.ActionLink("Projects", "EditProjects", "Admin/Projects")</li>
+                                    <li>@Html.ActionLink("Categories", "EditCategories", "Admin/Categories")</li>
+                                    <li>@Html.ActionLink("Skills", "EditSkills", "Admin/Skills")</li>
+                                </ul>
+                              </li>
+                        }
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - GoblinFreelancer - Team Goblin</p>
+        </footer>
+    </div>
+
+    @*@Scripts.Render("~/bundles/jquery")*@
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @RenderSection("VoteSystemDrawVoteSection", required: false);
+    @RenderSection("VoteSystemRateUserSection", required: false);
+    
+</body>
+</html>

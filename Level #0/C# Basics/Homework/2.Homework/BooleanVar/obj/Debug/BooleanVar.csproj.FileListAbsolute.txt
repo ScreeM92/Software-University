@@ -1,0 +1,10 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\6.Exercise\IsFemale\bin\Debug\IsFemale.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\6.Exercise\IsFemale\bin\Debug\IsFemale.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\6.Exercise\IsFemale\bin\Debug\IsFemale.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\6.Exercise\IsFemale\obj\Debug\IsFemale.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\6.Exercise\IsFemale\obj\Debug\IsFemale.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\BooleanVar\bin\Debug\IsFemale.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\BooleanVar\obj\Debug\IsFemale.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\BooleanVar\obj\Debug\IsFemale.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\BooleanVar\bin\Debug\IsFemale.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\BooleanVar\bin\Debug\IsFemale.pdb

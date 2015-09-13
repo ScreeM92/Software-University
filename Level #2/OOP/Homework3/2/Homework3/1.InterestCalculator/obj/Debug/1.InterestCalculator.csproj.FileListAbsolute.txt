@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\1.InterestCalculator\bin\Debug\1.InterestCalculator.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\1.InterestCalculator\bin\Debug\1.InterestCalculator.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\1.InterestCalculator\bin\Debug\1.InterestCalculator.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\1.InterestCalculator\obj\Debug\1.InterestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\1.InterestCalculator\obj\Debug\1.InterestCalculator.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\1.InterestCalculator\obj\Debug\1.InterestCalculator.pdb

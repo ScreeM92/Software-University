@@ -1,0 +1,6 @@
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\PlayWithTypes\bin\Debug\PlayWithTypes.exe.config
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\PlayWithTypes\bin\Debug\PlayWithTypes.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\PlayWithTypes\bin\Debug\PlayWithTypes.pdb
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\PlayWithTypes\obj\Debug\PlayWithTypes.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\PlayWithTypes\obj\Debug\PlayWithTypes.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\PlayWithTypes\obj\Debug\PlayWithTypes.pdb

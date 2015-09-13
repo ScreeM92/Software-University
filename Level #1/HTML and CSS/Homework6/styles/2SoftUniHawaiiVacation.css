@@ -1,0 +1,33 @@
+@font-face {
+    font-family: AnimatedFont;
+    src: url("../fonts/Animated.ttf");
+}
+
+main{
+    width: 900px;
+    height: 600px;
+    background: #0067DB;
+    background: -o-radial-gradient(20% 20%, farthest-side,#ffffff 5%, #F9F8B7 10%, #F9F8B7 10%,#ffffff 20%,#0067DB);
+    background: -webkit-radial-gradient(20% 20%, farthest-side,#ffffff 5%, #F9F8B7 10%, #F9F8B7 10%,#ffffff 20%,#0067DB);
+    background: -moz-radial-gradient(20% 20%, farthest-side,#ffffff 5%, #F9F8B7 10%, #F9F8B7 10%,#ffffff 20%,#0067DB);
+    background: radial-gradient(5% 5%, farthest-side, #ffffff 10%, #fffda0 ,#ffffff ,#0067DB);
+}
+
+span{
+    display: inline-block;
+    font-family: AnimatedFont;
+    color: #FDBC21;
+    font-size: 45px;
+    margin: 20px 20px;
+}
+
+main>div{
+    width: 900px;
+    height: 600px;
+
+    text-align: right;
+    background-image: url("../images/TediHula.png"), url("../images/PetiaHula.png"), url("../images/VladoGHula.png"),
+    url("../images/AlexHula.png"), url("../images/NakovHula.png"),url("../images/VladoKHula.png"), url("../images/HawaiiBackground.png");
+    background-repeat: no-repeat;
+    background-position: 36% 95%, 28% 87%, 6% 90%, 75% 90%, 61% 80%, 99% 94%;
+}

@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Collection</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.7.0/lodash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <textarea id="students-input">[{"gender":"Male","firstName":"Joe","lastName":"Riley","age":22,"country":"Russia"},
+{"gender":"Female","firstName":"Lois","lastName":"Morgan","age":41,"country":"Bulgaria"},
+{"gender":"Male","firstName":"Roy","lastName":"Wood","age":33,"country":"Russia"},
+{"gender":"Female","firstName":"Diana","lastName":"Freeman","age":40,"country":"Argentina"},
+{"gender":"Female","firstName":"Bonnie","lastName":"Hunter","age":23,"country":"Bulgaria"},
+{"gender":"Male","firstName":"Joe","lastName":"Young","age":16,"country":"Bulgaria"},
+{"gender":"Female","firstName":"Kathryn","lastName":"Murray","age":22,"country":"Indonesia"},
+{"gender":"Male","firstName":"Dennis","lastName":"Woods","age":37,"country":"Bulgaria"},
+{"gender":"Male","firstName":"Billy","lastName":"Patterson","age":24,"country":"Bulgaria"},
+{"gender":"Male","firstName":"Willie","lastName":"Gray","age":42,"country":"China"},
+{"gender":"Male","firstName":"Justin","lastName":"Lawson","age":38,"country":"Bulgaria"},
+{"gender":"Male","firstName":"Ryan","lastName":"Foster","age":24,"country":"Indonesia"},
+{"gender":"Male","firstName":"Eugene","lastName":"Morris","age":37,"country":"Bulgaria"},
+{"gender":"Male","firstName":"Eugene","lastName":"Rivera","age":45,"country":"Philippines"},
+{"gender":"Female","firstName":"Kathleen","lastName":"Hunter","age":28,"country":"Bulgaria"}]
+</textarea>
+    <div id="by-age">
+        <label>Age: </label>
+        <input type="number" id="min-age" placeholder="min..."/>
+        <input type="number" id="max-age" placeholder="max..."/>
+        <button>Get</button>
+    </div>
+    <hr />
+    <div id="by-name-alphabetically">
+        <label>All students whose first name is alphabetically </label>
+        <select>
+            <option value="-1" selected>before</option>
+            <option value="1">after</option>
+        </select>
+        <label>their last name.</label>
+        <button>Get</button>
+    </div>
+    <hr />
+    <div id="by-country">
+        <label>Country: </label>
+        <input type="text" placeholder="enter country..."/>
+        <button>Get</button>
+    </div>
+    <hr />
+    <div id="last">
+        <label>Last</label>
+        <input type="number" placeholder="number..."/>
+        <label>students.</label>
+        <button>Get</button>
+    </div>
+    <hr />
+    <div id="mixed">
+        <label>First</label>
+        <input type="number" id="first" placeholder="number..."/>
+        <label>students who are</label>
+        <select id="bool">
+            <option value="true">from</option>
+            <option value="false" selected>not from</option>
+        </select>
+        <input type="text" id="country" placeholder="enter country..."/>
+        <label>and are</label>
+        <select id="gender">
+            <option value="Male" selected>male</option>
+            <option value="Female">female</option>
+        </select>
+        <button>Get</button>
+    </div>
+    <hr/>
+    <div id="result">
+        
+    </div>
+</div>
+    <script src="scripts/studentCollection.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+</html>

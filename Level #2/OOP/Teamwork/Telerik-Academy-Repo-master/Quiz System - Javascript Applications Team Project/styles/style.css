@@ -1,0 +1,275 @@
+html, body, div, p, a, h1, h2, h3, ul, li, section, article, iframe{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: #ddd;
+    font-family: 'Segoe UI', Tahoma, Arial, verdana, sans-serif;
+}
+
+header {
+    padding: 20px 0;
+    background: #585d61; /* Old browsers */
+	background: -moz-linear-gradient(top, #585d61 0%, #424649 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#585d61), color-stop(100%,#424649)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #585d61 0%,#424649 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #585d61 0%,#424649 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #585d61 0%,#424649 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #585d61 0%,#424649 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#585d61', endColorstr='#424649',GradientType=0 ); /* IE6-9 */
+}
+
+header span {
+	color: #5995DD;
+}
+
+#quiz-wrap {
+    width: 960px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 20px #000;
+}
+
+#tests-wrap > h2,
+#current-test-wrap > h2,
+#scoreboard-wrap > h2 {
+	background: #8d9ba4; /* Old browsers */
+	background: -moz-linear-gradient(top, #8d9ba4 0%, #79888b 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8d9ba4), color-stop(100%,#79888b)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #8d9ba4 0%,#79888b 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #8d9ba4 0%,#79888b 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #8d9ba4 0%,#79888b 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #8d9ba4 0%,#79888b 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8d9ba4', endColorstr='#79888b',GradientType=0 ); /* IE6-9 */
+	
+	color: #D2DCDE;
+}
+
+img{
+    width:350px;
+    height:200px;
+    margin-left:75px;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 15px #000;
+}
+
+h1 a{
+	color: #fff;
+	text-decoration: none;
+}
+
+h1 a:hover {
+	color: #ff0;
+}
+
+h2 {
+    color: #fb5;
+    text-align: center;
+    padding: 10px 0;
+    /*border-bottom: 2px ridge gray;*/
+}
+
+
+
+article {
+    float:left;
+    background-color: #E4F1F9;
+    height: 700px;
+    width: 220px;
+    border: 1px solid #555;
+    /*border-top: 1px solid white;*/
+    /*border-right: 1px solid #60D4AE;*/
+}
+
+#current-test-wrap {
+	width: 514px;
+}
+
+#current-test-wrap h2,
+#scoreboard-wrap h2,
+#tests-wrap h2 {
+	color : white;
+	background: #5995DD;
+}
+
+#scoreboard-wrap {
+	background-color: #575C60;
+}
+
+section:after {
+    clear: both;
+    display: block;
+    content: " ";
+}
+
+footer {
+    padding: 5px 0;
+    text-align: center;
+	color: white;
+    background-color: #302E2F;
+}
+
+.twitter-share-button{
+	
+}
+
+#finish-btn{
+	font-weight: bold;
+	letter-spacing: 1px;
+    margin-top: 20px;
+	margin-bottom: 10px;
+	margin-left: 20%;
+    background: #fff;
+    padding: 15px;
+	width: 300px;
+    border: 0;
+    color: #1B518E;
+    font-size: 1.2em;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #000;
+    cursor: pointer;
+}
+
+#curr-test h3{
+    font-size: 11pt;
+	line-height: 18px;
+    cursor: pointer;
+    padding: 20px;
+    background-color: #DEE3EA;
+    border-bottom: 3px solid black;
+}
+
+#curr-test li {
+	font-size: 10.5pt;
+}
+
+#curr-test p{
+    display: inline;
+    vertical-align: top;
+    margin: 10px 20px;
+}
+
+ul#tests-holder,
+ul#scoreboard-holder,
+div#curr-test
+{
+    overflow: auto;
+    height: 620px;
+}
+
+div#curr-test div {
+	border-bottom: 1px solid black;
+}
+
+div#welc-msg
+{
+	color: #818382;
+	text-align: center;
+    margin-top: 20px;
+}
+
+#length-error {
+	display: none;
+	font-size: 12px;
+	color: red;
+}
+
+ul#tests-holder li{
+    padding: 0;
+    background-color: #575C60;
+	background-image: url('images/right-arrow.png');
+    text-align: center;
+    border-bottom: 1px solid gray;
+    cursor: pointer;
+	word-wrap:break-word;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/*ul#tests-holder li:nth-child(2n){
+    background: #575C60;
+}*/
+    
+ul#tests-holder li a {
+    color: #D2DCDE;
+    font-size: 1.2em;
+    font-weight: bold;
+	text-decoration: none;
+}
+
+ul#tests-holder li:hover {
+    background: #CDDEE8;
+}
+
+/*ul#tests-holder li:nth-child(2n+1):hover {
+    background: #020;
+}*/
+
+ul#tests-holder li:hover a
+{
+    color: #656975;
+}
+ul#tests-holder li:hover span {
+	/*display: inline;*/
+}
+
+ul#tests-holder  span {
+	color: white;
+	font-size: 24px;
+	display: none;
+	position: relative;
+	left: 60px;
+}
+
+#test-countdown {
+    height:50px;
+}
+
+ul#scoreboard-holder{
+    color: #fff;
+    font-size: 1.2em;
+}
+
+ul#scoreboard-holder li{
+    /*background: #040;*/
+    border-bottom: 1px ridge gray;
+}
+
+ul#scoreboard-holder span {
+	font-weight: bold;
+}
+
+li {
+    list-style-type: none;
+    padding: 5px 0 5px 15px;
+}
+
+.answers
+{
+    background: white;
+    border-bottom: 1px solid gray;
+}
+
+/*Some cool scrollbar styles for Chrome*/
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+
+/*IE scrollbar styles*/
+
+body {
+    scrollbar-face-color: #006E4A;
+}

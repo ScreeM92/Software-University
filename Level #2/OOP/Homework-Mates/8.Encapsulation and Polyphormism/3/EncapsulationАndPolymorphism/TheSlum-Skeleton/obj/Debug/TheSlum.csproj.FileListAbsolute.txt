@@ -1,0 +1,10 @@
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\3\EncapsulationАndPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb

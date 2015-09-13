@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<META http-equiv="content-type" content="text/html; charset=utf-8 ">
+<html>
+<head>
+    <title>Team Raspberry's Quiz System</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="styles/style.css" rel="stylesheet"/>
+    <link href="styles/jquery-ui-1.10.3.custom.css" rel="stylesheet"/>
+	<script src="scripts/libraries/jquery-1.10.1.min.js"></script>
+    <script src="scripts/libraries/jquery-ui-1.10.3.custom.min.js"></script>
+    <script src="scripts/libraries/handlebars.js"></script>
+	<script src="scripts/shims/create-class-inherit-shim.js"></script>
+    <script src="scripts/test-items-creator.js"></script>
+    <script src="scripts/libraries/jquery.countdown.js"></script>
+    <link href="styles/jquery.countdown.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="quiz-wrap">
+		<header>
+			<h1><a href="#">Team Raspberry's <span>Quiz System</span></a></h1>
+		</header>
+
+        <section>
+            <article id="tests-wrap">
+                <h2>Tests</h2>
+                <ul id="tests-holder">
+                </ul>
+                <div id="test-countdown"></div>
+            </article>
+
+            <article id="current-test-wrap">
+                <h2>Welcome</h2>
+                <div id="curr-test">
+                    <div id="welc-msg" style="border: none;">
+                        <h4>Welcome to the Team Raspberry's Quiz System</h4>
+                        <p>
+                            Here you can try out your driver knowledge and skills.<br/>
+                            Choose a test from the left column and solve it before the time is out.<br />
+                            You can see your results for the current test in the right column.<br />
+                            Good luck.<br />
+                        </p>
+                    </div>
+                </div>
+            </article>
+
+            <article id="scoreboard-wrap">
+                <h2>Scoreboard</h2>
+                <ul id="scoreboard-holder">
+                </ul>
+            </article>
+
+            <article id="dialog-form" title="Add points">
+                <p class="validateTips"></p>
+                <form>
+                    <fieldset>
+                        <label for="name">Enter your name</label>
+                        <input type="text" name="name" id="name" class="text ui-widget-content ui-corner-all" />
+						<p id="length-error">Enter at least 2 characters!</p>
+                    </fieldset>
+                </form>
+            </article>
+        </section>
+
+        <footer>
+            <p id="copy-r">2013©All rights reserved.</p>
+        </footer>
+	</div>    
+    
+    <script src="scripts/quiz-system.js"></script>
+
+    <script src="scripts/objectParser.js"></script>
+    <script src="scripts/startApp.js"></script>
+</body>
+</html>

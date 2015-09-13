@@ -1,0 +1,2 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\BitsExchange\obj\Release\BitsExchange.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\BitsExchange\obj\Release\BitsExchange.pdb

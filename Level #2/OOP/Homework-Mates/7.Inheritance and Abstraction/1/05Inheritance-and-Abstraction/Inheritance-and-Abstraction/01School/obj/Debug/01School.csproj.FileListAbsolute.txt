@@ -1,0 +1,9 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\bin\Debug\01School.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\obj\Debug\01School.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\bin\Debug\01School.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\bin\Debug\01School.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\obj\Debug\01School.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\obj\Debug\01School.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\1\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\bin\Debug\01School.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\1\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\obj\Debug\01School.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\1\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\01School\obj\Debug\01School.pdb

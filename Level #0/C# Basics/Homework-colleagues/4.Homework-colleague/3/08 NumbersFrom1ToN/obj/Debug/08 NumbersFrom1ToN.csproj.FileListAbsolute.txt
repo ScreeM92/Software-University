@@ -1,0 +1,8 @@
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\08 NumbersFrom1ToN\bin\Debug\08 NumbersFrom1ToN.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\08 NumbersFrom1ToN\bin\Debug\08 NumbersFrom1ToN.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\08 NumbersFrom1ToN\bin\Debug\08 NumbersFrom1ToN.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\08 NumbersFrom1ToN\obj\Debug\08 NumbersFrom1ToN.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\08 NumbersFrom1ToN\obj\Debug\08 NumbersFrom1ToN.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\08 NumbersFrom1ToN\bin\Debug\08 NumbersFrom1ToN.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\08 NumbersFrom1ToN\obj\Debug\08 NumbersFrom1ToN.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\08 NumbersFrom1ToN\obj\Debug\08 NumbersFrom1ToN.pdb

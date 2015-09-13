@@ -1,0 +1,6 @@
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\BankProject\bin\Debug\BankProject.exe.config
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\BankProject\bin\Debug\BankProject.exe
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\BankProject\bin\Debug\BankProject.pdb
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\BankProject\obj\Debug\BankProject.exe
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\BankProject\obj\Debug\BankProject.pdb
+C:\Users\Niki&Lili.lan-pc\Desktop\OOP\Leson8\EncapsulationАndPolymorphism\BankProject\obj\Debug\BankProject.csprojResolveAssemblyReference.cache

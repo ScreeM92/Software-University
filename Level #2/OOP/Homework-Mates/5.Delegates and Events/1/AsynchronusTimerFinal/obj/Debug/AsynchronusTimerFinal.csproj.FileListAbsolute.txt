@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\AsynchronusTimerFinal\bin\Debug\AsynchronusTimerFinal.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\AsynchronusTimerFinal\bin\Debug\AsynchronusTimerFinal.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\AsynchronusTimerFinal\bin\Debug\AsynchronusTimerFinal.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\AsynchronusTimerFinal\obj\Debug\AsynchronusTimerFinal.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\AsynchronusTimerFinal\obj\Debug\AsynchronusTimerFinal.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\Projects\_6_DelegatesAndEvents\AsynchronusTimerFinal\obj\Debug\AsynchronusTimerFinal.pdb

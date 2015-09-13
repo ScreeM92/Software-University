@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4\obj\Debug\1.StringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4\obj\Debug\Homework4.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework4\Homework4\obj\Debug\Homework4.pdb

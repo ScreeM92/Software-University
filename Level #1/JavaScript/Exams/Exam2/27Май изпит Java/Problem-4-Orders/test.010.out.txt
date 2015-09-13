@@ -1,0 +1,13 @@
+salams: maria 2
+pizzas: kiro 117, mary 99, steve 47
+kiftaks: kiro 4, mango 1, vladi 63
+apples: karamfilov 2, kiro 11, kurtev 38, maria 126, pinko 83, steve 356
+bananas: maria 149, mary 14, penko 33, pinko 18
+whiskeys: nakov 47, penko 3, tzeko 3
+beers: alex 23, didi 287, kiki 8, kiro 1, megy 20, mimi 26, nakov 50, steve 4, tzeko 2
+vodkas: didi 47, kiro 5, pinko 19, tzeko 92
+manjas: mimi 179, steve 99, tzeko 26
+rakiyas: alex 7, kiro 201
+balls: derimadarov 46, maria 3, nakov 23, steve 88
+salads: didi 59
+aaaaaaaaaaaaaaaaaa: aaaaaaaaaaaaaaaaa 3

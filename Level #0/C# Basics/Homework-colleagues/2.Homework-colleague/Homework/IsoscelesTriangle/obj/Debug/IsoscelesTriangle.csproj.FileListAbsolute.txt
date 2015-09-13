@@ -1,0 +1,9 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

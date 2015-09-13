@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\MinMax\bin\Debug\MinMax.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\MinMax\bin\Debug\MinMax.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\MinMax\obj\Debug\MinMax.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\MinMax\obj\Debug\MinMax.pdb

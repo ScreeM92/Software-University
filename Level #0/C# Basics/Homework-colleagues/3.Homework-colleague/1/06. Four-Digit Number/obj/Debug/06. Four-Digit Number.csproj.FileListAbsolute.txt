@@ -1,0 +1,6 @@
+D:\c#\Operators Expressions and Statements\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe.config
+D:\c#\Operators Expressions and Statements\06. Four-Digit Number\obj\Debug\06. Four-Digit Number.csprojResolveAssemblyReference.cache
+D:\c#\Operators Expressions and Statements\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.exe
+D:\c#\Operators Expressions and Statements\06. Four-Digit Number\bin\Debug\_06.Four_Digit_Number.pdb
+D:\c#\Operators Expressions and Statements\06. Four-Digit Number\obj\Debug\_06.Four_Digit_Number.exe
+D:\c#\Operators Expressions and Statements\06. Four-Digit Number\obj\Debug\_06.Four_Digit_Number.pdb

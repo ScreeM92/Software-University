@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\11.Homework\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\11.Homework\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\11.Homework\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\11.Homework\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\11.Homework\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\11.Homework\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache

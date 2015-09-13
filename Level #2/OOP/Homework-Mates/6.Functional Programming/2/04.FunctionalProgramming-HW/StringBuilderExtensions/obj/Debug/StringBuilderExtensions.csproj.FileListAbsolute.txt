@@ -1,0 +1,9 @@
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe.config
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.pdb
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.csprojResolveAssemblyReference.cache
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.exe
+d:\users\tsvetina\documents\visual studio 2013\Projects\OOP\04.FunctionalProgramming-HW\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\6.Functional Programming\2\04.FunctionalProgramming-HW\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\6.Functional Programming\2\04.FunctionalProgramming-HW\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\6.Functional Programming\2\04.FunctionalProgramming-HW\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.pdb

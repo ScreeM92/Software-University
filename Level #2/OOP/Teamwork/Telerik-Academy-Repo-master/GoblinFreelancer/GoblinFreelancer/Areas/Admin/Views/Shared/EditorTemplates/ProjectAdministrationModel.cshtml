@@ -1,0 +1,90 @@
+﻿@model GoblinFreelancer.Areas.Admin.Models.ProjectAdministrationModel
+<script src="~/Scripts/ajax-project-edit-operations.js"></script>
+
+@Html.HiddenFor(model => model.Id)
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Name)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Name)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Summary)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Summary)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Deadline)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Deadline)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Salary)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Salary)
+</div>
+
+<div class="editor-label">
+    <label for="Categories">Category</label>
+</div>
+<div class="editor-field">
+    @(Html.Kendo().DropDownList().Name("Categories")
+    .DataSource(dataSource => dataSource.Read("GetCategories", "Projects"))
+    .SelectedIndex(0).Events(ev => ev.Change("categoryChange"))
+    )
+</div>
+<div class="editor-label" style="text-align:initial;width:auto" id="collaborators-wrapper">
+    @foreach (var collaborator in Model.Collaborators)
+    {
+        <span class="tag label label-info" id="collaborator-@collaborator">
+            <a href="#" style="color:white" data-collaborator="@collaborator" class="collaborator">x</a>
+            @collaborator
+        </span>
+    }
+</div>
+<div class="editor-label">
+    @Html.LabelFor(model => model.Collaborators)
+</div>
+<div class="editor-field">
+    @(Html.Kendo().AutoCompleteFor(model => model.Collaborators)
+                 .DataSource(dataSource =>
+                 {
+                     dataSource.Read(read => read.Action("GetUsernames", "Projects").Data("getUsernameInput"));
+                     dataSource.ServerFiltering(true);
+                 }))
+    <button id="add-collab" onclick="addCollab(event, @Model.Id)">Add</button>
+    <span id="success-notifier-coll" class="text-success"></span>
+    <span id="error-notifier-coll" class="text-error"></span>
+</div>
+<div class="editor-label" style="text-align:initial;width:auto" id="skills-wrapper">
+    @foreach (var skill in Model.RequiredSkills)
+    {
+        <span class="tag label label-info" id="skill-@skill">
+            <a style="color:white" href="#" class="skill" data-skill="@skill">x</a>
+            @skill
+        </span>
+    }
+</div>
+<div class="editor-label">
+    @Html.LabelFor(model => model.RequiredSkills)
+</div>
+<div class="editor-field">
+    @(Html.Kendo().AutoCompleteFor(model => model.RequiredSkills)
+                 .DataSource(dataSource => dataSource.Read(read => read.Action("GetSkills", "Projects")
+                                                                       .Data("getSkillInput"))
+                                                     .ServerFiltering(true))
+    )
+    <button id="add-collab" onclick="addSkill(event, @Model.Id)">Add</button>
+    <span id="success-notifier-skill" class="text-success"></span>
+    <span id="error-notifier-skill" class="text-error"></span>
+</div>
+<div class="editor-label">
+    @Html.HiddenFor(model => model.CategoryName)
+</div>

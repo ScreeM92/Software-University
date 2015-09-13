@@ -1,0 +1,22 @@
+<div ng-if="authService.isLoggedIn()" class="box">
+    <h2><a href="#/user/friends" ng-click="showFriends()">Friends({{friends.length}})</a></h2>
+
+    <ul class="sidebar-menu" ng-if="friends.length==0">
+        <li>
+            No friends yet.
+        </li>
+    </ul>
+
+    <ul class="sidebar-menu" ng-if="friends.length>0">
+        <li ng-repeat="friend in friends|limitTo:6" class="box" data-id="{{friend.id}}">
+            <div>
+                <span ng-if='friend.profileImageData'>
+                    <img class="ad-image-small" ng-src="{{friend.profileImageData}}" />
+                    <br />
+                </span>
+            </div>
+
+            <span data-id="friend.id"><strong>{{friend.name}}</strong></span>
+        </li>
+    </ul>
+</div>

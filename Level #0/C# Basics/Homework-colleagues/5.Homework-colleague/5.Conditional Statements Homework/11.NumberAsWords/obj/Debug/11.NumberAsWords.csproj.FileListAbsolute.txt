@@ -1,0 +1,6 @@
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+D:\Dropbox\Softuni\Level 0 C#\5. Conditional Statements\5.Conditional Statements Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

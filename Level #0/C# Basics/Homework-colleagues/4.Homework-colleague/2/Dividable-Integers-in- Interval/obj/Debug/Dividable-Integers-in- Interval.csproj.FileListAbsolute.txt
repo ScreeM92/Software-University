@@ -1,0 +1,4 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Dividable-Integers-in- Interval\bin\Debug\Dividable-Integers-in- Interval.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Dividable-Integers-in- Interval\bin\Debug\Dividable-Integers-in- Interval.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Dividable-Integers-in- Interval\obj\Debug\Dividable-Integers-in- Interval.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\Dividable-Integers-in- Interval\obj\Debug\Dividable-Integers-in- Interval.pdb

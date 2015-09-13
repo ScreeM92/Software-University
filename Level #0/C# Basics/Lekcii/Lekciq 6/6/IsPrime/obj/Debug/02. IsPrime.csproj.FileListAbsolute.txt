@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\IsPrime\bin\Debug\IsPrime.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\IsPrime\bin\Debug\IsPrime.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\IsPrime\obj\Debug\02. IsPrime.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\IsPrime\obj\Debug\IsPrime.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\IsPrime\obj\Debug\IsPrime.pdb

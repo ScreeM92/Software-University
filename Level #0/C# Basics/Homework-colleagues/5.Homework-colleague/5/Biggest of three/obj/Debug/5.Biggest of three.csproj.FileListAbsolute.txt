@@ -1,0 +1,6 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Biggest of three\bin\Debug\Biggest of three.exe.config
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Biggest of three\obj\Debug\Biggest of three.exe
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Biggest of three\obj\Debug\Biggest of three.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\Biggest of three\bin\Debug\Biggest of three.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\Biggest of three\obj\Debug\Biggest of three.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Петто домашно за оценяване\5\Biggest of three\obj\Debug\Biggest of three.pdb

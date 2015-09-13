@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\Delegates-Example\bin\Debug\Delegates-Example.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\Delegates-Example\bin\Debug\Delegates-Example.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\Delegates-Example\obj\Debug\1. Delegates-Example.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\Delegates-Example\obj\Debug\Delegates-Example.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq3\Demo-DelegatesAndEvents\Delegates-Example\obj\Debug\Delegates-Example.pdb

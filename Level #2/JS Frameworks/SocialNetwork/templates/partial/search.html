@@ -1,0 +1,24 @@
+<div ng-controller="HomeController">
+	<div ng-if="authService.isLoggedIn()" class="user-area">
+		<ul class="home">
+		    <h1 style="font-size: 3em">Results from searching({{users.length}})</h1>
+		</ul>
+	    <div ng-if="users.length==0" class="box no-data">
+	        No friends found.
+	    </div>
+	   	 <div ng-if="users.length > 0" class="box data">
+	        <ul class="ads">
+	            <li ng-repeat="user in users" class="box" data-id="{{user.id}}">
+	                <div>
+	                    <span ng-if='user.profileImageData'>
+	                        <img class="ad-image" ng-src="{{user.profileImageData}}" />
+	                        <br />
+	                    </span>
+	                </div>
+
+	                <h3><strong>{{user.name}}</strong></h3>
+	            </li>
+	        </ul>
+	    </div>
+	</div>
+</div>

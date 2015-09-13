@@ -1,0 +1,16 @@
+﻿<table>
+    <thead>
+    <tr>
+        <th>Author</th>
+        <th>Average book price</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{#each books}}
+        <tr>
+            <td>{{author}}</td>
+            <td>{{averagePrice}}</td>
+        </tr>
+    {{/each}}
+    </tbody>
+</table>

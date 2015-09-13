@@ -1,0 +1,9 @@
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe.config
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.csprojResolveAssemblyReference.cache
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.pdb
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.exe
+c:\users\okiana\documents\visual studio 2013\Projects\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\2\EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\2\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\8.Encapsulation and Polyphormism\2\EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.pdb

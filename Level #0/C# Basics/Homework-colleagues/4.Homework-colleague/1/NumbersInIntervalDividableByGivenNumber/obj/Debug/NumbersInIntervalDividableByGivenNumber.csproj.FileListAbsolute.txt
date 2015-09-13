@@ -1,0 +1,14 @@
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Ralichka\Desktop\4. Console Input Output Homework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Ralichka\Desktop\4. Console Input Output Homework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Ralichka\Desktop\4. Console Input Output Homework\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Ralichka\Desktop\4. Console Input Output Homework\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Ralichka\Desktop\4. Console Input Output Homework\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Ralichka\Desktop\4. Console Input Output Homework\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb

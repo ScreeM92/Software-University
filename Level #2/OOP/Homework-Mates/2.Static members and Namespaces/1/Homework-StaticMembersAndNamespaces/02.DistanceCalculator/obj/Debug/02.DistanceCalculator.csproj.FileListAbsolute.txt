@@ -1,0 +1,5 @@
+c:\users\valeri\documents\visual studio 2013\Projects\Homework-StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
+c:\users\valeri\documents\visual studio 2013\Projects\Homework-StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
+c:\users\valeri\documents\visual studio 2013\Projects\Homework-StaticMembersAndNamespaces\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
+c:\users\valeri\documents\visual studio 2013\Projects\Homework-StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
+c:\users\valeri\documents\visual studio 2013\Projects\Homework-StaticMembersAndNamespaces\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb

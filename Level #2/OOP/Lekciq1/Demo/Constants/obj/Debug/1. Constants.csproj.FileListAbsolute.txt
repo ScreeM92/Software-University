@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constants\bin\Debug\Constants.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constants\bin\Debug\Constants.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constants\obj\Debug\1. Constants.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constants\obj\Debug\Constants.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Constants\obj\Debug\Constants.pdb

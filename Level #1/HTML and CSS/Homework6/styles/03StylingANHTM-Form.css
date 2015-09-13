@@ -1,0 +1,101 @@
+body {
+    background-image: url("../images/formBackground.jpg");
+}
+
+form {
+    padding-left: 20px;
+}
+
+form h3 {
+    color: white;
+    font-weight: bold;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+fieldset {
+    border:none;
+    margin-bottom: -20px;
+}
+
+.data {
+    padding: 5px 10px;
+    margin-bottom: 3px;
+    width: 370px;
+    height: auto;
+    border: 2px solid #A9BFDB;
+    border-radius: 5px;
+    background-color: rgba(192,192,192,0.4);
+}
+
+input {
+    border-radius: 5px;
+    width: 190px;
+    height: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+textarea {
+    margin-left: 45px;
+    border-radius: 5px;
+}
+
+#name, #tel{
+    margin-left: 50px;
+}
+
+#address-label {
+    vertical-align: top;
+}
+
+#email {
+    margin-left: 54px;
+}
+
+#postcode {
+    margin-left: 33px;
+}
+
+#country {
+    margin-left: 40px;
+}
+
+input[type="radio"] {
+    width:15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#visacard {
+    background: url("../images/visa.png") no-repeat;
+    padding-left: 30px;
+}
+
+#amexcard {
+    background: url("../images/amex.png") no-repeat;
+    padding-left: 30px;
+}
+
+#mastercard {
+    background: url("../images/mastercard.png") no-repeat;
+    padding-left: 30px;
+}
+
+#card-number, #security-code, #card-name {
+    margin-left: 10px;
+}
+
+input[type="submit"] {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #04152F;
+    color: white;
+    border:none;
+    margin-top: 20px;
+    margin-left: 150px;
+}

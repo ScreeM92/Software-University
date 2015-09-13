@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\Работа сайт\Desktop\Homework\5.Homework\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

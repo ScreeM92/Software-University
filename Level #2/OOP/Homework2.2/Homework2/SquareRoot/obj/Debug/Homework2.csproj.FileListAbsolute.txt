@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.2\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.2\Homework2\Homework2\bin\Debug\Homework2.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.2\Homework2\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.2\Homework2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.2\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework2.2\Homework2\Homework2\obj\Debug\Homework2.pdb

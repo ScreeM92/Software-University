@@ -1,0 +1,9 @@
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ExtractBit3\bin\Debug\ExtractBit3.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ExtractBit3\bin\Debug\ExtractBit3.pdb
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ExtractBit3\obj\Debug\9.2.ExtractBit3.csprojResolveAssemblyReference.cache
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ExtractBit3\obj\Debug\ExtractBit3.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\ExtractBit3\obj\Debug\ExtractBit3.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\ExtractBit3\obj\Debug\ExtractBit3.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\ExtractBit3\obj\Debug\ExtractBit3.pdb

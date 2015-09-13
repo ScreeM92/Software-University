@@ -1,0 +1,6 @@
+D:\Main\Telerik Academy\Homeworks\C# OOP\02.DefiningClasses\E11\bin\Debug\04 - FallDown.exe.config
+D:\Main\Telerik Academy\Homeworks\C# OOP\02.DefiningClasses\E11\bin\Debug\04 - FallDown.exe
+D:\Main\Telerik Academy\Homeworks\C# OOP\02.DefiningClasses\E11\bin\Debug\04 - FallDown.pdb
+D:\Main\Telerik Academy\Homeworks\C# OOP\02.DefiningClasses\E11\obj\Debug\04 - FallDown.exe
+D:\Main\Telerik Academy\Homeworks\C# OOP\02.DefiningClasses\E11\obj\Debug\04 - FallDown.pdb
+D:\Main\Telerik Academy\Homeworks\C# OOP\02.DefiningClasses\E11\obj\Debug\E11.csprojResolveAssemblyReference.cache

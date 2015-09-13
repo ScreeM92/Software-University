@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOfNNumbers\obj\Debug\SumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\Homework4\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework\4.Homework\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb

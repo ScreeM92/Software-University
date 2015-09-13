@@ -1,0 +1,5 @@
+apples: kiro 10, maria 2, steve 12
+bananas: kiro 4, maria 3
+whiskeys: nakov 3
+beers: alex 5, kiro 1, mimi 2, nakov 10
+vodkas: kiro 1

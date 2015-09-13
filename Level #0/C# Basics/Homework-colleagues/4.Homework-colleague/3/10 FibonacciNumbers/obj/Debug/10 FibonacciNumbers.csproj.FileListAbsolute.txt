@@ -1,0 +1,9 @@
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.exe.config
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.pdb
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.exe
+C:\Users\a\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\10 FibonacciNumbers\bin\Debug\10 FibonacciNumbers.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\10 FibonacciNumbers\obj\Debug\10 FibonacciNumbers.pdb

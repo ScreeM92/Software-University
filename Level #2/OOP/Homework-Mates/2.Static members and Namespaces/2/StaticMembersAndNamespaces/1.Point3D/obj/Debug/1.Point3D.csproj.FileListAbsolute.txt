@@ -1,0 +1,8 @@
+D:\software university\OOP\StaticMembersAndNamespaces\1.Point3D\bin\Debug\1.Point3D.exe.config
+D:\software university\OOP\StaticMembersAndNamespaces\1.Point3D\bin\Debug\1.Point3D.exe
+D:\software university\OOP\StaticMembersAndNamespaces\1.Point3D\bin\Debug\1.Point3D.pdb
+D:\software university\OOP\StaticMembersAndNamespaces\1.Point3D\obj\Debug\1.Point3D.exe
+D:\software university\OOP\StaticMembersAndNamespaces\1.Point3D\obj\Debug\1.Point3D.pdb
+D:\software university\OOP\Homework2\StaticMembersAndNamespaces\1.Point3D\bin\Debug\1.Point3D.exe.config
+D:\software university\OOP\Homework2\StaticMembersAndNamespaces\1.Point3D\obj\Debug\1.Point3D.exe
+D:\software university\OOP\Homework2\StaticMembersAndNamespaces\1.Point3D\obj\Debug\1.Point3D.pdb

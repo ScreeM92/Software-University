@@ -1,0 +1,2 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\2\PrintMyName\bin\Debug\PrintMyName.exe.config

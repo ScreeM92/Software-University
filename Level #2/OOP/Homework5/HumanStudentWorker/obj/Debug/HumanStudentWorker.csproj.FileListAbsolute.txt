@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\HumanStudentWorker\bin\Debug\HumanStudentWorker.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\HumanStudentWorker\obj\Debug\HumanStudentWorker.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework5\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb

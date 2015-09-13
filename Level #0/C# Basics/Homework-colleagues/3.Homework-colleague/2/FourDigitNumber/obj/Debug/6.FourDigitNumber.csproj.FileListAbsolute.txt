@@ -1,0 +1,9 @@
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\obj\Debug\6.FourDigitNumber.csprojResolveAssemblyReference.cache
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+c:\users\guest\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\OperatorsExpressionsAndStatementsHomework\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

@@ -1,0 +1,9 @@
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\bin\Debug\_1.PlayWithVisualStudio.exe.config
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\obj\Debug\1. PlayWithVisualStudio.csprojResolveAssemblyReference.cache
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\bin\Debug\_1.PlayWithVisualStudio.exe
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\bin\Debug\_1.PlayWithVisualStudio.pdb
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\obj\Debug\_1.PlayWithVisualStudio.exe
+c:\users\vvulevv\documents\visual studio 2013\Projects\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\obj\Debug\_1.PlayWithVisualStudio.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\bin\Debug\_1.PlayWithVisualStudio.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\obj\Debug\_1.PlayWithVisualStudio.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Първо домашно за оценяване\3\IntroductionToProgrammingHomework\1. PlayWithVisualStudio\obj\Debug\_1.PlayWithVisualStudio.pdb

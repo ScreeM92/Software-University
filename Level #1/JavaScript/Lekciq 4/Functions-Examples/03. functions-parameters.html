@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Functions - Parameters</title>
+</head>
+<body>
+	<script>
+		function printSign(number) {
+			if (number > 0) {
+				console.log('The number ' + number + ' is positive');
+			}
+			else if (number < 0) {
+				console.log('The number ' + number + ' is negative');
+			}
+			else {
+				console.log('The number is 0: ' + number);
+			}
+		}
+
+		function printMax(arr) {
+			var maxIndex = 0;
+			for (var i = 0; i < arr.length; i++) {
+				if (arr[maxIndex] < arr[i]) {
+					maxIndex = i;
+				}
+			}
+			console.log(arr[maxIndex] + ' is the max number in [' + arr.join(', ') + ']');
+		}
+		
+		var positiveMumber = 34;
+		var negativeNumber = -33;
+		var zeroNumber = 0;
+		printSign(positiveMumber);
+		printSign(negativeNumber);
+		printSign(zeroNumber);
+		
+		var numbers = [1, 2, 321, 23, 213, 333, 242, 121];				   			
+		printMax(numbers);
+	</script>
+</body>
+</html>

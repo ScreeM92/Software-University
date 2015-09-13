@@ -1,0 +1,1 @@
+E:\Programs\C#\Intro-Programming-Homework\Intro-Programming-Homework\PrintLongSequenceofNumbers\bin\Debug\PrintLongSequenceofNumbers.exe.config

@@ -1,0 +1,76 @@
+@media only screen and  (max-width: 900px){
+
+    /*Main*/
+    main{
+        padding: 20px 10px;
+    }
+
+    main > div, body main aside {
+        display: block;
+    }
+
+    body main > div > section, body main aside section {
+        margin: 0 auto 20px auto;
+        width: 90%;
+        padding: 0px 10px 10px;
+    }
+
+}
+
+@media only screen and  (max-width: 670px){
+
+    header .img-container div {
+        font-size: 200%;
+        font-weight: bold;
+        top: 4.5%;
+        left: 4.5%;
+    }
+
+    header nav .btn-menu{
+        display: block;
+    }
+
+    header nav{
+        position: relative;
+    }
+
+    header .menu li{
+        background: rgb(239, 239, 239); /* Old browsers */
+        background: -moz-linear-gradient(top, rgba(239, 239, 239, 1) 0%, rgba(221, 221, 221, 1) 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(239, 239, 239, 1)), color-stop(100%, rgba(221, 221, 221, 1))); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, rgba(239, 239, 239, 1) 0%, rgba(221, 221, 221, 1) 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, rgba(239, 239, 239, 1) 0%, rgba(221, 221, 221, 1) 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top, rgba(239, 239, 239, 1) 0%, rgba(221, 221, 221, 1) 100%); /* IE10+ */
+        background: linear-gradient(to bottom, rgba(239, 239, 239, 1) 0%, rgba(221, 221, 221, 1) 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#efefef', endColorstr='#dddddd', GradientType=0); /* IE6-9 */
+        border-bottom: solid 1px #fff;
+        display: block;
+    }
+
+    header .menu {
+        width: 100%;
+        display: none;
+        border-bottom: none;
+        position: absolute;
+        z-index: 999;
+    }
+
+    header nav:hover .menu{
+        display: block;
+    }
+
+    header .menu li a  {
+        display: block;
+        font-size: 1.8rem;
+        text-align: center;
+        border-right: none;
+    }
+
+    footer div{
+        padding-top: 30px;
+        padding-left: 0px;
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+}

@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\10.Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\10.Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\10.Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\10.Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\10.Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\10.Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

@@ -1,0 +1,12 @@
+C:\Users\n.velchev\Documents\OOP\Solution1\PCCatalog\bin\Debug\PCCatalog.exe.config
+C:\Users\n.velchev\Documents\OOP\Solution1\PCCatalog\obj\Debug\PCCatalog.csprojResolveAssemblyReference.cache
+C:\Users\n.velchev\Documents\OOP\Solution1\PCCatalog\bin\Debug\PCCatalog.exe
+C:\Users\n.velchev\Documents\OOP\Solution1\PCCatalog\bin\Debug\PCCatalog.pdb
+C:\Users\n.velchev\Documents\OOP\Solution1\PCCatalog\obj\Debug\PCCatalog.exe
+C:\Users\n.velchev\Documents\OOP\Solution1\PCCatalog\obj\Debug\PCCatalog.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\PCCatalog\bin\Debug\PCCatalog.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\PCCatalog\obj\Debug\PCCatalog.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\PCCatalog\obj\Debug\PCCatalog.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\PCCatalog\bin\Debug\PCCatalog.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\PCCatalog\bin\Debug\PCCatalog.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\1\PCCatalog\obj\Debug\PCCatalog.csprojResolveAssemblyReference.cache

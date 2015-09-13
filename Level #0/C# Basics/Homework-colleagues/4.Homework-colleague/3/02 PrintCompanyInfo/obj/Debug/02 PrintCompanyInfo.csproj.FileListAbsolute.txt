@@ -1,0 +1,8 @@
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\02 PrintCompanyInfo\bin\Debug\02 PrintCompanyInfo.exe.config
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\02 PrintCompanyInfo\bin\Debug\02 PrintCompanyInfo.exe
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\02 PrintCompanyInfo\bin\Debug\02 PrintCompanyInfo.pdb
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\02 PrintCompanyInfo\obj\Debug\02 PrintCompanyInfo.exe
+c:\users\a\documents\visual studio 2012\Projects\ConsoleInputOutput\02 PrintCompanyInfo\obj\Debug\02 PrintCompanyInfo.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\02 PrintCompanyInfo\bin\Debug\02 PrintCompanyInfo.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\02 PrintCompanyInfo\obj\Debug\02 PrintCompanyInfo.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\3\02 PrintCompanyInfo\obj\Debug\02 PrintCompanyInfo.pdb

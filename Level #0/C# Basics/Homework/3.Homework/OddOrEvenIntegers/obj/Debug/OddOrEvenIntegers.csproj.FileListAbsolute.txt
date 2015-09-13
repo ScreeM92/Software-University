@@ -1,0 +1,12 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.csprojResolveAssemblyReference.cache

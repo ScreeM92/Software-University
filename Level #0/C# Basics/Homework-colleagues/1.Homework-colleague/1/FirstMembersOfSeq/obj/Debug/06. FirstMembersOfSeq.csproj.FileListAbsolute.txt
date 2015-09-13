@@ -1,0 +1,8 @@
+E:\Programming\SoftUni\01. Intro\Intro\FirstMembersOfSeq\bin\Debug\FirstMembersOfSeq.exe.config
+E:\Programming\SoftUni\01. Intro\Intro\FirstMembersOfSeq\bin\Debug\FirstMembersOfSeq.exe
+E:\Programming\SoftUni\01. Intro\Intro\FirstMembersOfSeq\bin\Debug\FirstMembersOfSeq.pdb
+E:\Programming\SoftUni\01. Intro\Intro\FirstMembersOfSeq\obj\Debug\FirstMembersOfSeq.exe
+E:\Programming\SoftUni\01. Intro\Intro\FirstMembersOfSeq\obj\Debug\FirstMembersOfSeq.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\FirstMembersOfSeq\bin\Debug\FirstMembersOfSeq.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\FirstMembersOfSeq\obj\Debug\FirstMembersOfSeq.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\FirstMembersOfSeq\obj\Debug\FirstMembersOfSeq.pdb

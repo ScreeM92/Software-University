@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\3.Animals\obj\Debug\3.Animals.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\3.Animals\bin\Debug\3.Animals.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\3.Animals\bin\Debug\3.Animals.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\3.Animals\bin\Debug\3.Animals.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\3.Animals\obj\Debug\3.Animals.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\3.Animals\obj\Debug\3.Animals.pdb

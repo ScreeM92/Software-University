@@ -1,0 +1,9 @@
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\Level-2\05-OOP-Homework\02.Exception-HW\EnterNumbers\obj\Debug\EnterNumbers.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\3.Exception Handling\3\02.Exception-HW\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\3.Exception Handling\3\02.Exception-HW\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\3.Exception Handling\3\02.Exception-HW\EnterNumbers\obj\Debug\EnterNumbers.pdb

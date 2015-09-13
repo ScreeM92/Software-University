@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\OddOrEven\bin\Release\OddOrEven.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\OddOrEven\bin\Release\OddOrEven.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\OddOrEven\obj\Release\01. OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\OddOrEven\obj\Release\OddOrEven.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\OddOrEven\obj\Release\OddOrEven.pdb

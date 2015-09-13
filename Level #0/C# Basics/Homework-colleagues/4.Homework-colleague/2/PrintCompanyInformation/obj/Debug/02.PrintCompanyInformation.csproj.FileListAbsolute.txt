@@ -1,0 +1,2 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\2\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb

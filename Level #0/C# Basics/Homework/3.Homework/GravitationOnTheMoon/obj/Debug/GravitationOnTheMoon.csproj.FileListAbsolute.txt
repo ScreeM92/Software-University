@@ -1,0 +1,10 @@
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\Homework3\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+C:\Users\Работа сайт\Desktop\Homework\3.Homework\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb

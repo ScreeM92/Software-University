@@ -1,0 +1,9 @@
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\AnimalsMainClass\bin\Debug\AnimalsMainClass.exe
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\AnimalsMainClass\bin\Debug\AnimalsMainClass.pdb
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\AnimalsMainClass\bin\Debug\HumanStudentWorker.exe
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\AnimalsMainClass\bin\Debug\HumanStudentWorker.pdb
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\AnimalsMainClass\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\AnimalsMainClass\obj\Debug\AnimalsMainClass.exe
+D:\SoftUni\OOP\Homeworks\InheritanceAndAbstraction\AnimalsMainClass\obj\Debug\AnimalsMainClass.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\2\AnimalsMainClass\obj\Debug\AnimalsMainClass.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\7.Inheritance and Abstraction\2\AnimalsMainClass\obj\Debug\AnimalsMainClass.pdb

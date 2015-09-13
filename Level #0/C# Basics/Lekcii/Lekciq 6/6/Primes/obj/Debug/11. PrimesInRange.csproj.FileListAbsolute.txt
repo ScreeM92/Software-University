@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Primes\bin\Debug\Primes.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Primes\bin\Debug\Primes.pdb
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Primes\obj\Debug\11. PrimesInRange.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Primes\obj\Debug\Primes.exe
+C:\Users\Работа сайт\Desktop\Lekcii\Lekciq 6\6\Primes\obj\Debug\Primes.pdb

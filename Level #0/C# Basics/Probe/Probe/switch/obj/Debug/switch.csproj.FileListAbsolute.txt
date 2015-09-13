@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\switch\bin\Debug\@switch.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\switch\obj\Debug\switch.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Probe\Probe\switch\bin\Debug\@switch.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\switch\bin\Debug\@switch.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\switch\obj\Debug\@switch.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\switch\obj\Debug\@switch.pdb

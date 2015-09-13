@@ -1,0 +1,10 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\3.StudentClass\bin\Debug\3.StudentClass.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\3.StudentClass\bin\Debug\3.StudentClass.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\3.StudentClass\bin\Debug\3.StudentClass.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\3.StudentClass\obj\Debug\3.StudentClass.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2 - Дегагати и ивенти\Homework3\3.StudentClass\obj\Debug\3.StudentClass.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\3.StudentClass\bin\Debug\3.StudentClass.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\3.StudentClass\obj\Debug\3.StudentClass.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\3.StudentClass\obj\Debug\3.StudentClass.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\3.StudentClass\bin\Debug\3.StudentClass.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\2\Homework3\3.StudentClass\bin\Debug\3.StudentClass.pdb

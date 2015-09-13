@@ -1,0 +1,8 @@
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+c:\users\ralichka\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Четвърто домашно за оценяване\1\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

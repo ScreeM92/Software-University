@@ -1,0 +1,16 @@
+.movie{
+    color: black;
+    text-align: center;
+}
+.movie p{
+    margin-bottom: 15px;
+    text-align: left;
+
+}
+.img-movie{
+    float: left;
+}
+hr{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}

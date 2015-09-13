@@ -1,0 +1,4 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

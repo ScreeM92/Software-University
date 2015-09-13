@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Books Store</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.7.0/lodash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.2/handlebars.min.js"></script>
+    
+</head>
+<body>
+<div id="wrapper">
+    <textarea id="books-input">[{"book":"The Grapes of Wrath","author":"John Steinbeck","price":"34,24","language":"French"},
+{"book":"The Great Gatsby","author":"F. Scott Fitzgerald","price":"39,26","language":"English"},
+{"book":"Nineteen Eighty-Four","author":"George Orwell","price":"15,39","language":"English"},
+{"book":"Ulysses","author":"James Joyce","price":"23,26","language":"German"},
+{"book":"Lolita","author":"Vladimir Nabokov","price":"14,19","language":"German"},
+{"book":"Catch-22","author":"Joseph Heller","price":"47,89","language":"German"},
+{"book":"The Catcher in the Rye","author":"J. D. Salinger","price":"25,16","language":"English"},
+{"book":"Beloved","author":"Toni Morrison","price":"48,61","language":"French"},
+{"book":"Of Mice and Men","author":"John Steinbeck","price":"29,81","language":"Bulgarian"},
+{"book":"Animal Farm","author":"George Orwell","price":"38,42","language":"English"},
+{"book":"Finnegans Wake","author":"James Joyce","price":"29,59","language":"English"},
+{"book":"The Grapes of Wrath","author":"John Steinbeck","price":"42,94","language":"English"}]
+</textarea>
+    <div id="group">
+        <label>Group all books by</label>
+        <select id="group-by">
+            <option value="book">book</option>
+            <option value="author">author</option>
+            <option value="price">price</option>
+            <option value="language">language</option>
+        </select>
+        <label>and sort them by</label>
+        <select id="first-sort">
+            <option value="book">book</option>
+            <option value="author">author</option>
+            <option value="price">price</option>
+            <option value="language">language</option>
+        </select>
+        <select id="first-sort-type">
+            <option value="true">ascending</option>
+            <option value="false">descending</option>
+        </select>
+        <label>then by</label>
+        <select id="second-sort">
+            <option value="book">book</option>
+            <option value="author">author</option>
+            <option value="price">price</option>
+            <option value="language">language</option>
+        </select>
+        <select id="second-sort-type">
+            <option value="true">ascending</option>
+            <option value="false">descending</option>
+        </select>
+        <button>Get</button>
+
+    </div>
+    <hr/>
+
+    <div id="average-price">
+        <label>Get average book price for each author</label>
+        <button>Get</button>
+    </div>
+    <hr/>
+
+    <div id="language">
+        <label>Get all books in </label>
+        <input type="text" id="book-language" placeholder="language..."/>
+        <label>, with price</label>
+        <select id="price-type">
+            <option value="true">below</option>
+            <option value="false">over</option>
+        </select>
+        <input type="number" id="price" placeholder="price"/>
+        <label>and group them by author.</label>
+        <button>Get</button>
+    </div>
+    <hr/>
+
+    <div id="result"></div>
+</div>
+    <script src="scripts/bookStore.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+</html>

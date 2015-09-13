@@ -1,0 +1,18 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+/* header */
+#header{
+	background-color: #234465;
+	height: 100px;
+}
+#header ul ,li {
+	display: inline-block;
+}
+/* aside */
+body aside h4{
+    background-color: #234465;
+    color: #ffffff;
+    padding: 10px 0 10px 10px;
+}

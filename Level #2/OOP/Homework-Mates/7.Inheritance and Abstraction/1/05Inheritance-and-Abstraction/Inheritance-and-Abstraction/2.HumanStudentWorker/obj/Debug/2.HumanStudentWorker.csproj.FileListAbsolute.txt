@@ -1,0 +1,6 @@
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\2.HumanStudentWorker\obj\Debug\2.HumanStudentWorker.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\2.HumanStudentWorker\bin\Debug\2.HumanStudentWorker.exe.config
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\2.HumanStudentWorker\bin\Debug\2.HumanStudentWorker.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\2.HumanStudentWorker\bin\Debug\2.HumanStudentWorker.pdb
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\2.HumanStudentWorker\obj\Debug\2.HumanStudentWorker.exe
+C:\Users\Ivaylo.Il\Documents\GitHub\OOP\Homework\05Inheritance-and-Abstraction\Inheritance-and-Abstraction\2.HumanStudentWorker\obj\Debug\2.HumanStudentWorker.pdb

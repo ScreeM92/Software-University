@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.8Task\bin\Debug\3.8Task.exe.config
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.8Task\bin\Debug\3.8Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.8Task\bin\Debug\3.8Task.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.8Task\obj\Debug\3.8Task.exe
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.8Task\obj\Debug\3.8Task.pdb
+C:\Users\Работа сайт\Desktop\Изпитни задачи\3.8Task\obj\Debug\3.8Task.csprojResolveAssemblyReference.cache

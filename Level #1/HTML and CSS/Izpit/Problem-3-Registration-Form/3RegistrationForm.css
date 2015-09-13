@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial , Helvetica , sans-serif;
+    background-color: #f7f7f7;
+}
+#wrapper{
+    display: block;
+    margin: 0 auto;
+    width: 1100px;
+}
+#wrapper header h1{
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+#first, #second{
+    width: 550px;
+    padding-left: 5px;
+}
+#first legend, #second legend{
+    padding: 5px;
+    background-color: #686868;
+    color: white;
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+#form1 label{
+    padding: 7px 60px 7px 5px;
+    background-color: #cccccc;
+}
+#form1 #pass{
+    padding: 7px 62px 7px 5px;
+}
+#form1 input[type="text"], #form1 input[type="password"]{
+    height: 26px;
+    padding: 5px;
+    font-size: 15px;
+    padding-left: 22px;
+}
+#username{
+    width: 350px;
+    background-image: url("username-icon.png");
+    background-repeat: no-repeat;
+    background-position: 2px 3px;
+}
+#password{
+    background-image: url("password-icon.png");
+    background-repeat: no-repeat;
+    background-position: 2px 3px;
+}
+.all{
+    display: inline-block;
+    width: 385px;
+    background-color: #e6e6e6;
+    height: 33px;
+    padding: 3px;
+    margin-bottom: 2px;
+    position: relative;
+    bottom: 1px;
+}
+
+#password{
+    width: 350px;
+    padding: 5px;
+}
+#try1{
+    margin-bottom: 5px;
+}
+.last{
+    width: 386px;
+    border: 1px solid #e6e6e6;
+    margin-left: 140px;
+    background-color: white;
+    padding: 5px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+input[type="submit"]{
+    padding: 5px 15px 5px 15px;
+    background-color: #e3e3db;
+    font-weight: bold;
+    color: grey;
+    margin-left: 270px;
+}
+hr{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 549px;
+    border-top: 1px dashed #cccccc;
+    height: 1px;
+}
+#form2 label{
+    padding: 5px;
+    background-color: #cccccc;
+}
+#form2 #lb1{
+    padding-right: 90px;
+}
+#form2 #lb2{
+    padding-right: 82px;
+}
+#form2 #lb3{
+    padding-right: 105px;
+}
+#form2 #lb4{
+    padding-right: 79px;
+}
+fieldset{
+    border: 1px dashed #cccccc;
+}
+#form2 .inputAll{
+    width: 350px;
+}
+#form2 label{
+    padding: 7px;
+}
+
+#form2 input[type="text"]{
+    height: 26px;
+    padding: 5px;
+    font-size: 15px;
+    padding-left: 18px;
+}
+#form2 .last2{
+    margin-left: 142px;
+}
+.inputAll{
+    background-image: url("field-icon.png");
+    background-repeat: no-repeat;
+    background-position: -2px 3px;
+}
+main{
+    width: 560px;
+    float: left;
+}
+aside{
+    float: left;
+    width: 200px;
+    border: 1px solid lightgray;
+    background-color: white;
+    padding: 10px;
+    position: relative;
+    top: 11px;
+
+}
+aside p{
+    font-size: 11px;
+    margin-bottom: 10px;
+    color: gray;
+}
+aside h2{
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+input[type="submit"]:hover{
+    background-color: #cccccc;
+}
+input[type="text"]:focus{
+    background-color: #f7f5d2;
+}

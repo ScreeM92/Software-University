@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: Tahoma / Geneva / sans-serif;
+}
+section{
+    width: 330px;
+    border: 1px solid black;
+    margin: 5px;
+}
+article{
+    padding: 5px;
+}
+#first, #second, #third{
+    display: inline-block;
+}
+img{
+    float: left;
+    margin-right: 5px;
+}
+.heading{
+    font-size: 13px;
+    margin-top: -3px;
+}
+#heading1{
+    margin-right: 15px;
+}
+#heading2{
+    margin-right: 25px;
+}
+#heading3{
+    margin-right: 25px;
+}
+.time{
+    font-size: 10px;
+    color: #8d97b2;
+    font-weight: bold;
+}
+.text{
+    font-size: 12px;
+    margin-right: 5px;
+}
+#text2{
+    margin-right: 25px;
+}
+hr{
+    width: 265px;
+    margin-left: 5px;
+    border: 1px dashed #dfdfdf;
+}

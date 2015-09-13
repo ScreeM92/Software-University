@@ -1,0 +1,4 @@
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\PrimeCheck\bin\Release\PrimeCheck.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\PrimeCheck\bin\Release\PrimeCheck.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\PrimeCheck\obj\Release\PrimeCheck.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Трето домашно за оценяване\Operators-Expressions-Statements\PrimeCheck\obj\Release\PrimeCheck.pdb

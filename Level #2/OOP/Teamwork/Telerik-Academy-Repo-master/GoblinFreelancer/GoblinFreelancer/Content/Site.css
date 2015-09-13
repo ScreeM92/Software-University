@@ -1,0 +1,281 @@
+﻿body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+ }
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+/* styles for removing the background from form */
+.no-color {
+  background-color: white;
+  border-style:none;
+}
+
+.user-item strong {
+    color: #7c7c7c;
+}
+
+.edit-btn {
+    background-image: url('../img/pencil.png');
+    background-size: 12px;
+    background-repeat: no-repeat;
+    background-position: 5px 4px;
+    font-size:12pt;
+    font-weight: normal;
+    color: #57B8ED;
+}
+    .edit-btn a {
+        padding-left: 20px;
+    }
+.profile-page-username:hover {
+    background:#EAF5FF;
+}
+
+.hire-me-btn {
+    display:inline-block;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    background: #B4DFF1;
+    width: 190px;
+    border:1px solid #57B8ED;
+}
+
+    .hire-me-btn strong {
+        color:white;
+    }
+
+    .hire-me-btn:hover {
+        background: #d9f1fe;
+    }
+
+        .hire-me-btn:hover strong {
+            color: #555555;
+        }
+
+#skill-list {
+    padding:10px;
+}
+.skill-item {
+    cursor:default;margin-bottom: 5px;padding-right: 5px; padding-left: 5px;display:inline-block; 
+    height:40px;
+    vertical-align:top;
+    margin-bottom:10px;
+    
+}
+
+    .skill-item a {
+        display:none;color:white;background-color:teal;padding:2px;
+        margin-top:5px;
+        height:15px;
+        line-height:15px;
+        text-align:center;
+        text-decoration:none;
+    }
+
+#skill-list #selected-skill {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    font-size:16px;
+    line-height:normal;
+}
+
+    #skill-list #selected-skill a {
+        display:block;
+        font-size:10px;
+    }
+
+.span5 {
+    overflow:auto;
+    margin-bottom:20px;
+}
+
+/*CHAT STYLES*/
+
+.msg {
+    list-style-type: none;
+    width: 400px;
+    word-break: break-all;
+}
+
+    .msg .chat-sender {
+        font-size: 12pt;
+        font-weight: bold;
+        color: #7FBA00;
+    }
+
+    .msg .chat-sender-you {
+        font-size: 12pt;
+        font-weight: bold;
+        color: #8d8d8d;
+    }
+
+.chat-msg {
+    float:left;
+    display: inline-block;
+    word-wrap: break-word;
+    width: 300px;
+}
+.chat-post-date {
+    display: inline-block;
+    color: #8d8d8d;
+    float:right;
+    margin-right: 10px;
+}
+
+#messages {
+    border:2px solid #cfeeff;
+    width: 400px;
+    height: 350px;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    overflow:auto;
+    padding: 10px;
+}
+
+.chat-wrap textarea {
+    width: 300px;
+    resize: none;
+}
+
+#send-message {
+    display: inline-block;
+    
+    padding-bottom: 14px;
+    padding-top: 14px;
+    margin-top: -10px;
+    border-radius: 0;
+    width: 108px;
+}
+
+/*------------------------------*/
+
+/*-----Vote system styles----------*/
+
+.vote-stars {
+	display: inline-block;
+	margin: 0px;
+	padding: 0;
+}
+.vote-stars li{
+	margin: -4px;
+	padding: 0;
+}
+.full-star-img {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url('../img/star_full.png');
+	background-size: 20px 20px;
+}
+
+.empty-star-img {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url('../img/star_empty.png');
+	background-size: 20px 20px;
+	list-style-type: none;
+}
+
+/*-----------------------------*/
+
+/*------------User profile page----------------*/
+
+.user-profile-img {
+    width: 200px;
+    border:2px solid #57B8ED;
+    height: 200px; 
+    background-size:200px 200px; 
+    font-size: 72pt;
+}
+
+.user-profile-info {
+    display:inline-block;
+    margin-left:25px;
+    width: 200px;
+    height: 400px;
+    overflow: auto;
+    float:left;
+}
+
+.user-item {
+    padding:5px;
+    height:400px
+}
+
+.user-profile-reputation {
+    display:inline-block;
+    margin-left:25px;
+    border-left: 1px solid #eeeeee;
+    padding-left:25px
+}
+
+/*---------------------------------*/
+
+/*---------All users list---------------*/
+
+.users-list-item {
+    border:1px solid black;
+    padding: 5px;
+    max-height:250px;
+    overflow:auto
+}
+
+.users-list-img {
+    width: 100px;
+    border:1px solid gray;
+    height: 100px;
+    background-size:100px 100px; 
+    float: left
+}
+
+.users-list-info {
+    display:inline-block;
+    margin-left:5px;
+}
+
+.users-list {
+    list-style-type:none; 
+    padding:10px;
+}
+
+/*------------------------*/
+
+/*Projects ------------*/
+
+#my-projects-hire {
+   
+}
+
+#my-projects td,
+#my-projects th {
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+/*--------------------------*/

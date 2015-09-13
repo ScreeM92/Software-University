@@ -1,0 +1,46 @@
+﻿* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 500px;
+    font-size: 20px;
+}
+
+h3 {
+    margin-bottom: 5px;
+}
+
+.checked {
+    color: red;
+}
+
+.correct {
+    color: rgb(4, 181, 4) !important;
+}
+
+button {
+    display: inline-block;
+    background: #3C3C3C;
+    color: #fff;
+    font-size: .7em;
+    border: none;
+    width: 7em;
+    height: 2em;
+    outline: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background: #E90606;
+}
+
+#timer {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: rgb(6, 158, 49);
+    margin-right: 10px;
+}

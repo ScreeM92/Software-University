@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Diablo.Data", "Diablo.Data\01. Diablo.Data.csproj", "{632AEFD4-4058-4746-BD36-5A0FC8008076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CharactersAndPlayers", "CharactersAndPlayers\02. CharactersAndPlayers.csproj", "{26B2B404-5E68-48B5-94AE-F98E5352AF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. XmlFinishedGames", "XmlFinished Games\03. XmlFinishedGames.csproj", "{0533680B-4573-40BD-BFB9-89319D8BECAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. ImportUsersAndTheirGames", "ImportUsersAndTheirGames\04. ImportUsersAndTheirGames.csproj", "{CCF10658-D02C-4DF1-BCC1-07D44349EB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Movies.Data", "Movies.Data\05. Movies.Data.csproj", "{B34EA7FA-D29F-4F79-A585-942A74246A4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. DatabaseQueries", "DatabaseQueries\06. DatabaseQueries.csproj", "{C730FD5B-6073-4CF8-9C52-A4D290E7922F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632AEFD4-4058-4746-BD36-5A0FC8008076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632AEFD4-4058-4746-BD36-5A0FC8008076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632AEFD4-4058-4746-BD36-5A0FC8008076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632AEFD4-4058-4746-BD36-5A0FC8008076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B2B404-5E68-48B5-94AE-F98E5352AF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B2B404-5E68-48B5-94AE-F98E5352AF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B2B404-5E68-48B5-94AE-F98E5352AF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B2B404-5E68-48B5-94AE-F98E5352AF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0533680B-4573-40BD-BFB9-89319D8BECAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0533680B-4573-40BD-BFB9-89319D8BECAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0533680B-4573-40BD-BFB9-89319D8BECAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0533680B-4573-40BD-BFB9-89319D8BECAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF10658-D02C-4DF1-BCC1-07D44349EB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF10658-D02C-4DF1-BCC1-07D44349EB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF10658-D02C-4DF1-BCC1-07D44349EB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF10658-D02C-4DF1-BCC1-07D44349EB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34EA7FA-D29F-4F79-A585-942A74246A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34EA7FA-D29F-4F79-A585-942A74246A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34EA7FA-D29F-4F79-A585-942A74246A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34EA7FA-D29F-4F79-A585-942A74246A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C730FD5B-6073-4CF8-9C52-A4D290E7922F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C730FD5B-6073-4CF8-9C52-A4D290E7922F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C730FD5B-6073-4CF8-9C52-A4D290E7922F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C730FD5B-6073-4CF8-9C52-A4D290E7922F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

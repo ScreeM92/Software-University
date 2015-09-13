@@ -1,0 +1,8 @@
+E:\Programming\SoftUni\01. Intro\Intro\FormatCode\bin\Debug\FormatCode.exe.config
+E:\Programming\SoftUni\01. Intro\Intro\FormatCode\bin\Debug\FormatCode.exe
+E:\Programming\SoftUni\01. Intro\Intro\FormatCode\bin\Debug\FormatCode.pdb
+E:\Programming\SoftUni\01. Intro\Intro\FormatCode\obj\Debug\FormatCode.exe
+E:\Programming\SoftUni\01. Intro\Intro\FormatCode\obj\Debug\FormatCode.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\FormatCode\bin\Debug\FormatCode.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\FormatCode\obj\Debug\FormatCode.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\FormatCode\obj\Debug\FormatCode.pdb

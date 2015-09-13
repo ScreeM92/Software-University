@@ -1,0 +1,5 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Keep-the-Object-State\bin\Debug\Keep-the-Object-State.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Keep-the-Object-State\bin\Debug\Keep-the-Object-State.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Keep-the-Object-State\obj\x86\Debug\6. Protect the Object State.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Keep-the-Object-State\obj\x86\Debug\Keep-the-Object-State.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Lekciq1\Demo\Keep-the-Object-State\obj\x86\Debug\Keep-the-Object-State.pdb

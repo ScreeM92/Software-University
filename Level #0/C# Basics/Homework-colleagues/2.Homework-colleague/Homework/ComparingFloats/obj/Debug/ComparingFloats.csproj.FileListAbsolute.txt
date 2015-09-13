@@ -1,0 +1,12 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache

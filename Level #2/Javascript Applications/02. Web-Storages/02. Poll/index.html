@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Poll</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <script src="js/jquery-2.1.3.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <span id="timer"></span>
+    <button id="clear">Clear timer</button>
+    <div id="question-1">
+        <h3>Which is the capital of Bulgaria?</h3>
+        <input type="radio" id="q1-a1" class="answer" name="question-1" value="Plovdiv" />
+        <label for="q1-a1">Plovdiv</label><br/>
+        <input type="radio" id="q1-a2" class="answer" name="question-1" value="Sofia"/>
+        <label for="q1-a2">Sofia</label><br />
+        <input type="radio" id="q1-a3" class="answer" name="question-1" value="Prague"/>
+        <label for="q1-a3">Prague</label><br />
+        <input type="radio" id="q1-a4" class="answer" name="question-1" value="Berlin"/>
+        <label for="q1-a4">Berlin</label><br />
+    </div>
+
+    <div id="question-2">
+        <h3>What is RAM?</h3>
+        <input type="radio" id="q2-a1" class="answer" name="question-2" value="Random access module" />
+        <label for="q2-a1">Random access module</label><br />
+        <input type="radio" id="q2-a2" class="answer" name="question-2" value="RnB Band"/>
+        <label for="q2-a2">RnB Band"</label><br />
+        <input type="radio" id="q2-a3" class="answer" name="question-2" value="Random access memory"/>
+        <label for="q2-a3">Random access memory</label><br />
+        <input type="radio" id="q2-a4" class="answer" name="question-2" value="Other"/>
+        <label for="q2-a4">Other</label><br />
+    </div>
+
+    <div id="question-3">
+        <h3>Whick is the best in the history of tennis?</h3>
+        <input type="radio" id="q3-a1" class="answer" name="question-3" value="Rafael Nadal" />
+        <label for="q3-a1">Rafael Nadal</label><br/>
+        <input type="radio" id="q3-a2" class="answer" name="question-3" value="Grigor Dimitrov"/>
+        <label for="q3-a2">Grigor Dimitrov</label><br/>
+        <input type="radio" id="q3-a3" class="answer" name="question-3" value="Kaka Ginka"/>
+        <label for="q3-a3">Kaka Ginka</label><br/>
+        <input type="radio" id="q3-a4" class="answer" name="question-3" value="Svetlin Nakov"/>
+        <label for="q3-a4">Svetlin Nakov</label><br/>
+    </div>
+
+    <button id="submit">Submit</button>
+    <p id="result"></p>
+</div>
+    <script src="js/poll.js"></script>
+</body>
+</html>

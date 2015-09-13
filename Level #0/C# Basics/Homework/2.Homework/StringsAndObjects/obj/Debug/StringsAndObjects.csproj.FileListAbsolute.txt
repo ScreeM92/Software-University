@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\7.Homework\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\7.Homework\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\7.Homework\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\7.Homework\StringsAndObjects\obj\Debug\StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\7.Homework\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\7.Homework\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

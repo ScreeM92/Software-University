@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\Probe\Probe\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Работа сайт\Desktop\Probe\Probe\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\Работа сайт\Desktop\Probe\Probe\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Probe\Probe\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Работа сайт\Desktop\Probe\Probe\OddOrEven\obj\Debug\OddOrEven.pdb

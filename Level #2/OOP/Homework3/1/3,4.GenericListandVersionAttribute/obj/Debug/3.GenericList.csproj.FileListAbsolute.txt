@@ -1,0 +1,6 @@
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\3.GenericList\bin\Debug\3.GenericList.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\3.GenericList\bin\Debug\3.GenericList.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\3.GenericList\bin\Debug\3.GenericList.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\3.GenericList\obj\Debug\3.GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\3.GenericList\obj\Debug\3.GenericList.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework3\3.GenericList\obj\Debug\3.GenericList.pdb

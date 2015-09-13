@@ -1,0 +1,68 @@
+<!-- <pagination total-items="count({{news.length}})" ng-model="newsParams.startPage" 
+    items-per-page="newsParams.pageSize" ng-change="reloadNews()"
+    max-size="9" boundary-links="true">
+<! </pagination> -->
+
+<div ng-if="authService.isLoggedIn()">
+    <ul class="home">
+        <h1 style="font-size: 5em">News Feed</h1>
+    </ul>
+    <div ng-if="news.length==0" class="box no-data">
+        No news found.
+    </div>
+    <div ng-if="news.length > 0" class="box data">
+        <ul class="ads">
+            <li ng-repeat="new in news" class="box" data-id="{{new.id}}">
+                <div>
+                    <span ng-if='new.author.profileImageData'>
+                        <img class="ad-image" ng-src="{{new.author.profileImageData}}" />
+                        </br>
+                    </span>
+
+                    <span id="usernamePost">{{new.author.name}}</span>
+                    <span>, {{new.date | date:'dd MMM yyyy HH:MM:ss'}}</span>
+                </div>
+                <h3><strong>{{new.postContent}}</strong></h3>
+                <span>Likes: {{new.likesCount}}</span>
+                <h3>Comments: </h3>
+                <div ng-if="new.comments.length==0" class="box no-data">
+                    No comments found.
+                </div>
+                <ul>
+                    <li ng-repeat="comment in new.comments">
+                        <div>
+                        <span ng-if='comment.author.profileImageData'>
+                            <img class="ad-image" ng-src="{{comment.author.profileImageData}}" />
+                            </br>
+                        </span>
+
+                        <span id="usernameComment">{{comment.author.name}}</span>
+                        <span>, {{comment.date | date:'dd MMM yyyy HH:MM:ss'}}</span> 
+                        </div>
+                        <h3><strong>{{comment.commentContent}}</strong></h3>
+                        <span>Likes: {{comment.likesCount}}</span>
+                         
+                    </li>
+                </ul>
+                <div>
+                    <textarea ng-model="text" placeholder="Comment" id="postComment"></textarea> 
+                    <a id="btn-comment" ng-click="commentPost(text, new.id)" class="button">Comment</a>
+                </div>
+
+                </div>
+                <!--<div ng-if="authService.isAdmin()"><strong>Status:</strong> {{ad.status}}</div>--> 
+
+                <!--<div ng-if="authService.isAdmin()">-->
+                    <!--<span ng-click="approveAd(ad)" ng-if="ad.status != 'Published'" class="button">Approve</span>-->
+                    <!--<span ng-click="rejectAd(ad)" ng-if="ad.status != 'Rejected'" class="button">Reject</span>-->
+                    <!--<span class="button">Edit</span>-->
+                    <!--<span ng-click="deleteAd(ad)" class="button">Delete</span>-->
+                <!--</div>-->
+            </li>
+        </ul>
+    </div>
+    <pagination total-items="news.length" ng-model="newsParams.startPage"
+            items-per-page="newsParams.pageSize" ng-change="reloadNews()"
+            max-size="9" boundary-links="true">
+    </pagination>
+</div>

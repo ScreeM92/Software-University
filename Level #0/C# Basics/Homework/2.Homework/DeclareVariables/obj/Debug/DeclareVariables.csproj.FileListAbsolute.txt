@@ -1,0 +1,9 @@
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework2\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework2\DeclareVariables\bin\Debug\DeclareVariables.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework2\DeclareVariables\bin\Debug\DeclareVariables.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework2\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework2\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\Homework2\DeclareVariables\obj\Debug\DeclareVariables.pdb
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\DeclareVariables\obj\Debug\DeclareVariables.exe
+C:\Users\Работа сайт\Desktop\Homework\2.Homework\DeclareVariables\obj\Debug\DeclareVariables.pdb

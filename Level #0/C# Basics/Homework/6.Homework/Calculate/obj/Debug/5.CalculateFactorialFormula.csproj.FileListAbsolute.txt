@@ -1,0 +1,3 @@
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\Calculate\obj\Debug\Calculate.exe
+C:\Users\Работа сайт\Desktop\Homework\6.Homework\Calculate\obj\Debug\Calculate.pdb

@@ -1,0 +1,9 @@
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Techobg\documents\visual studio 2013\Projects\Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Работа сайт\Desktop\Homework-softuni\Второ домашно за оценяване\Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

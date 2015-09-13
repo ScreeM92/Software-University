@@ -1,0 +1,6 @@
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe.config
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\CheckForPlayCard\bin\Debug\CheckForPlayCard.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\CheckForPlayCard\bin\Debug\CheckForPlayCard.pdb
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\CheckForPlayCard\obj\Debug\CheckForPlayCard.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\CheckForPlayCard\obj\Debug\CheckForPlayCard.exe
+c:\users\ace\documents\visual studio 2013\Projects\ConsoleApplication6\CheckForPlayCard\obj\Debug\CheckForPlayCard.pdb

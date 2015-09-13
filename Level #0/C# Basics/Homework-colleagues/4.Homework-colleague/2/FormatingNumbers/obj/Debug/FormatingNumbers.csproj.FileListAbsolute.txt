@@ -1,0 +1,5 @@
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FormatingNumbers\bin\Debug\FormatingNumbers.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FormatingNumbers\bin\Debug\FormatingNumbers.pdb
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FormatingNumbers\obj\Debug\FormatingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FormatingNumbers\obj\Debug\FormatingNumbers.exe
+C:\Users\kids\Desktop\Software University\Howework\1.C#Basics\4.Console-Input-Output-Homework\Console-I-O-Homework\FormatingNumbers\obj\Debug\FormatingNumbers.pdb

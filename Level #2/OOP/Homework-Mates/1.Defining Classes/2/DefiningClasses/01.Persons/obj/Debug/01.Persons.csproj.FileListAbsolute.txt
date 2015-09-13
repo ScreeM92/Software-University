@@ -1,0 +1,15 @@
+D:\xampp\htdocs\SoftwareUniversity\DefiningClasses\01.Persons\bin\Debug\01.Persons.exe.config
+D:\xampp\htdocs\SoftwareUniversity\DefiningClasses\01.Persons\bin\Debug\01.Persons.exe
+D:\xampp\htdocs\SoftwareUniversity\DefiningClasses\01.Persons\bin\Debug\01.Persons.pdb
+D:\xampp\htdocs\SoftwareUniversity\DefiningClasses\01.Persons\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache
+D:\xampp\htdocs\SoftwareUniversity\DefiningClasses\01.Persons\obj\Debug\01.Persons.exe
+D:\xampp\htdocs\SoftwareUniversity\DefiningClasses\01.Persons\obj\Debug\01.Persons.pdb
+D:\xampp\htdocs\DefiningClasses\01.Persons\bin\Debug\01.Persons.exe.config
+D:\xampp\htdocs\DefiningClasses\01.Persons\obj\Debug\01.Persons.exe
+D:\xampp\htdocs\DefiningClasses\01.Persons\obj\Debug\01.Persons.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\01.Persons\bin\Debug\01.Persons.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\01.Persons\obj\Debug\01.Persons.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\01.Persons\obj\Debug\01.Persons.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\01.Persons\bin\Debug\01.Persons.exe
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\01.Persons\bin\Debug\01.Persons.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\1.Defining Classes\2\DefiningClasses\01.Persons\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache

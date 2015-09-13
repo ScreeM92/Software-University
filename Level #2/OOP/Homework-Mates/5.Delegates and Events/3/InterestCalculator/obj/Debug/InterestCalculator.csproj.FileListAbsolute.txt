@@ -1,0 +1,8 @@
+c:\users\chjk\documents\visual studio 2013\Projects\Homework-Delegates-And-Events\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+c:\users\chjk\documents\visual studio 2013\Projects\Homework-Delegates-And-Events\InterestCalculator\obj\Debug\InterestCalculator.csprojResolveAssemblyReference.cache
+c:\users\chjk\documents\visual studio 2013\Projects\Homework-Delegates-And-Events\InterestCalculator\bin\Debug\InterestCalculator.exe
+c:\users\chjk\documents\visual studio 2013\Projects\Homework-Delegates-And-Events\InterestCalculator\bin\Debug\InterestCalculator.pdb
+c:\users\chjk\documents\visual studio 2013\Projects\Homework-Delegates-And-Events\InterestCalculator\obj\Debug\InterestCalculator.exe
+c:\users\chjk\documents\visual studio 2013\Projects\Homework-Delegates-And-Events\InterestCalculator\obj\Debug\InterestCalculator.pdb
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\5.Delegates and Events\3\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\5.Delegates and Events\3\InterestCalculator\obj\Debug\InterestCalculator.exe

@@ -1,0 +1,2 @@
+F:\trunk\02.StaticMembersAndNamespaces\Ex01.Point3D\bin\Debug\StaticMembersAndNamespaces.exe.config
+C:\Users\Работа сайт\Desktop\SoftUni\OOP\Homework-Mates\2.Static members and Namespaces\3\02.StaticMembersAndNamespaces\Ex01.Point3D\bin\Debug\StaticMembersAndNamespaces.exe.config
