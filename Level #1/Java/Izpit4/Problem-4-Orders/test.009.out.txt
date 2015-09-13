@@ -1,0 +1,12 @@
+manjas: mimi 106, steve 8
+beers: alex 23, didi 235, kiki 8, kiro 1, megy 20, mimi 26, nakov 50, steve 103, tzeko 2
+rakiyas: alex 7, kiro 201
+vodkas: didi 47, kiro 25, maria 3, steve 88
+apples: karamfilov 2, kiro 12, kurtev 38, maria 29, pinko 82, steve 356
+bananas: kiro 18, maria 53, mary 14, penko 33
+balls: derimadarov 46, maria 3, nakov 23, steve 88
+whiskeys: kiro 3, nakov 50
+kiftaks: kiro 4, mango 1, vladi 63
+salads: didi 59
+pizzas: kiro 19, mary 99, steve 47
+salams: maria 2

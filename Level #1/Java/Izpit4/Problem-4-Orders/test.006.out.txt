@@ -1,0 +1,1 @@
+apples: alex 7, kiki 8, kiro 336, maria 15, mary 100, megy 20, mimi 6, nakov 19, penko 3, steve 136, unufri 2, zagi 1

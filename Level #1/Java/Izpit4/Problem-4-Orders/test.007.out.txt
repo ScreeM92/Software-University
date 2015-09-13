@@ -1,0 +1,6 @@
+whiskeys: nakov 15
+apples: nakov 348
+bananas: nakov 214
+beers: nakov 240
+vodkas: nakov 3
+rakiyas: nakov 3

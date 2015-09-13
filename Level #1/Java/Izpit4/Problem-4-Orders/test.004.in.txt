@@ -1,0 +1,16 @@
+15
+steve 8 apples
+maria 3 bananas
+kiro 3 bananas
+kiro 9 apples
+maria 2 apples
+steve 4 apples
+kiro 1 bananas
+kiro 1 apples
+nakov 3 whiskeys
+kiro 1 beers
+mimi 2 beers
+alex 4 beers
+alex 1 beers
+kiro 1 vodkas
+nakov 10 beers

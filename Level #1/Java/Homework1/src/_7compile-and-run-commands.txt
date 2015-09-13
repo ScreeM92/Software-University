@@ -1,0 +1,3 @@
+C:\Users\Работа сайт>javac \Users\Работа сайт\Desktop\Homework1\src\_6SumTwoNumb
+ers.java
+C:\Users\Работа сайт>j\Desktop\Homework1\src\_6SumTwoNumbers

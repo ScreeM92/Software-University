@@ -1,0 +1,7 @@
+1 beers
+1 stacks
+2 beers
+10 beers
+15 beers
+2 stacks
+End

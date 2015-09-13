@@ -1,0 +1,10 @@
+...F...
+..GAB..
+.CDEFG.
+ABCDEFG
+.ABCDE.
+..FGA..
+...B...
+...C...
+..DEF..
+.GABCD.

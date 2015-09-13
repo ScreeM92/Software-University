@@ -1,0 +1,17 @@
+...C...
+..DEF..
+.GABCD.
+EFGABCD
+.EFGAB.
+..CDE..
+...F...
+...G...
+..ABC..
+.DEFGA.
+BCDEFGA
+.BCDEF.
+..GAB..
+...C...
+...D...
+..EFG..
+.ABCDE.
